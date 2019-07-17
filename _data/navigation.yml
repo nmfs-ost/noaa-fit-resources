@@ -27,6 +27,8 @@ docs:
       - title: "Code Documentation"
         url: /best-practices/code-documentation
       - title: "Badging"
+        url: /best-practices/code-testing
+      - title: "Badging"
         url: /onboarding/badging-overview
 
   - title: "User Resources"
