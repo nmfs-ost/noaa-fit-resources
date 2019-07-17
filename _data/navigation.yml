@@ -30,6 +30,8 @@ docs:
         url: /best-practices/code-testing
       - title: "Badging"
         url: /onboarding/badging-overview
+      - title: "Backwards Compatibility"
+        url: /onboarding/backwards-compatibility
 
   - title: "User Resources"
     children:
