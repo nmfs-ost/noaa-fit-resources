@@ -26,7 +26,7 @@ docs:
         url: /best-practices/best-practices-version-control
       - title: "Code Documentation"
         url: /best-practices/code-documentation
-      - title: "Badging"
+      - title: "Testing"
         url: /best-practices/code-testing
       - title: "Badging"
         url: /onboarding/badging-overview
