@@ -31,23 +31,25 @@ docs:
       - title: "Badging"
         url: /onboarding/badging-overview
       - title: "Backwards Compatibility"
-        url: /onboarding/backwards-compatibility
+        url: /best-practices/backwards-compatibility
+        - title: "Code Review"
+        url: /best-practices/code-review
 
-  - title: "User Resources"
-    children:
-      - title: "Available Tools"
-      #   url: /docs/onboarding/
-      - title: "Using Github for downloading"
-      #   url: /docs/onboarding/
-      - title: "Overview of tool verification"
-       #   url: /docs/onboarding/
-      - title: "Trainings"
-      #   url: /docs/onboarding/
+  # - title: "User Resources"
+  #   children:
+  #     - title: "Available Tools"
+  #     #   url: /docs/onboarding/
+  #     - title: "Using Github for downloading"
+  #     #   url: /docs/onboarding/
+  #     - title: "Overview of tool verification"
+  #      #   url: /docs/onboarding/
+  #     - title: "Trainings"
+  #     #   url: /docs/onboarding/
 
-  - title: "Contacts"
-    children:
-      - title:  "Fisheries Integrated Toolbox"
-        url:
+  # - title: "Contacts"
+  #   children:
+  #     - title:  "Fisheries Integrated Toolbox"
+  #       url:
   - title: "Search"
     children:
       - title: "tags"
