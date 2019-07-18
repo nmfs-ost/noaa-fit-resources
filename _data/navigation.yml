@@ -32,7 +32,7 @@ docs:
         url: /onboarding/badging-overview
       - title: "Backwards Compatibility"
         url: /best-practices/backwards-compatibility
-        - title: "Code Review"
+      - title: "Code Review"
         url: /best-practices/code-review
 
   # - title: "User Resources"
