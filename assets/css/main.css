@@ -902,9 +902,7 @@ nav {
 .nav_list_cjb a:hover, .nav_list_cjb a:focus{
   text-decoration: underline;
 }
-.nav_list_cjb:before{
-    content: &#126;
-}
+
 
 /*
    Global animation transition

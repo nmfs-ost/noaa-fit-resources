@@ -18,21 +18,21 @@ docs:
     children:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
-      - title: "Onboarding Procedures"
+      - title: "~ Onboarding Procedures"
         url: /onboarding/overview
-      - title: "Version Control"
+      - title: "~ Version Control"
         url: /onboarding/version-control
-      - title: "Version Control Best Practices"
+      - title: "~ Version Control Best Practices"
         url: /best-practices/best-practices-version-control
-      - title: "Code Documentation"
+      - title: "~ Code Documentation"
         url: /best-practices/code-documentation
-      - title: "Code Review"
+      - title: "~ Code Review"
         url: /best-practices/code-review
-      - title: "Testing"
+      - title: "~ Testing"
         url: /best-practices/code-testing
-      - title: "Badging"
+      - title: "~ Badging"
         url: /onboarding/badging-overview
-      - title: "Backwards Compatibility"
+      - title: "~ Backwards Compatibility"
         url: /best-practices/backwards-compatibility
 
 
