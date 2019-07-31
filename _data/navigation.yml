@@ -11,7 +11,7 @@
 docs:
   - title: "General"
     children:
-      - title: "FAQ about FIT"
+      - title: "~ FAQ about FIT"
         url: /about/
 
   - title: "Developer Resources"
@@ -53,10 +53,9 @@ docs:
   #       url:
   - title: "Search"
     children:
-      - title: "tags"
+      - title: "~ Tags"
         url: /tags/
-      - title: "general search"
-        url:
+
 
 
 # main:

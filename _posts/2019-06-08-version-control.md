@@ -85,7 +85,7 @@ gi config user.email
 
 For more information on setting up configuration files on your computer for multiple accounts:
 - [Git Config Files using a folder structure](https://www.motowilliams.com/conditional-includes-for-git-config)
-- [Windows MAchine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
+- [Windows Machine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
 
