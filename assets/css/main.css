@@ -895,6 +895,16 @@ nav {
   nav li ul,
   nav li ol {
     margin-top: 0; }
+.nav_list_cjb{
+  font-size: 12px;
+  text-decoration: none;
+  }
+.nav_list_cjb a:hover, .nav_list_cjb a:focus{
+  text-decoration: underline;
+}
+.nav_list_cjb:before{
+    content: &#126;
+}
 
 /*
    Global animation transition
