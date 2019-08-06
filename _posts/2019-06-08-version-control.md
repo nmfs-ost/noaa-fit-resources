@@ -64,9 +64,9 @@ We will focus on the use of GitHub herein.
 - Note: it is good practice that your GitHub user name for NOAA is FirstLast-NOAA which clearly identifies it as an NOAA linked account versus a personal account}
 2. Repository specific:
 - a. only allowing write access to NOAA users
-- b. all non-NOAA users can only have push access
-- c. Must include a disclaimer in the README ( see the checklist)
-- d. must include specific wording in Licence. ( see the checklist)
+- b. all non-NOAA users can only have pull-request access
+- c. must include a disclaimer in the README ( see the checklist)
+- d. must include specific wording in License ( see the checklist)
 - e. must have a "gold standard" backup of the repo
 
 
