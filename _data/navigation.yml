@@ -34,6 +34,8 @@ docs:
         url: /onboarding/badging-overview
       - title: "~ Backwards Compatibility"
         url: /best-practices/backwards-compatibility
+      - title: "~ Reproducibility"
+        url: /best-practices/reproducibile
 
 
   # - title: "User Resources"
