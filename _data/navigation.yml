@@ -38,16 +38,10 @@ docs:
         url: /best-practices/reproducibile
 
 
-  # - title: "User Resources"
-  #   children:
-  #     - title: "Available Tools"
-  #     #   url: /docs/onboarding/
-  #     - title: "Using Github for downloading"
-  #     #   url: /docs/onboarding/
-  #     - title: "Overview of tool verification"
-  #      #   url: /docs/onboarding/
-  #     - title: "Trainings"
-  #     #   url: /docs/onboarding/
+  - title: "Workshops and Trainings"
+    children:
+      - title: "~ NSAW GIT Training"
+        url: /workshops/NSAW-GIT-Training/
 
   # - title: "Contacts"
   #   children:
