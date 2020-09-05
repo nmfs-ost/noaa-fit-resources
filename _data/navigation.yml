@@ -36,6 +36,9 @@ docs:
         url: /best-practices/backwards-compatibility
       - title: "~ Reproducibility"
         url: /best-practices/reproducibile
+      - title: "~ Cloud Resources"
+        url: /cloud
+
 
 
   - title: "Workshops and Trainings"
