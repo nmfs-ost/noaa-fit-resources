@@ -47,6 +47,8 @@ docs:
     children:
       - title: "~ NSAW GIT Training"
         url: /workshops/NSAW-GIT-Training/
+      - title: "~ NOAA Library Stock Assessment Science Seminar Series"
+        url: /workshops/library-seminars/
 
   # - title: "Contacts"
   #   children:
