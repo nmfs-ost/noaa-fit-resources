@@ -1,7 +1,7 @@
 ---
 title: "Stock Assessment Workshops and Trainings"
-excerpt: "Intro to Git and Github"
-date: 2020-02-10
+excerpt: "Stock Assessment Workshops and Trainings"
+date: 2021-06-01
 toc: true
 categories:
   - workshops
