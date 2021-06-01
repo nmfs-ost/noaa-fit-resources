@@ -9,29 +9,34 @@
 #     url: /about/
 
 docs:
-  - title: "General"
+  - title: "Fish and Fisheries"
     children:
-      - title: "~ FAQ about FIT"
-        url: /about/
+      - title: "~ General Stock Assessment Information"
+        url: /workshops/stock-assessment-info/
+      - title: "~ NOAA Library Stock Assessment Science Seminar Series"
+        url: /workshops/library-seminars/
+      - title: "~ Stock Assessment Workshops and Trainings"
+        url: /workshops/workshops-trainings/
+      - title: "~ Code Vignettes"
+        url: /workshops/code-vignettes/
+
+  - title: "Protected Species"
+    children:
+
+  - title: "Human Dimensions"
+    children:
+
+  - title: "Ecosystems"
+    children:
 
   - title: "Developer Resources"
     children:
-      # - title: "Onboarding Procedures"
-      #   url: /docs/onboarding/
-      - title: "~ Onboarding Procedures"
-        url: /onboarding/overview
-      - title: "~ Version Control"
-        url: /onboarding/version-control
-      - title: "~ Version Control Best Practices"
-        url: /best-practices/best-practices-version-control
       - title: "~ Code Documentation"
         url: /best-practices/code-documentation
       - title: "~ Code Review"
         url: /best-practices/code-review
       - title: "~ Testing"
         url: /best-practices/code-testing
-      - title: "~ Badging"
-        url: /onboarding/badging-overview
       - title: "~ Backwards Compatibility"
         url: /best-practices/backwards-compatibility
       - title: "~ Reproducibility"
@@ -41,14 +46,20 @@ docs:
       - title: "~ Object-Oriented Programming"
         url: /object-oriented-r
 
-
-
-  - title: "Workshops and Trainings"
+  - title: "General"
     children:
-      - title: "~ NSAW GIT Training"
-        url: /workshops/NSAW-GIT-Training/
-      - title: "~ NOAA Library Stock Assessment Science Seminar Series"
-        url: /workshops/library-seminars/
+      # - title: "Onboarding Procedures"
+      #   url: /docs/onboarding/
+      - title: "~ Onboarding Procedures"
+        url: /onboarding/overview
+      - title: "~ Version Control"
+        url: /onboarding/version-control
+      - title: "~ Version Control Best Practices"
+        url: /best-practices/best-practices-version-control
+      - title: "~ Badging"
+        url: /onboarding/badging-overview
+      - title: "~ FAQ"
+        url: /about/
 
   # - title: "Contacts"
   #   children:
@@ -59,8 +70,6 @@ docs:
       - title: "~ Tags"
         url: /tags/
 
-
-
 # main:
 #   - title: "Posts"
 #     url: /posts/
@@ -70,8 +79,5 @@ docs:
 #     url: /tags/
 #   - title: "About"
 #     url: /about/
-
-
-
 
 
