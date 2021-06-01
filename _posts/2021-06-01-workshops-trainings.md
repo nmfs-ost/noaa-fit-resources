@@ -26,7 +26,7 @@ Contact: abigail.furnish@noaa.gov
 ### Species Distribution Modeling
 Instructors: James Thorson and Elliott Hazen
 
-###Intro to Github
+### Intro to Github
 Instructors: Corinne Bassin and Christine Stawitz
 Date: April 20, 2020 (both workshops held in conjunction with National Stock Assessment Workshop)
 Location: Providence, RI
