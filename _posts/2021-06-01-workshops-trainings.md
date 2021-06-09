@@ -28,7 +28,7 @@ All of the following trainings were offered in person for NOAA assessment scient
 
 ## 2020
 
-Course  | Date | Instructor | Location
+Course  | Instructor | Date | Location
 ------------- | ------------- | ------------- | ------------- 
 Stock Synthesis: Intro to the Stock Synthesis Interface  | Richard Methot | March 19, 2020  |  
 Species Distribution Modeling  | James Thorson and Elliott Hazen | March 19, 2020  |  
@@ -36,14 +36,14 @@ Intro to Github  | Corinne Bassin and Christine Stawitz | April 20, 2020  |  Pro
 
 ## 2019
 
-Course  | Date | Instructor | Location
+Course  | Instructor | Date | Location
 ------------- | ------------- | ------------- | ------------- 
 Stock Synthesis: Selectivity and Catchability  | Richard Methot | March 7, 2019  |  
 VAST: Spatio-Temporal Analysis  | James Thorson | Aug. 15-16, 2019  |  NEFSC, Woods Hole, MA
 
 ## 2018
 
-Course  | Date | Instructor | Location
+Course  | Instructor | Date | Location
 ------------- | ------------- | ------------- | ------------- 
 Data Limited Sock Assessments: Principles and Applications  | Jason Cope and Chantel Wetzel | Oct. 15-17, 2018  |  SEFSC, Miami, FL
 Scientific Computing  | Matthew Supernaw | June 19-21, 2018  |  PIFSC, Honolulu, HI
@@ -56,7 +56,7 @@ MSE Short Course  | Andre Punt | Jan. 8-12, 2018 |  PIFSC, Honolulu, HI
 
 ## 2017
 
-Course  | Date | Instructor | Location
+Course  | Instructor | Date | Location
 ------------- | ------------- | ------------- | ------------- 
 Data Limited Sock Assessments: Principles and Applications  | Jason Cope and Chantel Wetzel | Aug. 8-10, 2017  |  NEFSC, Woods Hole, MA
 Introduction to FishStats for new users  | Jim Thorson | Feb. 8-10, 2017 |  AFSC, Seattle, WA
