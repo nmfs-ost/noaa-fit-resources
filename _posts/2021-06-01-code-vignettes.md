@@ -14,16 +14,16 @@ These code vignettes will walk you through how to set up and use some commonly u
 ## [Stock Synthesis (SS)](https://vlab.ncep.noaa.gov/web/stock-synthesis)
 Stock Synthesis (SS) is an age-structured population dynamics model that is used to assess the impact of fisheries on fish and shellfish stocks while taking into account the influence of environmental factors.
 
-[Getting started with SS](https://vlab.ncep.noaa.gov/web/stock-synthesis/document-library/-/document_library/0LmuycloZeIt/view_file/7137387)
+- [Getting started with SS](https://vlab.ncep.noaa.gov/web/stock-synthesis/document-library/-/document_library/0LmuycloZeIt/view_file/7137387)
 
-[Developing an SS model](https://vlab.ncep.noaa.gov/web/stock-synthesis/document-library/-/document_library/0LmuycloZeIt/view_file/7137399)
+- [Developing an SS model](https://vlab.ncep.noaa.gov/web/stock-synthesis/document-library/-/document_library/0LmuycloZeIt/view_file/7137399)
 
 ## [Woods Hole Assessment Model (WHAM)](https://timjmiller.github.io/wham/)
 The Woods Hole Assessment Model (WHAM) is a general state-space age-structured stock assessment framework designed to include environmental effects on population processes. The state-space framework is attractive because it can estimate observation and process error, as well as naturally propagate random effect parameters in stock projections. WHAM can be configured to estimate a range of assessment models including statistical catch-at-age (SCAA) model with recruitments as fixed effects, SCAA with recruitments as random effects, and “full state-space model”, abundance at all ages are random effects.
 
-[WHAM Tutorial](https://timjmiller.github.io/wham/articles/index.html)
+- [WHAM Tutorial](https://timjmiller.github.io/wham/articles/index.html)
 
 ## [Metapopulation Assessment System (MAS)](https://nmfs-fish-tools.github.io/MAS/)
 The Metapopulation Assessment System (MAS) is a modular tool for creating and fitting fisheries stock assessment models. The R interface to MAS, [r4MAS](https://nmfs-fish-tools.github.io/r4MAS/index.html) allows users to build and run MAS models directly using the R language. It also includes functions to help translate between MAS and other stock assessment software and to plot outputs of MAS models, including estimates of key biological and observation parameters and derived quantities such as biological reference points, estimated biomass, and estimated numbers-at-age.
 
-[Getting started with r4MAS](https://nmfs-fish-tools.github.io/r4MAS/articles/001_Introduction.html)
+- [Getting started with r4MAS](https://nmfs-fish-tools.github.io/r4MAS/articles/001_Introduction.html)
