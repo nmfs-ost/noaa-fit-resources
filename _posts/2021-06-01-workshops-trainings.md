@@ -12,93 +12,52 @@ tags:
 
 NOAA Fisheries' stock assessment professional development program provides stock assessment scientists with ongoing, consistent opportunities for continued education and training in the evolving skills necessary for next generation stock assessments in all regions. Through in-person and online training workshops, fisheries scientists can obtain educational opportunities to advance their knowledge and skills at the forefront of fisheries population dynamics. This training webpage provides an information portal for training resources for fisheries population dynamics scientists.
 
-# RSudio Connect
+# [RSudio Connect Demo](https://drive.google.com/drive/my-drive)
+
+An overview of how to use RStudio Connect for: 
+- Simple shiny app deployments
+- Git backed publishing
+- Blastula
+- Model Deployments
+
+*Note: Only NOAA employees have access to this recorded training*
 
 # Past Trainings offered by the National Stock Assessment Program
 
+All of the following trainings were offered in person for NOAA assessment scientists in the past. Please reach out to abigail.furnish@noaa.gov with questions.
+
 ## 2020
-### Stock Synthesis: Intro to the Stock Synthesis Interface
-Instructor: Richard Methot
-Date: March 19, 2020
-Location: Online Webinar
-Contact: abigail.furnish@noaa.gov
 
-### Species Distribution Modeling
-Instructors: James Thorson and Elliott Hazen
-
-### Intro to Github
-Instructors: Corinne Bassin and Christine Stawitz
-Date: April 20, 2020 (both workshops held in conjunction with National Stock Assessment Workshop)
-Location: Providence, RI
-
+Course  | Date | Instructor | Location
+------------- | ------------- | ------------- | ------------- 
+Stock Synthesis: Intro to the Stock Synthesis Interface  | Richard Methot | March 19, 2020  |  
+Species Distribution Modeling  | James Thorson and Elliott Hazen | March 19, 2020  |  
+Intro to Github  | Corinne Bassin and Christine Stawitz | April 20, 2020  |  Providence, RI
 
 ## 2019
-### Stock Synthesis: Selectivity and Catchability
-Instructor: Richard Methot
-Date: March 7, 2019
-Location: Online Webinar
-Contact: abigail.furnish@noaa.gov
 
-### VAST: Spatio-Temporal Analysis
-Instructor: James Thorson
-Dates: August 15-16, 2019
-Location: NEFSC, Woods Hole, MA
-Contact: abigail.furnish@noaa.gov
-
+Course  | Date | Instructor | Location
+------------- | ------------- | ------------- | ------------- 
+Stock Synthesis: Selectivity and Catchability  | Richard Methot | March 7, 2019  |  
+VAST: Spatio-Temporal Analysis  | James Thorson | Aug. 15-16, 2019  |  NEFSC, Woods Hole, MA
 
 ## 2018
-### Data Limited Sock Assessments: Principles and Applications
-Instructor: Jason Cope; Chantel Wetzel
-Date: October 15-17, 2018
-Location: SEFSC, Miami, FL
-Contact: abigail.furnish@noaa.gov
 
-### Scientific Computing
-Instructor: Matthew Supernaw
-Date: June 19-21, 2018
-Location: PIFSC, Honolulu, HI
-Contact: abigail.furnish@noaa.gov
-
-### Stock Synthesis: Intro to SS 3.30
-Instructor: Richard Methot
-Date: June 21, 2018
-Location: Online Webinar
-Contact: abigail.furnish@noaa.gov
-
-### Stock Synthesis
-Instructor: Richard Methot
-Date: June 4-7, 2018
-Location: SEFSC, Miami, FL
-Contact: abiigail.furnish@noaa.gov
-
-### Data Limited Stock Assessments: Principles and Applications
-Instructor: Jason Cope; Meaghan Bryan
-Date: April 17-19, 2018
-Location: AFSC, Seattle, WA
-Contact: abigail.furnish@noaa.gov
-
-### Stock Synthesis - Shark Focus
-Instructor: Richard Methot
-Date: Feb. 2-23, 2018
-Location: SWFSC, La Jolla, CA
-Contact: abigail.furnish@noaa.gov
-
-### MSE Short Course
-Instructor: Andre Punt
-Date: Jan. 8-12, 2018
-Location: PIFSC, Honolulu, HI
-Contact: beth.lumsden@noaa.gov; abigail.furnish@noaa.gov
+Course  | Date | Instructor | Location
+------------- | ------------- | ------------- | ------------- 
+Data Limited Sock Assessments: Principles and Applications  | Jason Cope and Chantel Wetzel | Oct. 15-17, 2018  |  SEFSC, Miami, FL
+Scientific Computing  | Matthew Supernaw | June 19-21, 2018  |  PIFSC, Honolulu, HI
+Stock Synthesis: Intro to SS 3.30  | Richard Methot | June 21, 2018  |  
+Stock Synthesis  | Richard Methot | June 4-7, 2018  |  SEFSC, Miami, FL
+Data Limited Stock Assessments: Principles and Applications  | Jason Cope and Meaghan Bryan | April 17-19, 2018  |  AFSC, Seattle, WA
+Stock Synthesis - Shark Focus  | Richard Methot | Feb. 2-23, 2018  |  SWFSC, La Jolla, CA
+MSE Short Course  | Andre Punt | Jan. 8-12, 2018 |  PIFSC, Honolulu, HI
 
 
 ## 2017
-### Data Limited Stock Assessments: Principles and Applications
-Instructor: Jason Cope; Chantel Wetzel
-Date: Aug. 8-10, 2017
-Location: Woods Hole, Ma
-Contact: abigail.furnish@noaa.gov
 
-### Introduction to FishStats for new users
-Instructor: Jim Thorson
-Date: Feb. 8-10, 2017
-Location: AFSC, Seattle, WA
-Contact: sarah.stein@noaa.gov
+Course  | Date | Instructor | Location
+------------- | ------------- | ------------- | ------------- 
+Data Limited Sock Assessments: Principles and Applications  | Jason Cope and Chantel Wetzel | Aug. 8-10, 2017  |  NEFSC, Woods Hole, MA
+Introduction to FishStats for new users  | Jim Thorson | Feb. 8-10, 2017 |  AFSC, Seattle, WA
+
