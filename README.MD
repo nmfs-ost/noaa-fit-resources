@@ -7,7 +7,7 @@
 2. Create a blog post .md file and add it to the [posts folder](https://github.com/noaa-fisheries-integrated-toolbox/resources/tree/master/_posts) in your forked repo
 3. Label the .md file YYYY-MM-DD-**post-name**.md
 4. Add a category
-> See [Version Control Best Practices](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2019-06-14-best-practices-version-control.md) for an example of the .md file code (you can copy, paste, and edit the header to your .md file)
+> See [Version Control Best Practices](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2019-06-14-best-practices-version-control.md) for an example of the .md file code (you can copy, paste, and edit the header of your .md file)
 5. Add the blog to the contents by adding it to the navigation file - this adds your post to the sidebar
 6. In the navigation file, choose the header it lies under and add a title for your new page
 ```
