@@ -3,18 +3,19 @@
 ## Contribute to the FIT Resources Page
 
 ### How to add a post 
-1. Fork the NOAA FIT [resources repo](https://github.com/noaa-fisheries-integrated-toolbox/resources)
+1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this NOAA FIT [resources repo](https://github.com/noaa-fisheries-integrated-toolbox/resources)
 2. Create a blog post .md file and add it to the [posts folder](https://github.com/noaa-fisheries-integrated-toolbox/resources/tree/master/_posts) in your forked repo
 3. Label the .md file YYYY-MM-DD-**post-name**.md
 4. Add a category
 > See [Version Control Best Practices](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2019-06-14-best-practices-version-control.md) for an example of the .md file code (you can copy, paste, and edit the header of your .md file)
 5. Add the blog to the contents by adding it to the navigation file - this adds your post to the sidebar
-6. In the navigation file, choose the header it lies under and add a title for your new page
+6. In the [navigation file](https://github.com/noaa-fisheries-integrated-toolbox/resources/blob/master/_data/navigation.yml), choose the header it lies under and add a title for your new page
 ```
 title: "~ Version Control Best Practices"
 url: /best-practices/best-practices-version-control
 ```
 > The url will be /category/**post-name** depending on the category indicated in the .md file and the name of the .md file after the date in the posts folder
+7. Once a post is created in the post folder and the navigation file is updated, [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes 
  
 ### How to embed a video on .md page
 Using a link from YouTube or Vimeo:
