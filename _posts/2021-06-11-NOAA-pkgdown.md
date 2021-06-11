@@ -1,3 +1,15 @@
+---
+title: "Create a NOAA Themed pkgdown Landing Page"
+excerpt: "NOAA pkgdown"
+date: 2021-06-11
+toc: true
+categories:
+  - workshops
+tags:
+  - resources
+  - fish and fisheries
+---
+
 ## How to create a NOAA themed pkgdown landing site for your tool
 
 1. Set up a pkgdown landing page for your tool following the instructions [here](https://pkgdown.r-lib.org/)
