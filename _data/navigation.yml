@@ -45,6 +45,8 @@ docs:
         url: /cloud
       - title: "~ Object-Oriented Programming"
         url: /object-oriented-r
+      - title: "~ Create a NOAA Themed pkgdown Landing Page"
+        url: /workshops/NOAA-pkgdown
 
   - title: "General"
     children:
