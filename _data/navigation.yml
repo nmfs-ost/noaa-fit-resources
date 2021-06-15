@@ -37,8 +37,8 @@ docs:
         url: /onboarding/overview
       - title: "~ Version Control"
         url: /onboarding/version-control
-      - title: "~ Version Control Best Practices"
-        url: /best-practices/best-practices-version-control
+      #- title: "~ Version Control Best Practices"
+      #  url: /best-practices/best-practices-version-control
       #- title: "~ Badging"
       #  url: /onboarding/badging-overview
       - title: "~ Code Documentation"
