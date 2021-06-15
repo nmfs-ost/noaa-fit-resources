@@ -11,11 +11,11 @@
 docs:
   - title: "Fish and Fisheries"
     children:
-      - title: "~ General Stock Assessment Information"
+      - title: "~ General Stock Assessment Info"
         url: /workshops/stock-assessment-info/
-      - title: "~ NOAA Library Stock Assessment Science Seminar Series"
+      - title: "~ NOAA Library Stock Assessment Seminars"
         url: /workshops/library-seminars/
-      - title: "~ Stock Assessment Workshops and Trainings"
+      - title: "~ Workshops and Trainings"
         url: /workshops/workshops-trainings/
       - title: "~ Code Vignettes"
         url: /workshops/code-vignettes/
@@ -29,8 +29,18 @@ docs:
   - title: "Ecosystems"
     children:
 
-  - title: "Developer Resources"
+  - title: "Toolbox Developer Resources"
     children:
+      - title: "~ Contributing to the Toolbox"
+        url: /onboarding/contributing    
+      - title: "~ Tool Onboarding Procedures"
+        url: /onboarding/overview
+      - title: "~ Version Control"
+        url: /onboarding/version-control
+      - title: "~ Version Control Best Practices"
+        url: /best-practices/best-practices-version-control
+      #- title: "~ Badging"
+      #  url: /onboarding/badging-overview
       - title: "~ Code Documentation"
         url: /best-practices/code-documentation
       - title: "~ Code Review"
@@ -41,32 +51,25 @@ docs:
         url: /best-practices/backwards-compatibility
       - title: "~ Reproducibility"
         url: /best-practices/reproducibile
-      - title: "~ Cloud Resources"
-        url: /cloud
-      - title: "~ Object-Oriented Programming"
-        url: /object-oriented-r
-      - title: "~ Create a NOAA Themed pkgdown Landing Page"
+      - title: "~ NOAA Themed pkgdown Landing Page"
         url: /workshops/NOAA-pkgdown
 
-  - title: "General"
+  - title: "General Developer Resources"
     children:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
-      - title: "~ Onboarding Procedures"
-        url: /onboarding/overview
-      - title: "~ Version Control"
-        url: /onboarding/version-control
-      - title: "~ Version Control Best Practices"
-        url: /best-practices/best-practices-version-control
-      - title: "~ Badging"
-        url: /onboarding/badging-overview
+      - title: "~ Cloud Resources"
+        url: /cloud
+      - title: "~ Object-Oriented Programming"
+        url: /object-oriented-r 
+      - title: "~ RStudio Connect"
+        url: /onboarding/rstudio-connect  
+        
+  - title: "About"
+    children:
       - title: "~ FAQ"
         url: /about/
-
-  # - title: "Contacts"
-  #   children:
-  #     - title:  "Fisheries Integrated Toolbox"
-  #       url:
+        
   - title: "Search"
     children:
       - title: "~ Tags"
