@@ -12,7 +12,7 @@ tags:
 
 ## [Watch the demo here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing)
 
-This [RStudio Connect](https://www.rstudio.com/products/connect/)demo provides an overview of how NMFS scientists can use RStudio Connect for:
+This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides an overview of how NMFS scientists can use RStudio Connect for:
 - Simple shiny app deployments
 - Git backed publishing
 - Blastula
