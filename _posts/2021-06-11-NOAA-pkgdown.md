@@ -12,6 +12,8 @@ tags:
 
 ## How to create a NOAA themed pkgdown landing site for your tool
 
+Steps for creating a NOAA themed pkgdown landing site for your tool on the toolbox. The landing page includeds NOAA colors and a NOAA logo footer. For an example of what this looks like see the [r4MAS landing page](https://nmfs-fish-tools.github.io/r4MAS/index.html).
+
 1. Set up a pkgdown landing page for your tool following the instructions [here](https://pkgdown.r-lib.org/)
 2. Create a pkgdown folder in your repo and add the file [extra.css](https://github.com/nmfs-fish-tools/r4MAS/blob/pkgdown-site/pkgdown/extra.css)
 3. Add this code to your README.MD to add a footer:
