@@ -67,8 +67,10 @@ docs:
         
   - title: "About"
     children:
-      - title: "~ FAQ"
+      - title: "~ Info"
         url: /about/
+      - title: "~ FAQ"
+        url: /onboarding/FAQ
         
   - title: "Search"
     children:
