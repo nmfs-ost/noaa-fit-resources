@@ -35,6 +35,13 @@ docs:
         url: /onboarding/contributing    
       - title: "~ Tool Onboarding Procedures"
         url: /onboarding/overview
+      - title: "~ NOAA Themed pkgdown Landing Page"
+        url: /workshops/NOAA-pkgdown
+
+  - title: "General Developer Resources"
+    children:
+      # - title: "Onboarding Procedures"
+      #   url: /docs/onboarding/
       - title: "~ Version Control"
         url: /onboarding/version-control
       #- title: "~ Version Control Best Practices"
@@ -51,13 +58,6 @@ docs:
         url: /best-practices/backwards-compatibility
       - title: "~ Reproducibility"
         url: /best-practices/reproducibile
-      - title: "~ NOAA Themed pkgdown Landing Page"
-        url: /workshops/NOAA-pkgdown
-
-  - title: "General Developer Resources"
-    children:
-      # - title: "Onboarding Procedures"
-      #   url: /docs/onboarding/
       - title: "~ Cloud Resources"
         url: /cloud
       - title: "~ Object-Oriented Programming"
