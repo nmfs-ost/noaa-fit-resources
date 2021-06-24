@@ -12,7 +12,7 @@ tags:
 
 NOAA Fisheries' stock assessment professional development program provides stock assessment scientists with ongoing, consistent opportunities for continued education and training in the evolving skills necessary for next generation stock assessments in all regions. Through in-person and online training workshops, fisheries scientists can obtain educational opportunities to advance their knowledge and skills at the forefront of fisheries population dynamics. This training webpage provides an information portal for training resources for fisheries population dynamics scientists.
 
->For information about upcoming trainings, workshops, and webinars, see the [FIT News page](https://noaa-fisheries-integrated-toolbox.github.io/news/).
+>For information about upcoming trainings, workshops, and webinars, see the [FIT News updates](https://noaa-fisheries-integrated-toolbox.github.io/news/) and [FIT calendar](https://noaa-fisheries-integrated-toolbox.github.io/news/calendar/).
 
 # Past Trainings offered by the National Stock Assessment Program
 
