@@ -29,7 +29,7 @@ Steps for creating a NOAA themed pkgdown website for your tool on the toolbox. T
 [U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)
 ````
 
-More examples of what the website looks like:
+## Examples of what the landing page looks like:
 
 - [nmfspalette landing page](https://nmfs-general-modeling-tools.github.io/nmfspalette/)
 - [r4MAS landing page](https://nmfs-fish-tools.github.io/r4MAS/)
