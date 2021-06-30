@@ -23,7 +23,7 @@ tags:
 ```
 
 > See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
-6. Add the blog to the contents by adding it to the navigation file - this adds your post to the sidebar
+6. Add your post to the table of contents by adding it to the navigation file - this adds your post to the sidebar
 7. In the [navigation file](https://github.com/noaa-fisheries-integrated-toolbox/resources/blob/master/_data/navigation.yml), choose the header it lies under and add a title for your new page
 
 ```
