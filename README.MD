@@ -30,14 +30,14 @@ tags:
       - title: "~ Contributing to the Toolbox"
         url: /onboarding/contributing    
 ```
-> The url will be `/category/post-name` depending on the category indicated in the .md file and the name of the .md file after the date in the posts folder
+> The url will be `/category/post-name` depending on the category indicated in the `.md` file and the name of the `.md` file after the date in the posts folder
 7. Once a post is created in the post folder and the navigation file is updated, [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes 
  
 ### How to embed a video in a .md page
 Using a link from YouTube or Vimeo:
-1. Click ‘share’
-2. Click ‘embed link’ 
-3. Copy and Paste into the .md file where you want the video to appear
+1. Click `share`
+2. Click `embed link`
+3. Copy and Paste into the `.md` file where you want the video to appear
 
 Example code from YouTube embed link:
 ```
