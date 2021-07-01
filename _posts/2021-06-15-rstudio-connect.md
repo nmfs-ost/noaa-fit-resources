@@ -18,7 +18,9 @@ This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides 
 - Blastula
 - Model Deployments
 
-*Note: Only NOAA employees have access to this recorded training*
+> **Note:** Only NOAA employees have access to this recorded training
+
+More information about how RStudio Connect differs from other web hosting RStudio products (Shiny Server and shinyapps.io) [here](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/R-products/). 
 
 ### More RStudio Connect Resources
 - [RStudio Connect user guide](https://docs.rstudio.com/connect/user/)
