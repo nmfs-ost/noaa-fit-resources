@@ -37,6 +37,8 @@ docs:
         url: /onboarding/overview
       - title: "~ NOAA Themed pkgdown Landing Page"
         url: /workshops/NOAA-pkgdown
+      - title: "~ Share Web Applications with RStudio"
+        url: /onboarding/R-products        
 
   - title: "General Developer Resources"
     children:
