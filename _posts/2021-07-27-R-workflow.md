@@ -4,11 +4,11 @@ excerpt: "RStudio Products"
 date: 2021-07-27
 toc: true
 categories:
-  - onboarding
-tags:
   - resources
+tags:
   - R
   - RStudio
+  - GitHub
 ---
 
 Eli Holmes from the Northwest Center hosted an 8-part [Practical R Workflow workshop](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/) series. The series focused on tools and practices for NMFS scientists to help you be faster, more efficient, and organized in your coding and merging reports with code.
