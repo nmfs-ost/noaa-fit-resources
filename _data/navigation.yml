@@ -44,6 +44,8 @@ docs:
     children:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
+      - title: "~ Practical R Workflow"
+        url: /resources/R-workflow
       - title: "~ Version Control"
         url: /onboarding/version-control
       #- title: "~ Version Control Best Practices"
