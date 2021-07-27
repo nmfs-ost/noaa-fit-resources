@@ -83,7 +83,7 @@ February 2021
 
 **Abstract:** Management of Gulf of Alaska Pacific cod was challenged by a precipitous decline in biomass closely linked with a marine heatwave during 2014-2016. This seminar will review the management response during and after this time, which has co-occurred with rapid progress in the science underpinning the decline as well as developments in ecosystem-based fisheries management. The recurrence of a marine heatwave in 2019 along with other unprecedented environmental changes underscore the need for fisheries management that can address these events in both short-term tactical decisions and longer-term strategic planning.  
 
-## [The Woods Hole Assessment Model (WHAM): A general state-space assessment framework](https://timjmiller.github.io/wham/)
+## The Woods Hole Assessment Model (WHAM): A general state-space assessment framework
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o8vJvbIaOdE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -92,7 +92,7 @@ Brian Stock, Tim Miller
 
 January 2021
 
-**Abstract:** We describe the Woods Hole Assessment Model (WHAM) framework and software package. WHAM can estimate time- and age-varying random effects on annual transitions in numbers at age, natural mortality (M), and selectivity, as well as fit environmental time-series with process and observation errors, missing data, and nonlinear links to recruitment and M. Including time-varying processes via random effects or environment-productivity links using WHAM may alleviate serious concerns over changing productivity and retrospective patterns for several U.S. Northeast groundfish assessments.
+**Abstract:** We describe the [Woods Hole Assessment Model (WHAM)](https://timjmiller.github.io/wham/) framework and software package. WHAM can estimate time- and age-varying random effects on annual transitions in numbers at age, natural mortality (M), and selectivity, as well as fit environmental time-series with process and observation errors, missing data, and nonlinear links to recruitment and M. Including time-varying processes via random effects or environment-productivity links using WHAM may alleviate serious concerns over changing productivity and retrospective patterns for several U.S. Northeast groundfish assessments.
 
 ## Enhancing stock assessments for main Hawaiin islands bottomfish through inclusion of research video-camera surveys and fishing industry engagement  
 <figure class="video_container">
