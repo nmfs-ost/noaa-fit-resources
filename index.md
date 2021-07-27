@@ -18,4 +18,4 @@ sidebar:
 
 This Resources page provides resources associated with each 'drawer' of the toolbox for users, as well as resources for developers of tools. To include a tool in the toolbox, see [Onboarding Procedures](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/overview/) and [Version Control](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control/). 
 
-For questions, comments, or ideas for the the Resources page, contact the team at fisheries.toolbox@noaa.gov. 
+> For questions, comments, or ideas for the the Resources page, [contact the team](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/).
