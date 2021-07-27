@@ -11,6 +11,18 @@ tags:
 
 The NOAA Central Library Seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. Please contact kristan.blackhart@noaa.gov if you have questions.  
 
+## Developing an Expert System to Construct an Ensemble of Models for Fisheries Stock Assessment
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WxInMKm5OAQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Mark Maunder
+
+July 2021
+
+**Abstract:** The increasing demand for quality stock assessments to provide fisheries management advice requires a more efficient approach. This is amplified by the call for using an ensemble of models to improve management advice and to better represent uncertainty. The availability of flexible general models, such as Stock Synthesis, has greatly facilitated the development and implementation of stock assessments. However, this is only one component of the Expert System that is needed to fulfill the need under limited financial and human resources. I describe the components of a fisheries stock assessment expert system and the approach to develop it.
+
 ## The Sport of Ensemble Modeling 
 
 <figure class="video_container">
