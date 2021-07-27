@@ -75,6 +75,8 @@ docs:
         url: /about/
       - title: "~ FAQ"
         url: /onboarding/FAQ
+      - title: "~ Contact"
+        url: /onboarding/contact
         
   - title: "Search"
     children:
