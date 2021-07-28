@@ -16,7 +16,14 @@ NOAA Fisheries' stock assessment professional development program provides stock
 
 # Past Trainings offered by the National Stock Assessment Program
 
-All of the following trainings were offered in person for NOAA assessment scientists in the past. Please reach out to abigail.furnish@noaa.gov with questions.
+Please reach out to abigail.furnish@noaa.gov with questions.
+
+## 2021
+
+Course  | Instructor | Date | Location
+------------- | ------------- | ------------- | ------------- 
+Stock Synthesis: Environmental-linked parameters and conditional age at length  | Richard Methot | July 22 & 23, 2021  |  AFSC, virtual
+
 
 ## 2020
 
