@@ -16,11 +16,11 @@ The following is a set of guidelines for contributing to tools hosted on the NOA
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [fisheries.toolbox@noaa.gov](mailto:fisheries.toolbox@noaa.gov).
 
-## I don't want to read this whole thing I just have a question!!!
+## I don't want to read this whole thing I just have a question!
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-Please email the toolbox maintainers [fisheries.toolbox@noaa.gov](mailto:fisheries.toolbox@noaa.gov) or the owners of the specific repository if you have a question.
+Please [contact the toolbox maintainers](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/), or the owners of a specific repository directly if you have a question.
 
 ## How Can I Contribute?
 
