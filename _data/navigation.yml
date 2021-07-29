@@ -22,6 +22,8 @@ docs:
 
   - title: "Protected Species"
     children:
+      - title: "~ National Protected Species Toolbox Initiative"
+        url: /protectedspecies/NPSTI/
 
   - title: "Human Dimensions"
     children:
