@@ -12,7 +12,7 @@ tags:
 
 [GitHub](https://github.com/), which offers [GIT](https://git-scm.com/) server as a service, is a great way to share code and work collaboratively.
 
-More information about using GitHub:
+More information and resources for using GitHub: 
 - [Get started with GitHub](https://docs.github.com/en/get-started)
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
