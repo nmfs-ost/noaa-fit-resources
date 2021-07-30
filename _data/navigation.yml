@@ -49,7 +49,9 @@ docs:
       - title: "~ Practical R Workflow"
         url: /resources/R-workflow
       - title: "~ Version Control"
-        url: /onboarding/version-control
+        url: /onboarding/version-control2
+      - title: "~ Creating a NOAA GitHub Account"
+        url: /onboarding/github-account
       #- title: "~ Version Control Best Practices"
       #  url: /best-practices/best-practices-version-control
       #- title: "~ Badging"
