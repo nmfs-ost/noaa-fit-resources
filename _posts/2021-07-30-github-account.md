@@ -10,12 +10,14 @@ tags:
   - github
 ---
 
-GitHub is a great way to share code, and work as a group. GitHub offers Git server as a service. Git is a distributed [version control](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control/) system for tracking changes in source code.
+[GitHub](https://github.com/) is a great way to share code and work as a group. GitHub offers Git server as a service. [Git](https://git-scm.com/) is a distributed [version control](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control/) system for tracking changes in source code.
 
 More information about GitHub and how to use it:
+- [Get started with GitHub](https://docs.github.com/en/get-started)
+- [GitHub Guides](https://guides.github.com/)
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
-
-## Creating a user account with GitHub
+## How to create a NOAA GitHub account
 
 To set up a NOAA approved GitHub account, [create an account with GitHub](https://help.github.com/en/articles/signing-up-for-a-new-github-account) with your NOAA email and follow the below requirements:
 
