@@ -144,3 +144,8 @@ releases comes with the benefit of marking something a draft or
 preliminary release. In a GitHub release, compiled binaries up to 2.0 MB
 are provided for download and others watching your repository will be
 notified when a new release is pushed.
+
+### More GIT resources 
+- [GIT tutorials from Atlassian](https://www.atlassian.com/git/tutorials)
+- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+- [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
