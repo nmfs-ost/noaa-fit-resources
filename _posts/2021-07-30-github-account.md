@@ -17,6 +17,7 @@ More information and resources for using GitHub:
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
+- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control2/#basic-git-workflows)
 
 ## How to create a NOAA GitHub account
 
