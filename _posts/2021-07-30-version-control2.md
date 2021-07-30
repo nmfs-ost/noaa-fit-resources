@@ -102,39 +102,12 @@ Quick reference [guide](https://git-scm.com/docs)
 - ```git remote -v``` [Show the address of the remote server this repo is set up to push to](https://git-scm.com/docs/git-remote)
 - ```git checkout -b name``` Create a new branch called "name" and check it out locally to work on
 
-### More GitHub workflow options
+### Forking vs. Branching
 
-My main critique of GitHub is its tendency to provide too many parallel
-options that achieve the same end goal. One of these is illustrated with
-choosing between git forking and branching workflows. Both are
-legitimate workflows but it is unclear what the pros and cons of each
-are. My pros and cons are presented below:
-
-#### Pros of forking:
-
-1.  The only option if you intend to keep code divergent forever.
-2.  Does not require contributors to be added as collaborators to the
-    project.
-
-#### Cons of forking:
-
-1.  Harder to stay up-to-date with `main`.
-2.  Harder to make "feature forks" than "feature branches."
-3.  Doesn't integrate quite as well with releases.
-
-#### Pros of branching:
-
-1.  Allows for multi-branch workflow, i.e. a `main`, `development`,
-    and feature branches. Feature branches are one way to keep changes
-    more modular and improve testability.
-2.  Seamless to manage GitHub releases.
-3.  Branch protection rules to enforce more protocols on everyone,
-    including administrators.
-
-#### Cons of branching:
-
-1.  Authors need to be collaborators.
-2.  Not ideal for permanently divergng codebases.
+|   | Pros | Cons |
+| ------------- | ------------- | ------------- |
+| **Forking**  | 1.  The only option if you intend to keep code divergent forever. <br /> 2.  Does not require contributors to be added as collaborators to the project.   | 1.  Harder to stay up-to-date with `main`. <br /> 2.  Harder to make "feature forks" than "feature branches." <br /> 3.  Doesn't integrate quite as well with releases. |
+| **Branching**  | 1.  Allows for multi-branch workflow, i.e. a `main`, `development`, and feature branches. Feature branches are one way to keep changes more modular and improve testability. <br /> 2.  Seamless to manage GitHub releases. <br /> 3.  Branch protection rules to enforce more protocols on everyone, including administrators. | 1.  Authors need to be collaborators. <br /> 2.  Not ideal for permanently divergng codebases. |
 
 For our toolbox, NOAA git policy dictates non-NOAA affiliates cannot
 have push access to the repository. For this reason, you can only use
