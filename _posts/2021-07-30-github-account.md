@@ -39,12 +39,14 @@ One way to set administrative privileges on your repo is to create an “organiz
 
 ## Multiple Identities
 There are various ways to deal with multiple identities. To check which identity you are using inside of a git repository by default
-'''
+
+```
 git config user.name
-gi config user.email
-'''
-- you can set user.name and user.email for each repository as you go.  This works however, there is a global setting and if you forget to initialize your repository with the correct credentials , the global choice will be used
-- better: set up a .gitconfig to deal with multiple identities
+git config user.email
+```
+
+- you can set `user.name` and `user.email` for each repository as you go.  This works however, there is a global setting and if you forget to initialize your repository with the correct credentials , the global choice will be used
+- better: set up a `.gitconfig` to deal with multiple identities
 
 For more information on setting up configuration files on your computer for multiple accounts:
 - [Git Config Files using a folder structure](https://www.motowilliams.com/conditional-includes-for-git-config)
@@ -57,3 +59,8 @@ For more information on setting up configuration files on your computer for mult
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
 - [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control2/#basic-git-workflows)
+- [Practical R Workflow for Scientists](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/index.html)
+  - Specifically [week 1](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week1.html), [week 2](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week2.html), and [week 3](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week3.html)
+- [Collaborate with R and GitHub](https://noaa-iea.github.io/r3-train/collaborate.html)
+- [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
+- [Git and GitHub with R](https://r-pkgs.org/git.html)
