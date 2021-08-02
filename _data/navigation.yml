@@ -46,12 +46,12 @@ docs:
     children:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
-      - title: "~ Practical R Workflow"
-        url: /resources/R-workflow
       - title: "~ Version Control"
         url: /onboarding/version-control2
-      - title: "~ Creating a NOAA GitHub Account"
+      - title: "~ NOAA GitHub Guidelines"
         url: /onboarding/github-account
+      - title: "~ Practical R Workflow"
+        url: /resources/R-workflow
       #- title: "~ Version Control Best Practices"
       #  url: /best-practices/best-practices-version-control
       #- title: "~ Badging"
