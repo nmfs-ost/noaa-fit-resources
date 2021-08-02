@@ -148,7 +148,7 @@ preliminary release. In a GitHub release, compiled binaries up to 2.0 MB
 are provided for download and others watching your repository will be
 notified when a new release is pushed.
 
-### More GIT resources 
+## More GIT resources 
 - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 - [GIT tutorials from Atlassian](https://www.atlassian.com/git/tutorials)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
