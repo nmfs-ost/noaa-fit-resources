@@ -146,6 +146,7 @@ are provided for download and others watching your repository will be
 notified when a new release is pushed.
 
 ### More GIT resources 
+- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 - [GIT tutorials from Atlassian](https://www.atlassian.com/git/tutorials)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
