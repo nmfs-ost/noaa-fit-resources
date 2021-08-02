@@ -23,7 +23,7 @@ To set up a NOAA approved GitHub account, [create an account with GitHub](https:
 
 >**Note**: it is good practice that your NOAA GitHub username is `FirstLast-NOAA` which clearly identifies it as an NOAA linked account versus a personal account.
 
-## Setting up a code repository with your NOAA account
+## How to set up a repository with your NOAA account
 
 To set up a repository to keep your code, [create a repo] under your NOAA GitHub account and follow the below requirements:
 
