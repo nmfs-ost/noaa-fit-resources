@@ -1,6 +1,6 @@
 ---
-title: "Creating a NOAA Approved GitHub Account"
-excerpt: "GitHub Account"
+title: "NOAA GitHub Guidelines"
+excerpt: "NOAA approved GitHub account and repositories"
 date: 2021-07-30
 toc: true
 categories:
