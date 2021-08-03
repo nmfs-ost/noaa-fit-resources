@@ -59,11 +59,11 @@ There are many open-source and private systems that offer Git Server as a Servic
 - [Bitbucket](https://bitbucket.org/)
 
 ## Basic GIT workflows
-The following offers a basic Git workflow. For more information about using Rstudio with Git and Github, see the [Practical R workflow](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/R-workflow/) workshop series.
+The following offers a basic Git workflow using the command line. For more information about using Rstudio with Git and Github, see the [Practical R workflow](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/R-workflow/) workshop series or [these resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/github-account/#general-information-and-resources-for-using-github)
 
 Starting from scratch:
-- Make a directory folder on your computer where you will work
-- Initialize it as a  git repo by  changing directory to within that folder and calling the command at the command prompt:
+1. Make a directory folder on your computer where you will work
+2. Initialize it as a  git repo by  changing directory to within that folder and calling the command at the command prompt:
 
 ```git init```
 
@@ -76,8 +76,7 @@ If you have multiple identities it is a good idea to check which identity this f
    git config user.name
 ```
 
-- create a README document as text or markdown which will hold basic information about your code repository
-
+3. create a README document as text or markdown which will hold basic information about your code repository
 
 ```
    echo README.md > README file for Repo Name
@@ -85,14 +84,14 @@ If you have multiple identities it is a good idea to check which identity this f
    git commit -m"addd readme"
 ```
 
-go onto GitHub and create an empty repository
+4. go onto GitHub and create an empty repository
 
     git push main ssh... -u
 
-- once you are set up you will want to get into a standard git [workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) where you commit changes locally often and push to your remote main at least daily if changes have been made or when many changes have occurred.  Committing often will help when you want to revert ( go backward) or if you are actively working with several others
+Once you are set up you will want to get into a standard git [workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) where you commit changes locally often and push to your remote main at least daily if changes have been made or when many changes have occurred.  Committing often will help when you want to revert (go backward) or if you are actively working with several others
 
 ### Branching
-Branching can be thought of as creating a copy of your code with a flag at the point where you started the branch.  This allows you to try out a different path or set of function.  It is good practice when you are adding a new feature to solid working code or working on a significant piece of code that will likely need to be incorporated to the larger code base at a later time.  If you do not like it then you can always just go back to your branching point.  You may choose to use local branches only and merge your code or send your branch up to the main repository.  Good practice dictates not having several " orphan" branches  or using branches as specific features;  Once a branch is ready to be merged into the main repository, the branch should be deleted so it does not cause any confusion in the development process
+Branching can be thought of as creating a copy of your code with a flag at the point where you started the branch.  This allows you to try out a different path or set of function.  It is good practice when you are adding a new feature to solid working code or working on a significant piece of code that will likely need to be incorporated to the larger code base at a later time.  If you do not like it then you can always just go back to your branching point.  You may choose to use local branches only and merge your code or send your branch up to the main repository.  Good practice dictates not having several "orphan" branches  or using branches as specific features;  Once a branch is ready to be merged into the main repository, the branch should be deleted so it does not cause any confusion in the development process
 
 ### Helpful git commands
 Quick reference [guide](https://git-scm.com/docs)
