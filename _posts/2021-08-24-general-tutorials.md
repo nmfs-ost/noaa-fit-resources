@@ -1,6 +1,6 @@
 ---
-title: "Version Control"
-excerpt: "Version control"
+title: "Tutorials"
+excerpt: "General Modeling Tool Tutorials"
 date: 2021-08-24
 toc: true
 categories:
