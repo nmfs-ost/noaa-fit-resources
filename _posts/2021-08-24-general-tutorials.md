@@ -9,7 +9,7 @@ tags:
   - tutorials
 ---
 
-Below are 
+The following tutorials provide overviews and demos of tools found in the [General Modeling Tools](https://nmfs-general-modeling-tools.github.io/) drawer of the toolbox. 
 
 ## Introduction to [bayesdfa](https://fate-ewi.github.io/bayesdfa/) R package
 
