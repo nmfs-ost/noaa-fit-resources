@@ -30,7 +30,12 @@ docs:
 
   - title: "Ecosystems"
     children:
-
+    
+  - title: "General Modeling Tools"
+    children:
+      - title: "~ Tutorials"
+        url: /generaltools/general-tutorials/
+        
   - title: "Toolbox Developer Resources"
     children:
       - title: "~ Contributing to the Toolbox"
