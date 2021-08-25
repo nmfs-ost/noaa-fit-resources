@@ -29,10 +29,32 @@ Below are steps for creating a NOAA themed pkgdown webpage, with NOAA colors and
 [U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)
 ````
 
-## Examples of what the landing page looks like
+### Examples of tools and packages with NOAA themed pkgdown sites
 
-- [nmfspalette landing page](https://nmfs-general-modeling-tools.github.io/nmfspalette/)
-- [r4MAS landing page](https://nmfs-fish-tools.github.io/r4MAS/)
-- [adnuts landing page](https://cole-monnahan-noaa.github.io/adnuts/)
+- [nmfspalette](https://nmfs-general-modeling-tools.github.io/nmfspalette/)
+- [r4MAS](https://nmfs-fish-tools.github.io/r4MAS/)
+- [adnuts](https://cole-monnahan-noaa.github.io/adnuts/)
+- [bayesdfa](https://fate-ewi.github.io/bayesdfa/)
+- [wham](https://timjmiller.github.io/wham/)
+
+## Adding a video tutoral to your landing page
+
+Follow the instructions below to add a video demo or overview of your tool on your pkgdown landing page. Examples of this can be seen on the [wham](https://timjmiller.github.io/wham/) and [bayesdfa](https://fate-ewi.github.io/bayesdfa/) pages. 
+
+### Embed a video in a `.md` page
+
+Using a link from YouTube or Vimeo:
+1. Click `share`
+2. Click `embed link`
+3. Copy and Paste the embed link into the `.md` file where you want the video to appear
+
+Example code from YouTube embed link:
+```
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A7qDN2oYSxc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+```
+
+
 
 
