@@ -1,13 +1,13 @@
 ---
 title: "Create a NOAA Themed pkgdown Landing Page"
-excerpt: "NOAA pkgdown"
+excerpt: "NOAA themed pkgdown"
 date: 2021-06-11
 toc: true
 categories:
   - workshops
 tags:
   - resources
-  - fish and fisheries
+  - GitHub
 ---
 
 ## How to create a NOAA themed pkgdown landing site for your tool
