@@ -54,6 +54,12 @@ For more information on setting up configuration files on your computer for mult
 - [Windows Machine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
+## A Beginner's Tutorial on Git and GitHub
+
+The following video provides an intro to using Git and GitHub. The corresponding tutorial can be found [here](https://github.com/aomlomics/tutorials). This webinar is presented by Luke Thompson, an Associate Research Professor at the Northern Gulf Institute at Mississippi State University & Atlantic Oceanographic and Meteorological Laboratory (AOML). The webinar was hosted by the [NOAA Central Library](https://library.noaa.gov/). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLWBv5nPQys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## General information and resources for using GitHub 
 - [Get started with GitHub](https://docs.github.com/en/get-started)
 - [GitHub Guides](https://guides.github.com/)
