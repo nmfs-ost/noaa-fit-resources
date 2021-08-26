@@ -17,7 +17,7 @@ docs:
         url: /workshops/library-seminars/
       - title: "~ Workshops and Trainings"
         url: /workshops/workshops-trainings/
-      - title: "~ Code Vignettes"
+      - title: "~ Tutorials and Vignettes"
         url: /workshops/code-vignettes/
 
   - title: "Protected Species"
@@ -33,7 +33,7 @@ docs:
     
   - title: "General Modeling Tools"
     children:
-      - title: "~ Tutorials"
+      - title: "~ Tutorials and Vignettes"
         url: /generaltools/general-tutorials/
         
   - title: "Toolbox Developer Resources"
