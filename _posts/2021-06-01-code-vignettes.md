@@ -1,6 +1,6 @@
 ---
-title: "Code Vignettes"
-excerpt: "Code Vignettes"
+title: "Tutorials and Vignettes"
+excerpt: "Video and Code Tutorials and Vignettes"
 date: 2021-06-01
 toc: true
 categories:
