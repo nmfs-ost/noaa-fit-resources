@@ -1,6 +1,6 @@
 ---
-title: "Tutorials"
-excerpt: "General Modeling Tool Tutorials"
+title: "Tutorials and Vignettes"
+excerpt: "General Modeling Tool Tutorials and Vignettes"
 date: 2021-08-24
 toc: true
 categories:
