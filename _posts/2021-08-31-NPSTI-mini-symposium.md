@@ -1,7 +1,7 @@
 ---
 title: "Mini Symposium"
 excerpt: "National Protected Species Toolbox Initiative Mini Symposium"
-date: 2021-08-24
+date: 2021-08-31
 toc: true
 categories:
   - protectedspecies
@@ -78,11 +78,4 @@ Paper: [*Estimating Animal Utilization Densities Using Continuous-Time Markov Ch
 ### [Integrating passive acoustic data with visual line transect surveys to refine population estimates and estimate availability bias for sperm whales (Physeter macrocephalus)](https://media.fisheries.noaa.gov/dam-migration/pstsymposium_spatialanalysis_sigourney_modelling_passive_acoustic_data.pdf)
 
 Doug Sigourney
-
-
-
-
-
-
-
 
