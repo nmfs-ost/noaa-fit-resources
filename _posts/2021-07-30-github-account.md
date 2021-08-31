@@ -60,7 +60,7 @@ The following video provides an intro to using Git and GitHub. The corresponding
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LLWBv5nPQys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## General information and resources for using GitHub 
+## More GitHub Resources
 - [Get started with GitHub](https://docs.github.com/en/get-started)
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
