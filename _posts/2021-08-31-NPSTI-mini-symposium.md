@@ -1,5 +1,5 @@
 ---
-title: "Mini Symposium"
+title: "Mini Symposia"
 excerpt: "National Protected Species Toolbox Initiative Mini Symposium"
 date: 2021-08-31
 toc: true
