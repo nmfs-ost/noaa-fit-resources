@@ -24,6 +24,8 @@ docs:
     children:
       - title: "~ National Protected Species Toolbox Initiative"
         url: /protectedspecies/NPSTI/
+      - title: "~ NPSTI Mini Symposia"
+        url: /protectedspecies/NPSTI-mini-symposium/
 
   - title: "Human Dimensions"
     children:
@@ -36,6 +38,22 @@ docs:
       - title: "~ Tutorials and Vignettes"
         url: /generaltools/general-tutorials/
         
+  - title: "GitHub Resources"
+    children: 
+      - title: "~ Version Control"
+        url: /onboarding/version-control2    
+      - title: "~ NOAA GitHub Guidelines"
+        url: /onboarding/github-account
+    
+  - title: "R and RStudio Resources"
+    children:   
+      - title: "~ Practical R Workflow"
+        url: /resources/R-workflow  
+      - title: "~ Share Web Applications with RStudio"
+        url: /onboarding/R-products           
+      - title: "~ RStudio Connect"
+        url: /onboarding/rstudio-connect      
+        
   - title: "Toolbox Developer Resources"
     children:
       - title: "~ Contributing to the Toolbox"
@@ -44,19 +62,11 @@ docs:
         url: /onboarding/overview
       - title: "~ NOAA Themed pkgdown Landing Page"
         url: /workshops/NOAA-pkgdown
-      - title: "~ Share Web Applications with RStudio"
-        url: /onboarding/R-products        
-
-  - title: "General Developer Resources"
+        
+  - title: "Developer Resources"
     children:
       # - title: "Onboarding Procedures"
       #   url: /docs/onboarding/
-      - title: "~ Version Control"
-        url: /onboarding/version-control2
-      - title: "~ NOAA GitHub Guidelines"
-        url: /onboarding/github-account
-      - title: "~ Practical R Workflow"
-        url: /resources/R-workflow
       #- title: "~ Version Control Best Practices"
       #  url: /best-practices/best-practices-version-control
       #- title: "~ Badging"
@@ -65,7 +75,7 @@ docs:
         url: /best-practices/code-documentation
       - title: "~ Code Review"
         url: /best-practices/code-review
-      - title: "~ Testing"
+      - title: "~ Code Testing"
         url: /best-practices/code-testing
       - title: "~ Backwards Compatibility"
         url: /best-practices/backwards-compatibility
@@ -75,8 +85,6 @@ docs:
         url: /cloud
       - title: "~ Object-Oriented Programming"
         url: /object-oriented-r 
-      - title: "~ RStudio Connect"
-        url: /onboarding/rstudio-connect  
         
   - title: "About"
     children:
