@@ -49,6 +49,8 @@ docs:
     children:   
       - title: "~ Practical R Workflow"
         url: /resources/R-workflow  
+      - title: "~ Reproducible Reporting with R"
+        url: /resources/R3          
       - title: "~ Share Web Applications with RStudio"
         url: /onboarding/R-products           
       - title: "~ RStudio Connect"
