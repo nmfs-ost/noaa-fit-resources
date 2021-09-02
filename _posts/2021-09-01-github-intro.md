@@ -16,7 +16,7 @@ tags:
 
 [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) or 'repos' are like directories for your code or project 
 - Can be public
-  - Code you might want other people to see, to be able to share code / [collaborate]()
+  - Code you might want other people to see, to be able to share code / [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/github-intro/#collaboration)
 - Or private 
   - Example: can keep everything from a manuscript you’re writing in a repo
 
