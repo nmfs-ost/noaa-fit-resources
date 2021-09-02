@@ -42,6 +42,8 @@ docs:
     children: 
       - title: "~ Version Control"
         url: /onboarding/version-control2    
+      - title: "~ A Beginner's Guide to GitHub"
+        url: /resources/github-intro        
       - title: "~ NOAA GitHub Guidelines"
         url: /onboarding/github-account
     
