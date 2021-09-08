@@ -11,6 +11,30 @@ tags:
 
 The NOAA Central Library Seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. Please contact kristan.blackhart@noaa.gov if you have questions.  
 
+## State Space Stock Assessment Models: Previous Applications, Future Potential
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ze0gs-uUoeU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Emily Liljestrand
+
+September 2021
+
+**Abstract:** State-space modeling (SSM), in which the process variation is estimated independently from variation due to observation error, has been employed in fisheries stock assessment for decades. Software such as Template Model Builder (TMB) sparked new interest in SSM because theoretical advantages such as estimating error variances could be realized thanks to the computationally efficient integration of process error from the marginal likelihood. I use my own research in rewriting existing age-based assessment models of Lake Whitefish with SSM elements (e.g., multiple time-varying processes) to make broader conclusions about the applicability of SSM. 
+
+## Bringing the State of the World's Fisheries Assessment into the 21st Century: What Is Needed to Improve Our Global Coverage, and How to Make the Assessment Accessible to Interested Parties Globally
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jjll0GS9tLY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+Rishi Sharma and Arni Magnusson
+
+August 2021
+
+**Abstract:** We present the current workflow in developing a Global Fish Stock Assessment for SOFIA and identify issues in estimating this globally important metric indicating status of stocks into three categories: i) overfished, ii) fully sustainably fished, and iii) underfished. We highlight how a new assessment package SRAplus can be used to get better estimates of regional and country estimates of overfishing categories using effort data and depletion priors based on external data. Transparency issues are highlighted and a transparent assessment framework (TAF) is used to implement a modular workflow for SOFIA (TSAF).
+
 ## Developing an Expert System to Construct an Ensemble of Models for Fisheries Stock Assessment
 
 <figure class="video_container">
