@@ -17,7 +17,7 @@ The [NOAA Central Library](https://library.noaa.gov/) seminar program provides a
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ze0gs-uUoeU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Emily Liljestrand
+### Emily Liljestrand
 
 September 2021
 
@@ -29,7 +29,7 @@ September 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jjll0GS9tLY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Rishi Sharma and Arni Magnusson
+### Rishi Sharma and Arni Magnusson
 
 August 2021
 
@@ -41,7 +41,7 @@ August 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WxInMKm5OAQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Mark Maunder
+### Mark Maunder
 
 July 2021
 
@@ -53,7 +53,7 @@ July 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/leHe6-1ZhiU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Liz Brooks, Jon Brodziak
+### Liz Brooks
 
 June 2021
 
@@ -66,7 +66,7 @@ June 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/A7qDN2oYSxc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Amy M. Schueller
+### Amy M. Schueller
 
 April 2021
 
@@ -77,7 +77,7 @@ April 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/9icz7S4VpPU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Felipe Carvalho, Henning Winker
+### Felipe Carvalho and Henning Winker
 
 March 2021
 
@@ -88,7 +88,7 @@ March 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yznhYoDQOu4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Steven J Barbeaux
+### Steven J Barbeaux
 
 February 2021
 
@@ -101,7 +101,7 @@ In this seminar we consider an ecosystem-linked single species assessment model 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/d_S7y1ohRf0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Stephani Zador
+### Stephani Zador
 
 February 2021
 
@@ -112,7 +112,7 @@ February 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/o8vJvbIaOdE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Brian Stock, Tim Miller
+### Brian Stock and Tim Miller
 
 January 2021
 
@@ -123,7 +123,7 @@ January 2021
   <iframe width="560" height="315" src="https://www.youtube.com/embed/svdg6l1iUeM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Brian Langseth, Benjamin Richards  
+### Brian Langseth and Benjamin Richards  
 
 November 2020  
 
@@ -134,7 +134,7 @@ November 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/v7GmvzR_MSA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Charles Perretti, Jon Deroba, Chris Legault
+### Charles Perretti, Jon Deroba, and Chris Legault
 
 October 2020
 
@@ -145,7 +145,7 @@ October 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VakE_xrEp6s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Patrick Lynch
+### Patrick Lynch
 
 September 2020
 
@@ -154,7 +154,7 @@ September 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/C0SxVD6whSs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Daniel Goethel, Katelyn Bosley, Aaron Berger, Dana Hanselman, Amy Schueller, Jonathan Deroba, Brian Langseth, Kari Fenske
+### Daniel Goethel, Katelyn Bosley, Aaron Berger, Dana Hanselman, Amy Schueller, Jonathan Deroba, Brian Langseth, and Kari Fenske
 
 September 2020
 
@@ -165,7 +165,7 @@ September 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/L7VGsuuoFi4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Matthew Supernaw, Bai Li, Christine Stawitz
+### Matthew Supernaw, Bai Li, and Christine Stawitz
 
 August 2020
 
@@ -176,7 +176,7 @@ August 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gszbSApAqR4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Jeffrey Vieser, Kristan Blackhart, Abigail Furnish
+### Jeffrey Vieser, Kristan Blackhart, and Abigail Furnish
 
 July 2020  
 
@@ -187,7 +187,7 @@ July 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/lu-RWNLITAc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Bai Li
+### Bai Li
 
 July 2020
 
@@ -198,7 +198,7 @@ July 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/efVXe0J80oU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-James Thorson
+### James Thorson
 
 June 2020
 
@@ -209,7 +209,7 @@ June 2020
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5oxV_PTPo3s" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Michelle Sculley
+### Michelle Sculley
 
 May 2020
 
