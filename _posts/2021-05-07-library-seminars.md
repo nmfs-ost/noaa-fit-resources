@@ -9,7 +9,7 @@ tags:
   - resources
 ---
 
-The NOAA Central Library Seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. Please contact kristan.blackhart@noaa.gov if you have questions.  
+The [NOAA Central Library](https://library.noaa.gov/) seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. 
 
 ## State Space Stock Assessment Models: Previous Applications, Future Potential
 
