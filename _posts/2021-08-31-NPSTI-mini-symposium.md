@@ -9,7 +9,9 @@ tags:
   - Protected species
 ---
 
-## Mini Symposium I 
+## Mini Symposium I - November 2015
+
+Scientists from NOAA Fisheries' Science Centers gathered at the NOAA Science Center in Silver Spring on November 18, 2015, to present some of the tools and applications they have been working on between 2013 and 2015. These emerging tools were developed as part of a national protected species toolbox initiative supported by Dr. Richard Merrick (NOAA Fisheries’ Chief Scientist) and spearheaded by the Office of Science and Technology, to produce quantitative analytical tools to improve protected species assessments and better analyze impacts from human activities. The mini-symposium served as an opportunity to strengthen scientific connections and collaboration between NOAA Fisheries science centers and internal and external partners. Over 70 external and NOAA participants attended the symposium via webinar and in person.
 
 ### [Spatial Prediction of Fisheries Bycatch](https://media.fisheries.noaa.gov/dam-migration/pstsymposium_brianstock_nov2015a.pdf)
 
@@ -47,7 +49,11 @@ Kyle Van Houtan (PIFSC)
 
 Eli Holmes (NWFSC)
 
-## Mini Symposium II
+## Mini Symposium II - March 2018
+
+NOAA Fisheries’ Office of Science and Technology (F/ST) hosted their second Protected Species Toolbox Mini-Symposium on March 1 and 2, 2018, at the Alaska Fisheries Science Center (AFSC), in Seattle. At the symposium, project investigators (PIs) provided updates and demonstrations of ongoing or developed products and applications as part of the FY15-18 National Protected Species Toolbox (NPST) initiative funded by the Protected Species Science Branch, F/ST4. These two-day symposia continue to serve as an excellent venue for the PIs to present their work, discuss issues and challenges, and obtain valuable feedback from other researchers and managers to improve specific aspects of their individual project.
+
+Approximately 58 people attended, both in person and remotely via webinar. Participants included both NOAA and non-NOAA attendees. Opening remarks were provided by Dr. Richard Methot, NMFS Senior Advisor for Stock Assessments. Dr. Methot spoke about how the NPST R&D effort, like the Fish and Ecosystem Toolboxes, are critical for advancing stock assessment capabilities within the agency and that the goal of these initiatives is to facilitate transition from methods development and validation to operational use by a diverse user community. Further, in the current resource-constrained environment, it is critical to use the full suite of analytical tools available to address ongoing science and management challenges. Dr. Stephen K. Brown, Chief, Assessment and Monitoring Division, F/ST4, spoke about the value of the NPST initiative to the greater scientific community and the importance of regularly sharing and disseminating project progress and successes with managers and scientists.
 
 ### [eSDM: An ensemble tool for species distribution models](https://media.fisheries.noaa.gov/dam-migration/pstsymposium_populationassessment_forney_day1_0900_forney_esdm_presentation.pdf)
 
