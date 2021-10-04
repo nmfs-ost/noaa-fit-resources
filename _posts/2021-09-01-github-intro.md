@@ -21,16 +21,14 @@ tags:
 ### Collaboration
 
 **Share code**
+- People can see your code and copy it directly to their computer by downloading a `.zip` file or [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
+- People can also ‘fork’ your repository to have their own repository on GitHub that keeps up with changes to the your repo (see more about forking below) 
 
-People can see your code and copy it 
-- Copy it directly to their computer by downloading a `.zip` file or [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
-- You can also ‘fork’ a repository to have your own repository on GitHub that keeps up with changes to the owners repo (see more about forking below) 
-
-Get input from others 
+**Get input from others **
 - People can [‘fork’](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository, make changes, and then open a [‘pull request’](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-  - Essentially you are ‘suggesting a change’ to the code, website, etc. 
+  - In this way, they are ‘suggesting a change’ to the code, website, etc. 
 
-Collaborate directly 
+**Collaborate directly **
 - You can [‘add collaborators’](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time and you can directly make changes and see who made changes - again, version control tracks all of these changes
 
 ## GitHub Vocab 
