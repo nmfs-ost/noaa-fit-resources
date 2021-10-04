@@ -35,7 +35,7 @@ Collaborate directly
 
 ## GitHub Vocab 
 
-[**Repositories**](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) contain all of your project's files and each file's revision history
+[**Repositories**](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) (or 'repos') contain all of your project's files and each file's revision history
 
 [**Clone**](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) a repository to create a local copy on your computer and sync between two locations 
 
