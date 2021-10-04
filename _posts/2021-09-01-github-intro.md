@@ -12,11 +12,13 @@ tags:
 
 ## Personal Use
 
-### **Organization** - [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) are like directories for your code or project 
+### **Organization** 
+- [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) are like directories for your code or project 
 - Repositories can be **public**, if you want others to see your code or to [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/github-intro/#collaboration), or **[private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)**, if you want to use Git and GitHub functionality without sharing your code. 
 
-### **[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** - tracks changes you make to your code 
-- GitHub will track all the changes you make, and you can go back and view a history of these changes
+### **[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** 
+- GitHub offers Git server as a service to track changes you make to your code 
+- Git and GitHub will track all the changes you make, and you can go back and view a history of these changes
 
 ## Collaboration
 
