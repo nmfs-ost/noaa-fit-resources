@@ -12,7 +12,7 @@ tags:
 
 ### Personal Use
 
-#### Organization
+**Organization**
 
 [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) or 'repos' are like directories for your code or project 
 - Can be public
@@ -20,14 +20,14 @@ tags:
 - Or private 
   - Example: can keep everything from a manuscript you’re writing in a repo
 
-#### [Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) - tracks changes you make to your code 
+**[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** - tracks changes you make to your code 
 
 GitHub will track all the changes you make, and you can go back and view these changes 
 - Many ‘workflows’ for setting this up this 
 
 ### Collaboration
 
-#### Share code
+**Share code**
 
 People can see your code and copy it 
 - Copy it directly to their computer by downloading a `.zip` file or [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
