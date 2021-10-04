@@ -8,30 +8,30 @@ categories:
 tags:
   - GitHub
 ---
-## Why should you use GitHub? 
+# Why should you use GitHub? 
 
-### Personal Use
+## Personal Use
 
-**Organization** - [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) are like directories for your code or project 
+### **Organization** - [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) are like directories for your code or project 
 - Repositories can be **public**, if you want others to see your code or to [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/github-intro/#collaboration), or **[private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)**, if you want to use Git and GitHub functionality without sharing your code. 
 
-**[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** - tracks changes you make to your code 
+### **[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** - tracks changes you make to your code 
 - GitHub will track all the changes you make, and you can go back and view a history of these changes
 
-### Collaboration
+## Collaboration
 
-**Share code**
+### **Share code**
 - People can see your code and copy it directly to their computer by downloading a `.zip` file or [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
 - People can also ‘fork’ your repository to have their own repository on GitHub that keeps up with changes to the your repo (see more about forking below) 
 
-**Get input from others**
+### **Get input from others**
 - People can [‘fork’](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository, make changes, and then open a [‘pull request’](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
   - In this way, they are ‘suggesting a change’ to the code, website, etc. 
 
-**Collaborate directly**
+### **Collaborate directly**
 - You can [‘add collaborators’](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time and you can directly make changes and see who made changes - again, version control tracks all of these changes
 
-## GitHub Vocab 
+# GitHub Vocab 
 
 [**Repositories**](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) (or 'repos') contain all of your project's files and each file's revision history
 
@@ -47,13 +47,13 @@ tags:
 
 [**Commit**](https://docs.github.com/en/github/committing-changes-to-your-project/creating-and-editing-commits/about-commits) records changes to one or more files in your branch
 
-## GitHub Video Tutorial
+# GitHub Video Tutorial
 
 This video tutorial provides an intro to using Git and GitHub. Follow along with the corresponding tutorial [here](https://github.com/aomlomics/tutorials). This webinar is presented by Luke Thompson, an Associate Research Professor at the Northern Gulf Institute at Mississippi State University & Atlantic Oceanographic and Meteorological Laboratory (AOML). The webinar was hosted by the [NOAA Central Library](https://library.noaa.gov/). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LLWBv5nPQys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## More GitHub Resources
+# More GitHub Resources
 - [Get started with GitHub](https://docs.github.com/en/get-started)
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
