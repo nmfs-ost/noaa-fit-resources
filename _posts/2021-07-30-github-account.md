@@ -10,7 +10,7 @@ tags:
   - github
 ---
 
-[GitHub](https://github.com/), which offers [GIT](https://git-scm.com/) server as a service, is a great way to share code and work collaboratively. Below are guidelines for creating a NOAA GitHub account and repositories under that account. More about the NOAA guidelines can be found [here](https://ufscommunity.org/wp-content/uploads/2019/11/20170823_NOAA_GitHub_Usage_Guidelines.pdf). Also see the main [NOAA GitHub site](https://github.com/NOAAGov) and [information](https://github.com/NOAAGov/Information), as well as the current [NOAA affiliated GitHub projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects). 
+[GitHub](https://github.com/) is a great way to share code and work collaboratively. Below are guidelines for creating a NOAA GitHub account and repositories under that account. More about the NOAA guidelines can be found [here](https://ufscommunity.org/wp-content/uploads/2019/11/20170823_NOAA_GitHub_Usage_Guidelines.pdf). Also see the main [NOAA GitHub site](https://github.com/NOAAGov) and [information](https://github.com/NOAAGov/Information), as well as the current [NOAA affiliated GitHub projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects). 
 
 ## How to create a NOAA GitHub account
 
