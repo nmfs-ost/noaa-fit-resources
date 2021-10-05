@@ -38,7 +38,7 @@ docs:
       - title: "~ Tutorials and Vignettes"
         url: /generaltools/general-tutorials/
         
-  - title: "GitHub Resources"
+  - title: "Git & GitHub Resources"
     children: 
       - title: "~ Version Control"
         url: /onboarding/version-control2    
