@@ -56,5 +56,5 @@ For more information on setting up configuration files on your computer for mult
 
 ## GitHub in Government
 
-### More information about how GitHub is used in Gov [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov), with example organizations [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov#github-in-noaa--nmfs).
+More information about how GitHub is used in Gov [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov), with example organizations [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov#github-in-noaa--nmfs).
 
