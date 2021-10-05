@@ -47,7 +47,7 @@ docs:
       - title: "~ NOAA GitHub Guidelines"
         url: /onboarding/github-account
     
-  - title: "R and RStudio Resources"
+  - title: "R & RStudio Resources"
     children:   
       - title: "~ Practical R Workflow"
         url: /resources/R-workflow  
