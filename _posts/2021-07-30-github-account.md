@@ -33,7 +33,7 @@ To set up a repository to keep your code, [create a repo] under your NOAA GitHub
 - Must include specific wording in the `LICENCE.md` like [this](https://github.com/nmfs-fish-tools/Resources/blob/master/LICENSE.md)
 - Must have a "gold standard" backup of the repo
 
-One way to set administrative privileges on your repo is to create an [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) in GitHub. Repos will then fall under that org, and Github allows for more admin ability under organizations. 
+> One way to set administrative privileges on your repo is to create an [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) in GitHub. Repos will then fall under that org, and Github allows for more admin ability under organizations. 
 
 ## Multiple Identities
 If you have multiple GitHub identities (perhaps a personal one and a work one).  You will want to be careful about which identity you use.  Here are some ways to deal with multiple identities. 
