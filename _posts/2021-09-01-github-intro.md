@@ -17,21 +17,20 @@ tags:
 - Repositories can be **public**, if you want others to see your code or to [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/github-intro/#collaboration), or **[private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)**, if you want to use Git and GitHub functionality without sharing your code. 
 
 ### **[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** 
-- GitHub offers Git server as a service to track changes you make to your code 
-- Git and GitHub will track all the changes you make, and you can go back and view a history of these changes
+- GitHub offers Git server as a service to track changes you make to your code, so you can always go back and view a history of changes you've made
 
 ## Collaboration
 
 ### **Share code**
-- People can see your code and copy it directly to their computer by downloading a `.zip` file or [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
+- People can see your code and copy it directly to their computer by downloading a `.zip` file or by [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
 - People can also ‘fork’ your repository to have their own repository on GitHub that keeps up with changes to the your repo (see more about forking below) 
 
 ### **Get input from others**
-- People can [‘fork’](https://docs.github.com/en/get-started/quickstart/fork-a-repo) a repository, make changes, and then open a [‘pull request’](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-  - In this way, they are ‘suggesting a change’ to the code, website, etc. 
+- People can [‘fork’](https://docs.github.com/en/get-started/quickstart/fork-a-repo) your repository, make changes, and then open a [‘pull request’](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+  - In this way, they are ‘suggesting a change’ to your code, website, etc. 
 
 ### **Collaborate directly**
-- You can [‘add collaborators’](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time and you can directly make changes and see who made changes - again, version control tracks all of these changes
+- You can [‘add collaborators’](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time and you can directly make changes
 
 # GitHub Vocab 
 
