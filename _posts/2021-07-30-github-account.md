@@ -54,3 +54,7 @@ For more information on setting up configuration files on your computer for mult
 - [Windows Machine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
+## GitHub in Government
+
+### More information about how GitHub is used in Gov [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov), with example organizations [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov#github-in-noaa--nmfs).
+
