@@ -25,7 +25,7 @@ To set up a NOAA approved GitHub account, [create an account with GitHub](https:
 
 ## How to set up a repository with your NOAA account
 
-To set up a repository to keep your code, [create a repo] under your NOAA GitHub account and follow the below requirements:
+To set up a repository to keep your code, [create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) under your NOAA GitHub account and follow the below requirements:
 
 - Only allow write access to NOAA users
   - All non-NOAA users can only have pull-request access
