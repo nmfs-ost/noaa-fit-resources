@@ -26,6 +26,8 @@ docs:
         url: /protectedspecies/NPSTI/
       - title: "~ NPSTI Mini Symposia"
         url: /protectedspecies/NPSTI-mini-symposium/
+      - title: "~ NPSTI Publications"
+        url: /protectedspecies/NPSTI-publications/
 
   - title: "Human Dimensions"
     children:
