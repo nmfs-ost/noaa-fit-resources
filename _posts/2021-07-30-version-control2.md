@@ -48,7 +48,7 @@ General installation [directions](https://git-scm.com/book/en/v2/Getting-Started
 You will need administrative privileges to install.  Git can be used at the command line or with graphical user interfaces depending on your preferences. Herein we focus on command line information.
 
 Once installed, you'll need to configure git with your identity information.
-The user name and user email you use for git will be needed later for setting up your GitHub account.  It is likely you may need to set up a system to track your identity for both work and personal use.  See information below on using multiple accounts if this is the case.
+The user name and user email you use for git will be needed later for setting up your GitHub account.  It is likely you may need to set up a system to track your identity for both work and personal use.  See [using multiple accounts](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/github-account/#multiple-identities) if this is the case.
 
 Although you could just use Git locally for version control, it is best to use with a server system.  Locally, Git alone will allow you to track and revert changes.  By using it in conjunction with a server, you'll have backups of your code and be able to easily collaborate.
 
