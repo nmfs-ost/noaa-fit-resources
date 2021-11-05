@@ -11,6 +11,30 @@ tags:
 
 The [NOAA Central Library](https://library.noaa.gov/) seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. 
 
+## Close-kin Genetic Methods for Estimating Census Size and Effective Population Size
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lnAy_Z6qXu4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Robin Waples
+
+November 2021
+
+**Abstract:** It is now possible to genetically identify close relatives in wild populations, and this information can be used in a mark-recapture framework (CKMR) to estimate abundance (N). Successful CKMR applications require information about vital rates and other life history traits, and the same genetic and demographic data can be used to estimate effective population size (Ne), the evolutionary analogue to N. I discuss how life history information differently affects CKMR estimates of N and genetic estimates of Ne, and how combined datasets can be leveraged to better understand both the ecological and evolutionary correlates of abundance.
+
+## SSMSE: A Tool for Management Strategy Evaluation Using Stock Synthesis Operating Models
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zN-kj8u_Oec" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Kathryn Doering and Nathan Vaughan
+
+October 2021
+
+**Abstract:** While Management Strategy Evaluation (MSE) is becoming a routine task, creating realistic operating models (OMs) for use in MSE and running MSE analyses relatively quickly is a challenge. We will describe and demonstrate [SSMSE](https://nmfs-fish-tools.github.io/SSMSE/), an R package for direct use of Stock Synthesis (SS) models as OMs in MSE. We will discuss the features of the package and demonstrate its capabilities using a worked example.
+
 ## State Space Stock Assessment Models: Previous Applications, Future Potential
 
 <figure class="video_container">
