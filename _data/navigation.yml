@@ -15,12 +15,12 @@ docs:
         url: /workshops/stock-assessment-info/
       - title: "~ NOAA Library Stock Assessment Seminars"
         url: /workshops/library-seminars/
-      - title: "~ Workshops and Trainings"
+      - title: "~ NOAA Stock Assessment Workshops and Trainings"
         url: /workshops/workshops-trainings/
-      - title: "~ Tutorials and Vignettes"
-        url: /workshops/code-vignettes/
       - title: "Marine Recreational Information Program"
         url: /workshops/MRIP-seminars/
+      - title: "~ Tutorials and Vignettes"
+        url: /workshops/code-vignettes/
 
   - title: "Protected Species"
     children:
