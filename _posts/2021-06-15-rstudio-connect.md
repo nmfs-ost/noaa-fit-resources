@@ -12,6 +12,8 @@ tags:
 
 ## [Watch the demo here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing)
 
+<iframe src="https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/preview" width="640" height="480" allow="autoplay"></iframe>
+
 This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides an overview of how NMFS scientists can use RStudio Connect for:
 - Simple shiny app deployments
 - Git backed publishing
