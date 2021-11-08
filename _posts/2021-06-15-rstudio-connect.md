@@ -18,7 +18,7 @@ This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides 
 - Blastula
 - Model Deployments
 
-> **Note:** Only NOAA employees logged into their Google account will have access to this recorded demo. If you're having trouble viewing it on this page, you can watch the video in Google Drive, [here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing). 
+> **Note:** Only NOAA employees logged into their Google account will be able to view the above recorded demo. If you're a NOAA employee and are having trouble viewing it on this page, you can watch the video in Google Drive, [here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing). 
 
 More information about how RStudio Connect differs from other web hosting RStudio products (Shiny Server and shinyapps.io) [here](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/R-products/). 
 
