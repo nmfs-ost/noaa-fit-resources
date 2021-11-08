@@ -19,6 +19,8 @@ docs:
         url: /workshops/workshops-trainings/
       - title: "~ Tutorials and Vignettes"
         url: /workshops/code-vignettes/
+      - title: "Marine Recreational Information Program"
+        url: /workshops/MRIP-seminars/
 
   - title: "Protected Species"
     children:
