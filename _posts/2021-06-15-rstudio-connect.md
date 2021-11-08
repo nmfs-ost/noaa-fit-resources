@@ -10,8 +10,6 @@ tags:
   - R
 ---
 
-## [Watch the demo here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing)
-
 <iframe src="https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/preview" width="640" height="480" allow="autoplay"></iframe>
 
 This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides an overview of how NMFS scientists can use RStudio Connect for:
@@ -20,7 +18,7 @@ This [RStudio Connect](https://www.rstudio.com/products/connect/) demo provides 
 - Blastula
 - Model Deployments
 
-> **Note:** Only NOAA employees have access to this recorded training
+> **Note:** Only NOAA employees logged into their Google account will have access to this recorded demo. If you're having trouble viewing it on this page, you can watch the video in Google Drive, [here](https://drive.google.com/file/d/1SRCn2ANf8SxOMcPsvYuU6LRCaYnvhoZs/view?usp=sharing). 
 
 More information about how RStudio Connect differs from other web hosting RStudio products (Shiny Server and shinyapps.io) [here](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/R-products/). 
 
