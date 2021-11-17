@@ -11,6 +11,14 @@ tags:
 
 Through the National Protected Species Toolbox Initiative, NOAA Fisheries is developing quantitative analytical tools that will improve protected species assessments and better analyze impacts from human activities, research and development capabilities, and address critical management concerns. Below are publications associated with this initiative.
 
+## 2021 Publications 
+
+Shelton, A.O., G.H. Sullway, E.J. Ward, B.E. Feist, K.A. Somers, V.J. Tuttle, J.T. Watson, W.H. Satterthwaite. 2021. **Redistribution of salmon populations in the Northeast Pacific Ocean in response to climate.** [Fish and Fisheries 22: 503-5017](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12530)
+
+Egan K, TS Viehman, DM Holstein, M Poti, SH Groves, TB Smith. 2021. 2021. **Predicting the distribution of Threatened _orbicellid_ corals in the shallow and mesophotic reef ecosystems.** [Marine Ecology Progress Series 667: 61-81.](https://www.int-res.com/articles/meps_oa/m667p061.pdf)
+
+Patel SH, Winton MV, Hatch JM, Haas HL, Saba VS, Fay G, Smolowitz R. 2021. **Projected shifts in loggerhead turtle habitat in the Northwest Atlantic Ocean due to climate change.** [Scientific Reports 11, 8850.](https://www.nature.com/articles/s41598-021-88290-9)
+
 ## 2020 Publications
 
 Chasco, B., J.T. Thorson, S. Heppell, L. Avens, J. Braun-McNeill, A.B. Bolten, K.A. Bjorndal, and E.J. Ward. 2020. **Integrated mixed-effect growth models for species with incomplete ageing histories: a case study for loggerhead sea turtle _Caretta caretta_**. [Marine Ecology Progress Series 636:221-234](https://www.int-res.com/abstracts/meps/v636/p221-234/).
@@ -38,6 +46,8 @@ Wilson, K., E. Hanks, and D. Johnson. 2018. **Estimating animal utilization dens
 ## 2017 Publications 
 
 Warden, M.L., H.L. Haas, P.M. Richards, K.A. Rose, and J.M Hatch. 2017. **Monitoring trends in sea turtle populations: walk or fly?** [Endang Species Res 34:323-337](https://www.int-res.com/abstracts/esr/v34/p323-337/).
+
+Viehman TS. 2017. **Coral decline and habitat loss in the Caribbean: Modeling abiotic limitations on coral populations and communities.** [PhD dissertation. Duke University.](https://dukespace.lib.duke.edu/dspace/handle/10161/14407)
 
 ## 2016 Publications 
 
