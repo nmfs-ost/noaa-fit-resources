@@ -26,13 +26,15 @@ docs:
     children:
       - title: "~ National Protected Species Toolbox Initiative"
         url: /protectedspecies/NPSTI/
-      - title: "~ NPSTI Mini Symposia"
-        url: /protectedspecies/NPSTI-mini-symposium/
       - title: "~ NPSTI Publications"
         url: /protectedspecies/NPSTI-publications/
       - title: "~ FY18-20 NPSTI Talks"
         url: /protectedspecies/NPSTI-talks/        
-
+      - title: "~ 2018 NPSTI Mini Symposia"
+        url: /protectedspecies/NPSTI-mini-symposium-2018/
+      - title: "~ 2015 NPSTI Mini Symposia"
+        url: /protectedspecies/NPSTI-mini-symposium-2015/
+        
   - title: "Human Dimensions"
     children:
 
