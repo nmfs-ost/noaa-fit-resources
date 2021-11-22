@@ -58,9 +58,9 @@ docs:
   - title: "R & RStudio Resources"
     children:   
       - title: "~ Practical R Workflow"
-        url: /resources/R-workflow  
+        url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
       - title: "~ Reproducible Reporting with R"
-        url: /resources/R3          
+        url: https://noaa-iea.github.io/r3-train/index.html          
       - title: "~ Share Web Applications with RStudio"
         url: /onboarding/R-products           
       - title: "~ RStudio Connect"
