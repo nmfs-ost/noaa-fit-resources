@@ -60,7 +60,7 @@ docs:
       - title: "~ Practical R Workflow"
         url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
       - title: "~ Reproducible Reporting with R"
-        url: href="https://noaa-iea.github.io/r3-train/index.html" target="_blank">external link</a>      
+        url: https://noaa-iea.github.io/r3-train/index.html      
       - title: "~ Share Web Applications with RStudio"
         url: /onboarding/R-products           
       - title: "~ RStudio Connect"
