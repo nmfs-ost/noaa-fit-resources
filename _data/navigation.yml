@@ -61,6 +61,8 @@ docs:
         url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
       - title: "~ Reproducible Reporting with R"
         url: https://noaa-iea.github.io/r3-train/index.html      
+      - title: "~ NMFS R Users Group Training"
+        url: https://nmfs-openscapes.github.io/Training/         
       - title: "~ Share Web Applications with RStudio"
         url: /onboarding/R-products           
       - title: "~ RStudio Connect"
