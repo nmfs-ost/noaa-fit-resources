@@ -12,7 +12,7 @@ tags:
 
 ## How to create a NOAA themed pkgdown landing site for your tool
 
-Below are steps for creating a NOAA themed pkgdown webpage, with NOAA colors and a NOAA logo footer, for your tool on the toolbox. More instructions, including a template you can clone [here](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week7-roxygen.html#pkgdown).
+Below are steps for creating a NOAA themed pkgdown webpage, with NOAA colors and a NOAA logo footer, for your tool on the toolbox. You can also fork [this repo](https://github.com/nmfs-fish-tools/pkgdownTemplate) and follow directions. 
 
 1. Set up a pkgdown website for your tool following the instructions from [here](https://pkgdown.r-lib.org/).
 2. Create a pkgdown folder in your repository and add `pkgdown/extra.css`. Add the code below to the `extra.css` file. See [extra.css](https://github.com/nmfs-fish-tools/r4MAS/blob/master/pkgdown/extra.css) for an example of the CSS code.
