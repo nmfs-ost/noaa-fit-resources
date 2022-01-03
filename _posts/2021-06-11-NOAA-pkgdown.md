@@ -18,13 +18,13 @@ Below are steps for creating a NOAA themed pkgdown webpage, with NOAA colors and
 2. Create a pkgdown folder in your repository and add `pkgdown/extra.css`. Add the code below to the `extra.css` file. See [extra.css](https://github.com/nmfs-fish-tools/r4MAS/blob/master/pkgdown/extra.css) for an example of the CSS code.
 
 ```
-@import url("https://nmfs-general-modeling-tools.github.io/nmfspalette/extra.css");
+@import url("https://nmfs-fish-tools.github.io/nmfspalette/extra.css");
 ```
 3. Add the code below to README.md to add a footer. See bottom of the [README.md](https://raw.githubusercontent.com/nmfs-fish-tools/r4MAS/master/README.MD) for an example of the html code.
 
 
 ```
-<img src="https://raw.githubusercontent.com/nmfs-general-modeling-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" alt="NOAA Fisheries">
+<img src="https://raw.githubusercontent.com/nmfs-fish-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" alt="NOAA Fisheries">
 
 [U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)
 ````
