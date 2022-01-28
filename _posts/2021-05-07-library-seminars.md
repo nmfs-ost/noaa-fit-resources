@@ -11,6 +11,30 @@ tags:
 
 The [NOAA Central Library](https://library.noaa.gov/) seminar program provides an educational forum for the presentation of ideas, research updates and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series. Below are links to past seminars on a range of stock assessment methods, models, and programs. 
 
+## Introducing Casal2 for Assessments
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eDeh86MeMx8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Ian Doonan, PhD, Population Modelling Group, National Institute of Water and Atmosphere Research (NIWA), New Zealand
+
+January 2022
+
+**Abstract:** Casal2 is replacing CASAL, New Zealand's stock assessment package written in 2001. CASAL implements integrated stock assessments, but it has hard-wired fisheries structures that makes introducing newer concepts impossible. Casal2 was written so that it is easily maintained, and we can implement new concepts. Currently, Casal2 can replicate most features of CASAL, apart from little used ones, and it gives the same parameter estimates as CASAL over a suite of test assessments. Following a review of Casal2's capabilities, an assessment in Casal2 will be demonstrated. 
+
+## Cross-comparison study of AD software in the application of population dynamic models
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sLDrlFdI7Gs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Andrea Havron, PhD, NOAA Fisheries Office of Science and Technology National Stock Assessment Program Modeling Team
+
+December 2021
+
+**Abstract:** Motivated by the Fisheries Integrated Modeling Systems initiative, this study aims to compare automatic differentiation software platforms used in population dynamic modeling. Pathways for both frequentist and Bayesian inference are outlined for state-space and explicit spatial models developed and implemented across the following software platforms: ADMB, Julia, Stan, and TMB. Software features of each platform are detailed along with benchmark results on performance and speed from simulations. Features considered include statistical and computational efficiency, accuracy, accessibility to the developer community, and user friendliness.
+
 ## Close-kin Genetic Methods for Estimating Census Size and Effective Population Size
 
 <figure class="video_container">
