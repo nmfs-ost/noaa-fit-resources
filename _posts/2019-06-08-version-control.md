@@ -11,7 +11,7 @@ tags:
   - github
 ---
 
-There are many resources available on version control.  Here is a simple overview as it relates to the NOAA Fisheries Integrated Toolbox.
+There are many resources available on version control. Here is a simple overview as it relates to the NOAA Fisheries Integrated Toolbox.
 
 ## What is version control?
 
@@ -21,8 +21,9 @@ There are many types of [version control](https://en.wikipedia.org/wiki/List_of_
 
 
 We will focus here on the Distributed Model:
+
 In this approach individual contributors work directly (generally locally) in their repository, and changes are shared and merged between repositories as a separate step.
-Although there are several open source tools available for this approach. We use [Git](https://en.wikipedia.org/wiki/Git).
+Although there are several open source tools available for this approach, we use [Git](https://en.wikipedia.org/wiki/Git).
 
 - Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 - Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Its current maintainer since 2005 is Junio Hamano.

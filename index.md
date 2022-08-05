@@ -6,7 +6,7 @@ layout: single
 sidebar:
   nav: "docs"
 ---
-[The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) includes scientific tools and software applications developed with contributions from scientists and programmers at NOAA and at external organizations. Tools from individual groups (i.e., toolbox "drawers") are found under four organizations, with a fifth drawer that includes general modeling tools used across disciplines or for general analyis.
+[The NOAA Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/) includes scientific tools and software applications developed with contributions from scientists and programmers at NOAA and at external organizations. Tools from individual groups (i.e., toolbox "drawers") are found under four organizations, with a fifth drawer that includes general modeling tools used across disciplines or for general analysis.
 
 <ul class ="tools_list">
     <li style="background:rgba(10,69,149,0.4);" >Fish and Fisheries</li>
