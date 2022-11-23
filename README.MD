@@ -2,6 +2,8 @@
 
 ## Contribute to the FIT Resources Page
 
+THe FIT Resources page is built on [Github Pages using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+
 ### How to add a post 
 1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this NOAA FIT [resources repo](https://github.com/noaa-fisheries-integrated-toolbox/resources)
 2. Create a blog post [markdown file](https://guides.github.com/features/mastering-markdown/) and add it to the [posts folder](https://github.com/noaa-fisheries-integrated-toolbox/resources/tree/master/_posts) in your forked repo
