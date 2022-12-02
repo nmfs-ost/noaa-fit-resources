@@ -33,6 +33,15 @@ tags:
 ```
 > The url will be `/category/post-name` depending on the category indicated in the `.md` file and the name of the `.md` file after the date in the posts folder
 7. Once a post is created in the post folder and the `navigation.yml` file is updated, [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
+
+### Build the site locally using github codespaces.
+
+1. Open a codespace from this repo.
+2. In the terminal run `gem install bundler jekyll` (note: I'm not sure this is necessary)
+3. Then run `bundle update` followed by `bundle add webrick`
+4. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
+
+Note: don't save any new files under the "_site" directory.
  
 ### How to embed a video in a `.md` page
 Using a link from YouTube or Vimeo:
