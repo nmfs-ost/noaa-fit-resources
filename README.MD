@@ -42,6 +42,9 @@ tags:
 4. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
 
 Note: don't save any new files under the "_site" directory.
+
+### Updating dependencies
+Locally, run `bundle update` and commit changes to the Gemfile and Gemfile.lock.
  
 ### How to embed a video in a `.md` page
 Using a link from YouTube or Vimeo:
