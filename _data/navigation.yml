@@ -63,7 +63,7 @@ docs:
       - title: "~ NOAA GitHub Guidelines"
         url: /onboarding/github-account
     
-  - title: "R & RStudio Resources"
+  - title: "R Resources"
     children:   
       - title: "~ Practical R Workflow"
         url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
@@ -71,10 +71,10 @@ docs:
         url: https://noaa-iea.github.io/r3-train/index.html      
       - title: "~ NMFS R Users Group Training"
         url: https://nmfs-openscapes.github.io/Training/         
-      - title: "~ Share Web Applications with RStudio"
+      - title: "~ Share Web Applications and Products"
         url: /onboarding/R-products           
-      - title: "~ RStudio Connect"
-        url: /onboarding/rstudio-connect      
+      - title: "~ Posit Connect"
+        url: /onboarding/connect      
         
   - title: "Toolbox Developer Resources"
     children:

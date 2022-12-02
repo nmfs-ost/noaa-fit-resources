@@ -6,6 +6,7 @@ categories:
   - onboarding
 tags:
   - badging
+  - developer-resources
 
 ---
 
