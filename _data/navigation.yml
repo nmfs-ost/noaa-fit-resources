@@ -10,6 +10,20 @@
 
 docs:
 
+  - title: "Search"
+    children:
+      - title: "~ Tags"
+        url: /tags/
+
+    - title: "About"
+    children:
+      - title: "~ Info"
+        url: /about/
+      - title: "~ FAQ"
+        url: /onboarding/FAQ
+      - title: "~ Contact"
+        url: /onboarding/contact
+
   - title: Resources
     children:
       - title: "~ FIT Calendar"
@@ -108,19 +122,9 @@ docs:
       - title: "~ Object-Oriented Programming"
         url: /object-oriented-r 
         
-  - title: "About"
-    children:
-      - title: "~ Info"
-        url: /about/
-      - title: "~ FAQ"
-        url: /onboarding/FAQ
-      - title: "~ Contact"
-        url: /onboarding/contact
+
         
-  - title: "Search"
-    children:
-      - title: "~ Tags"
-        url: /tags/
+
 
 # main:
 #   - title: "Posts"
