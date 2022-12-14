@@ -11,10 +11,10 @@
 docs:
 
   - title: Resources
-    children:
-      - title: "~ FIT Calendar"
+    subfolderitems:
+      - page: "~ FIT Calendar"
         url: "/resources/fit-calendar"
-      - title: "~ NMFS R User Group"
+      - page: "~ NMFS R User Group"
         url: "/resources/nmfs-r-ug-calendar"
 
   - title: "Fish and Fisheries"
