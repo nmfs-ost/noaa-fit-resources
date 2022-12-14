@@ -1,139 +1,123 @@
-# main:
-#   - title: "Posts"
-#     url: /posts/
-#   - title: "Categories"
-#     url: /categories/
-#   - title: "Tags"
-#     url: /tags/
-#   - title: "About"
-#     url: /about/
-
 docs:
-
-  - title: "Search"
-    children:
-      - title: "~ Tags"
-        url: /tags/
-
   - title: "About"
-    children:
-      - title: "~ Info"
-        url: /about/
-      - title: "~ FAQ"
-        url: /onboarding/FAQ
-      - title: "~ Contact"
-        url: /onboarding/contact
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
 
-  - title: Resources
-    children:
-      - title: "~ FIT Calendar"
-        url: "/resources/fit-calendar"
-      - title: "~ NMFS R User Group"
-        url: "/resources/nmfs-r-ug-calendar"
+# docs:
 
-  - title: "Fish and Fisheries"
-    children:
-      - title: "~ General Stock Assessment Info"
-        url: /workshops/stock-assessment-info/
-      - title: "~ NOAA Library Stock Assessment Seminars"
-        url: /workshops/library-seminars/
-      - title: "~ NOAA Stock Assessment Workshops and Trainings"
-        url: /workshops/workshops-trainings/
-      - title: "~ Marine Recreational Information Program"
-        url: /workshops/MRIP-seminars/
-      - title: "~ Tutorials and Vignettes"
-        url: /workshops/code-vignettes/
+#   - title: "Search"
+#     children:
+#       - title: "~ Tags"
+#         url: /tags/
 
-  - title: "Protected Species"
-    children:
-      - title: "~ National Protected Species Toolbox Initiative"
-        url: /protectedspecies/NPSTI/
-      - title: "~ NPSTI Publications"
-        url: /protectedspecies/NPSTI-publications/
-      - title: "~ FY18-20 NPSTI Talks"
-        url: /protectedspecies/NPSTI-talks/        
-      - title: "~ 2018 NPSTI Mini Symposia"
-        url: /protectedspecies/NPSTI-mini-symposium-2018/
-      - title: "~ 2015 NPSTI Mini Symposia"
-        url: /protectedspecies/NPSTI-mini-symposium-2015/
-        
-  - title: "Human Dimensions"
-    children:
-
-  - title: "Ecosystems"
-    children:
-    
-  - title: "General Modeling Tools"
-    children:
-      - title: "~ Tutorials and Vignettes"
-        url: /generaltools/general-tutorials/
-        
-  - title: "Git & GitHub Resources"
-    children: 
-      - title: "~ Version Control"
-        url: /onboarding/version-control2    
-      - title: "~ A Beginner's Guide to GitHub"
-        url: /resources/github-intro        
-      - title: "~ NOAA GitHub Guidelines"
-        url: /onboarding/github-account
-    
-  - title: "R Resources"
-    children:   
-      - title: "~ Practical R Workflow"
-        url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
-      - title: "~ Reproducible Reporting with R"
-        url: https://noaa-iea.github.io/r3-train/index.html      
-      - title: "~ NMFS R Users Group Training"
-        url: https://nmfs-openscapes.github.io/Training/         
-      - title: "~ Share Web Applications and Products"
-        url: /onboarding/R-products           
-      - title: "~ Posit Connect"
-        url: /onboarding/connect      
-        
-  - title: "Toolbox Developer Resources"
-    children:
-      - title: "~ Contributing to the Toolbox"
-        url: /onboarding/contributing    
-      - title: "~ Tool Onboarding Procedures"
-        url: /onboarding/overview
-      - title: "~ NOAA Themed pkgdown Landing Page"
-        url: /workshops/NOAA-pkgdown
-        
-  - title: "Developer Resources"
-    children:
-      # - title: "Onboarding Procedures"
-      #   url: /docs/onboarding/
-      #- title: "~ Version Control Best Practices"
-      #  url: /best-practices/best-practices-version-control
-      #- title: "~ Badging"
-      #  url: /onboarding/badging-overview
-      - title: "~ Code Documentation"
-        url: /best-practices/code-documentation
-      - title: "~ Code Review"
-        url: /best-practices/code-review
-      - title: "~ Code Testing"
-        url: /best-practices/code-testing
-      - title: "~ Backwards Compatibility"
-        url: /best-practices/backwards-compatibility
-      - title: "~ Reproducibility"
-        url: /best-practices/reproducibile
-      - title: "~ Cloud Resources"
-        url: /cloud
-      - title: "~ Object-Oriented Programming"
-        url: /object-oriented-r 
-        
-
-        
-
-
-# main:
-#   - title: "Posts"
-#     url: /posts/
-#   - title: "Categories"
-#     url: /categories/
-#   - title: "Tags"
-#     url: /tags/
 #   - title: "About"
-#     url: /about/
+#     children:
+#       - title: "~ Info"
+#         url: /about/
+#       - title: "~ FAQ"
+#         url: /onboarding/FAQ
+#       - title: "~ Contact"
+#         url: /onboarding/contact
 
+#   - title: Resources
+#     children:
+#       - title: "~ FIT Calendar"
+#         url: "/resources/fit-calendar"
+#       - title: "~ NMFS R User Group"
+#         url: "/resources/nmfs-r-ug-calendar"
+
+#   - title: "Fish and Fisheries"
+#     children:
+#       - title: "~ General Stock Assessment Info"
+#         url: /workshops/stock-assessment-info/
+#       - title: "~ NOAA Library Stock Assessment Seminars"
+#         url: /workshops/library-seminars/
+#       - title: "~ NOAA Stock Assessment Workshops and Trainings"
+#         url: /workshops/workshops-trainings/
+#       - title: "~ Marine Recreational Information Program"
+#         url: /workshops/MRIP-seminars/
+#       - title: "~ Tutorials and Vignettes"
+#         url: /workshops/code-vignettes/
+
+#   - title: "Protected Species"
+#     children:
+#       - title: "~ National Protected Species Toolbox Initiative"
+#         url: /protectedspecies/NPSTI/
+#       - title: "~ NPSTI Publications"
+#         url: /protectedspecies/NPSTI-publications/
+#       - title: "~ FY18-20 NPSTI Talks"
+#         url: /protectedspecies/NPSTI-talks/        
+#       - title: "~ 2018 NPSTI Mini Symposia"
+#         url: /protectedspecies/NPSTI-mini-symposium-2018/
+#       - title: "~ 2015 NPSTI Mini Symposia"
+#         url: /protectedspecies/NPSTI-mini-symposium-2015/
+        
+#   - title: "Human Dimensions"
+#     children:
+
+#   - title: "Ecosystems"
+#     children:
+    
+#   - title: "General Modeling Tools"
+#     children:
+#       - title: "~ Tutorials and Vignettes"
+#         url: /generaltools/general-tutorials/
+        
+#   - title: "Git & GitHub Resources"
+#     children: 
+#       - title: "~ Version Control"
+#         url: /onboarding/version-control2    
+#       - title: "~ A Beginner's Guide to GitHub"
+#         url: /resources/github-intro        
+#       - title: "~ NOAA GitHub Guidelines"
+#         url: /onboarding/github-account
+    
+#   - title: "R Resources"
+#     children:   
+#       - title: "~ Practical R Workflow"
+#         url: https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/
+#       - title: "~ Reproducible Reporting with R"
+#         url: https://noaa-iea.github.io/r3-train/index.html      
+#       - title: "~ NMFS R Users Group Training"
+#         url: https://nmfs-openscapes.github.io/Training/         
+#       - title: "~ Share Web Applications and Products"
+#         url: /onboarding/R-products           
+#       - title: "~ Posit Connect"
+#         url: /onboarding/connect      
+        
+#   - title: "Toolbox Developer Resources"
+#     children:
+#       - title: "~ Contributing to the Toolbox"
+#         url: /onboarding/contributing    
+#       - title: "~ Tool Onboarding Procedures"
+#         url: /onboarding/overview
+#       - title: "~ NOAA Themed pkgdown Landing Page"
+#         url: /workshops/NOAA-pkgdown
+        
+#   - title: "Developer Resources"
+#     children:
+#       # - title: "Onboarding Procedures"
+#       #   url: /docs/onboarding/
+#       #- title: "~ Version Control Best Practices"
+#       #  url: /best-practices/best-practices-version-control
+#       #- title: "~ Badging"
+#       #  url: /onboarding/badging-overview
+#       - title: "~ Code Documentation"
+#         url: /best-practices/code-documentation
+#       - title: "~ Code Review"
+#         url: /best-practices/code-review
+#       - title: "~ Code Testing"
+#         url: /best-practices/code-testing
+#       - title: "~ Backwards Compatibility"
+#         url: /best-practices/backwards-compatibility
+#       - title: "~ Reproducibility"
+#         url: /best-practices/reproducibile
+#       - title: "~ Cloud Resources"
+#         url: /cloud
+#       - title: "~ Object-Oriented Programming"
+#         url: /object-oriented-r 
+        
 
