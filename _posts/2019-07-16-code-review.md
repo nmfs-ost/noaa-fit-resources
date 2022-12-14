@@ -4,9 +4,11 @@ excerpt: "Overview of Code Review"
 date: 2019-07-16
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
-  - code-review
+  - code review
+  - software
+  - developer resources
 ---
 
 

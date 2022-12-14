@@ -4,10 +4,11 @@ excerpt: "MRIP"
 date: 2021-10-29
 toc: true
 categories:
-  - workshops
+  - NOAA Resources
 tags:
-  - trainings
-  - workshops
+  - tutorials
+  - seminars
+  - NOAA resources
 ---
 
 NOAA Fisheries’ [Marine Recreational Information Program](https://www.fisheries.noaa.gov/topic/recreational-fishing-data) works with state and regional partners to produce the recreational fisheries statistics that help scientists and managers assess and maintain sustainable U.S. fish stocks. In accordance with NOAA’s Information Quality Guidelines, program staff work to provide those who are affected by science and management decisions with the information needed to understand the data that informed them. This includes providing open access to:

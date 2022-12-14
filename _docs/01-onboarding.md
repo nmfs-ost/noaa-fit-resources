@@ -5,8 +5,7 @@ excerpt: "Overview of incorporating new tools"
 categories:
   - onboarding
 tags:
-  - new models
-  - new tools
+  - onboarding
 ---
 
 new tools...

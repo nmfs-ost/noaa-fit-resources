@@ -3,9 +3,9 @@ title: "FIT Calendar"
 excerpt: "FIT Calendar"
 date: 2022-12-02
 categories:
-  - resources
+  - NOAA Resources
 tags:
-  - resources
+  - calendar
 
 ---
 

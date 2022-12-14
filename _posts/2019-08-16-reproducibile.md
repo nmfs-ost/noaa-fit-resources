@@ -1,12 +1,16 @@
 ---
-title: "Reproducibile Code"
-excerpt: "Writting reproducible code"
+title: "Reproducible Code"
+excerpt: "Writing reproducible code"
 date: 2019-08-16
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
-  - reproducibile
+  - reproducible
+  - developer resources
+  - software
+  - software user resources
+  - R
 ---
 
 

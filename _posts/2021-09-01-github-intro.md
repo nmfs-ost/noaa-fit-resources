@@ -4,9 +4,12 @@ excerpt: "Intro to GitHub"
 date: 2021-09-01
 toc: true
 categories:
-  - resources
+  - Git and GitHub Resources
 tags:
   - GitHub
+  - git
+  - developer resources
+  - R
 ---
 # Why should you use GitHub? 
 

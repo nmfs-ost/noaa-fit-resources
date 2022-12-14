@@ -4,10 +4,11 @@ excerpt: "Video and Code Tutorials and Vignettes"
 date: 2021-06-01
 toc: true
 categories:
-  - workshops
+  - NOAA FIT
 tags:
-  - resources
-  - fish and fisheries
+  - fish and fisheries drawer
+  - tutorials
+  - software user resources
 ---
 These code vignettes will walk you through how to set up and use some commonly used fish stock assessment models. All of these tools can be found in [Fish and Fisheries Tools](https://nmfs-fish-tools.github.io/) in the toolbox.
 

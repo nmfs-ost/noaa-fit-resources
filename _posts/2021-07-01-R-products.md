@@ -4,9 +4,9 @@ excerpt: "Posit Connect"
 date: 2021-07-01
 toc: true
 categories:
-  - onboarding
+  - NOAA Resources
 tags:
-  - resources
+  - app and website hosting
   - R
   - Posit
 ---

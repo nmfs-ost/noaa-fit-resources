@@ -15,7 +15,7 @@ docs:
       - title: "~ Tags"
         url: /tags/
 
-    - title: "About"
+  - title: "About"
     children:
       - title: "~ Info"
         url: /about/

@@ -4,11 +4,12 @@ excerpt: "Version control"
 date: 2021-07-30
 toc: true
 categories:
-  - onboarding
+  - Developer Resources
 tags:
-  - version-control
   - git
-  - github
+  - GitHub
+  - software
+  - developer resources
 ---
 
 There are many resources available on version control. Here is a simple overview as it relates to the NOAA Fisheries Integrated Toolbox.

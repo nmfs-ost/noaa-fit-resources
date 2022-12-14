@@ -4,9 +4,13 @@ excerpt: "Overview of Backwards Compatibility"
 date: 2019-07-16
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
-  - backwards-compatibility
+  - backwards compatibility
+  - software
+  - developer resources
+  - R
+
 ---
 
 

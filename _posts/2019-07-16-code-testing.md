@@ -4,9 +4,12 @@ excerpt: "Overview of Code Testing"
 date: 2019-07-16
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
   - testing
+  - developer resources
+  - software
+  - R
 ---
 
 

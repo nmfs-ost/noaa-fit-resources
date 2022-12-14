@@ -1,13 +1,14 @@
 ---
-title: "Badging-Overview"
-excerpt: "Overview of badging control"
+title: "Badging Overview"
+excerpt: "Overview of FIT Badging"
 date: 2019-06-05
 categories:
-  - onboarding
+  - NOAA FIT
 tags:
+  - software
   - badging
-  - developer-resources
+  - developer resources
 
 ---
 
-new tools...
+coming soon...

@@ -4,9 +4,11 @@ excerpt: "NPSTI Seminars"
 date: 2021-11-17
 toc: true
 categories:
-  - protectedspecies
+  - NOAA Resources
 tags:
-  - Protected species
+  - protected species drawer
+  - seminars
+  - NOAA resources
 ---
 
 Projects funded under the National Protected Species Toolbox Initiative from FY18-20 were spotlighted at the monthly [Fisheries Integrated Toolbox Technical meetings](https://noaa-fisheries-integrated-toolbox.github.io/news/NOAA-FIT-Tech-Meeting/). Below are descriptions of the projects and recordings of the presentations. 
