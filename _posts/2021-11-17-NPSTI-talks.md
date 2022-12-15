@@ -16,7 +16,7 @@ Projects funded under the National Protected Species Toolbox Initiative from FY1
 > **Note:** For now, only NOAA employees can view these recrodings when they are logged into their Google account. If you're a NOAA employee and you're having trouble viewing any of the recordings on this page, they can all be viewed in Google Drive, [here](https://drive.google.com/drive/folders/1jP8_VgFIrrtYaE5_RV8Tw73mR9dMfPrw?usp=sharing). 
 
 
-> Transcripts for all recordings are available upon request, [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/)! 
+> Transcripts for all recordings are available upon request, [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/)! 
 
 ## Automating Bycatch Estimation from the Western Pacific Longline Fishery 
 

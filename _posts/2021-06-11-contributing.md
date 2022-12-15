@@ -21,7 +21,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-Please [contact the toolbox maintainers](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/), or the owners of a specific repository directly if you have a question.
+Please [contact the toolbox maintainers](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/), or the owners of a specific repository directly if you have a question.
 
 ## How Can I Contribute?
 
