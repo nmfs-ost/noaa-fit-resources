@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-The NOAA Fisheries Integrated Toolbox Resources site includes resources for both developers and users of the toolbox.
+The NOAA Fisheries Integrated Toolbox Resources site includes resources for both developers and users of the toolbox. Use the "categories" or "tags" menu options to find resources, or try searching in the search bar.
 
 - For questions about the Toolbox see the [FIT FAQ](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/FAQ/) or [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/).
 - You can check out our github organization and repos under the [Fisheries Integrated Toolbox](https://github.com/noaa-fisheries-integrated-toolbox).
