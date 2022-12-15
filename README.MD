@@ -24,6 +24,10 @@ tags:
 ---
 ```
 
+For the categories and tags available for use, please see the lists at https://noaa-fisheries-integrated-toolbox.github.io/resources/categories and https://noaa-fisheries-integrated-toolbox.github.io/resources/tags. Note that the case
+needs to be matched. Please also avoid adding new tags or categories, unless there really isn't a similar tag in the list already and adding the new tag would help users find it.
+Only 1 category should be included for a post, but unlimited tags can be added.
+
 > See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
 5. Once a post is created in the post folder, build the site locally using github codespaces (instructions below).
 6. [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
