@@ -36,7 +36,7 @@ Only 1 category should be included for a post, but unlimited tags can be added.
 
 1. Open a codespace from this repo.
 2. In the terminal run `gem install bundler jekyll` (note: I'm not sure this is necessary)
-3. Then run `bundle update` followed by `bundle add webrick`
+3. Then run `bundle update`
 4. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
 
 Note: don't save any new files under the "_site" directory.
