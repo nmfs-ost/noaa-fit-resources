@@ -4,11 +4,12 @@ excerpt: "Version control"
 date: 2021-07-30
 toc: true
 categories:
-  - onboarding
+  - Developer Resources
 tags:
-  - version-control
   - git
-  - github
+  - GitHub
+  - software
+  - developer resources
 ---
 
 There are many resources available on version control. Here is a simple overview as it relates to the NOAA Fisheries Integrated Toolbox.
@@ -50,7 +51,7 @@ General installation [directions](https://git-scm.com/book/en/v2/Getting-Started
 You will need administrative privileges to install.  Git can be used at the command line or with graphical user interfaces depending on your preferences. Herein we focus on command line information.
 
 Once installed, you'll need to configure git with your identity information.
-The user name and user email you use for git will be needed later for setting up your GitHub account.  It is likely you may need to set up a system to track your identity for both work and personal use.  See [using multiple accounts](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/github-account/#multiple-identities) if this is the case.
+The user name and user email you use for git will be needed later for setting up your GitHub account.  It is likely you may need to set up a system to track your identity for both work and personal use.  See [using multiple accounts](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/#multiple-identities) if this is the case.
 
 Although you could just use Git locally for version control, it is best to use with a server system.  Locally, Git alone will allow you to track and revert changes.  By using it in conjunction with a server, you'll have backups of your code and be able to easily collaborate.
 
@@ -61,7 +62,7 @@ There are many open-source and private systems that offer Git Server as a Servic
 - [Bitbucket](https://bitbucket.org/)
 
 ## Basic GIT workflows
-The following offers a basic Git workflow using the command line. For more information about using Rstudio with Git and Github, see the [Practical R workflow](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/R-workflow/) workshop series or [these resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/github-account/#general-information-and-resources-for-using-github)
+The following offers a basic Git workflow using the command line. For more information about using Rstudio with Git and Github, see the [Practical R workflow](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/R-workflow/) workshop series or [these resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/#general-information-and-resources-for-using-github)
 
 Starting from scratch:
 1. Make a directory folder on your computer where you will work

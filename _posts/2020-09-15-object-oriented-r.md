@@ -4,9 +4,9 @@ excerpt: "Overview of object-oriented programming systems in R"
 date: 2020-09-15
 toc: true
 categories:
-  -
+  - Developer Resources
 tags:
-  - object-oriented programming
+  - developer resources
   - R
   - software
 ---

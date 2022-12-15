@@ -4,12 +4,12 @@ excerpt: "Overview of Version Control Best Practices"
 date: 2019-06-14
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
-  - software
-  - new-tools
-  - version-control
   - git
+  - GitHub
+  - software
+  - developer resources
 ---
 
 General principles of change management

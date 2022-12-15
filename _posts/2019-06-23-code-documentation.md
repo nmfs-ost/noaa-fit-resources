@@ -4,9 +4,11 @@ excerpt: "Overview of Documentation"
 date: 2019-06-23
 toc: true
 categories:
-  - best-practices
+  - Developer Resources
 tags:
   - documentation
+  - developer resources
+  - reproducible
 ---
 
 Introduction

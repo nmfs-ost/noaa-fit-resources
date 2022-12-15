@@ -4,9 +4,10 @@ excerpt: "NOAA Library Stock Assessment Science Seminar Series"
 date: 2021-05-05
 toc: true
 categories:
-  - workshops
+  - NOAA Resources
 tags:
-  - resources
+  - NOAA resources
+  - seminars
 ---
 
 The [NOAA Central Library](https://library.noaa.gov/) seminar program provides an educational forum for the presentation of ideas, research updates, and news in support of NOAA’s mission: to understand and predict changes in climate, weather, oceans and coasts; to share that knowledge and information with others; and to conserve and manage coastal and marine ecosystems and resources. The National Stock Assessment program has partnered with the NOAA Central Library to host a National Stock Assessment Science Seminar Series.

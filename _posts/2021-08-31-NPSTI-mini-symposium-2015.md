@@ -4,9 +4,11 @@ excerpt: "NPSTI Mini Symposium"
 date: 2021-08-31
 toc: true
 categories:
-  - protectedspecies
+  - NOAA Resources
 tags:
-  - Protected species
+  - protected species drawer
+  - seminars
+  - NOAA resources
 ---
 
 ## November 2015

@@ -4,9 +4,10 @@ excerpt: "Overview of coding best practices"
 date: 2019-06-03
 toc: true
 categories:
-  - onboarding
+  - Developer Resources
 tags:
   - software
-  - new tools
+  - developer resources
 ---
 
+coming soon...

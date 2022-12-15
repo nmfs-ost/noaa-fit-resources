@@ -4,10 +4,13 @@ excerpt: "NOAA themed pkgdown"
 date: 2021-06-11
 toc: true
 categories:
-  - workshops
+  - NOAA Resources
 tags:
-  - resources
+  - NOAA resources
   - GitHub
+  - developer resources
+  - software
+  - app and website hosting
 ---
 
 ## How to create a NOAA themed pkgdown landing site for your tool

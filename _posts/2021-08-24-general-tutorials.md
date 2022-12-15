@@ -1,12 +1,14 @@
 ---
-title: "Tutorials and Vignettes"
+title: "Tutorials and Vignettes, FIT General Modeling Tools"
 excerpt: "General Modeling Tool Tutorials and Vignettes"
 date: 2021-08-24
 toc: true
 categories:
-  - generaltools
+  - NOAA FIT
 tags:
   - tutorials
+  - software user resources
+  - general modeling drawer
 ---
 
 The following tutorials provide overviews and demos of tools found in the [General Modeling Tools](https://nmfs-general-modeling-tools.github.io/) drawer of the toolbox. 

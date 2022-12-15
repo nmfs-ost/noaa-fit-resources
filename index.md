@@ -16,6 +16,6 @@ sidebar:
   <li style="background:#0a4595;" >General Modeling Tools</li>
 </ul>
 
-This Resources page provides resources associated with each drawer of the toolbox for users, as well as resources for developers of tools. To contribute to the toolbox, see [Contributing](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contributing/) and to include a tool in the toolbox see [Onboarding Procedures](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/overview/).
+This Resources page provides resources associated with each drawer of the toolbox for users, as well as resources for developers of tools. To contribute to the toolbox, see [Contributing](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contributing/) and to include a tool in the toolbox see [Onboarding Procedures](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/overview/).
 
-> For questions, comments, or ideas for the the Resources page, [contact the team](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/).
+> For questions, comments, or ideas for the the Resources page, [contact the team](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/).

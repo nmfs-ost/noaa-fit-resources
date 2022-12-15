@@ -4,9 +4,9 @@ excerpt: "Posit Connect"
 date: 2021-07-01
 toc: true
 categories:
-  - onboarding
+  - NOAA Resources
 tags:
-  - resources
+  - app and website hosting
   - R
   - Posit
 ---
@@ -17,6 +17,6 @@ Learn more about Shiny [through Tutorials]](https://shiny.rstudio.com/tutorial/)
 
 ### [Posit Connect](https://posit.co/products/enterprise/connect/)
 
-> NOAA Fisheries scientists may be able to host their content on the Office of Science and Technology's Connect Server. Please [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/) for more details.
+> NOAA Fisheries scientists may be able to host their content on the Office of Science and Technology's Connect Server. Please [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/) for more details.
 
-Connect is a publishing platform where you can share Shiny applications, R Markdown reports, dashboards, plots, APIs, and more. Use push-button publishing from the RStudio IDE, scheduled execution of reports, and flexible security policies. Also see the [Connect Demo](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/connect/) for NOAA Fisheries to learn how RStudio Connect can be used by NOAA scientists.
+Connect is a publishing platform where you can share Shiny applications, R Markdown reports, dashboards, plots, APIs, and more. Use push-button publishing from the RStudio IDE, scheduled execution of reports, and flexible security policies. Also see the [Connect Demo](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/connect/) for NOAA Fisheries to learn how RStudio Connect can be used by NOAA scientists.

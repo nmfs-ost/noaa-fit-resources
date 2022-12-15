@@ -4,9 +4,10 @@ excerpt: "NPSTI Publications"
 date: 2021-10-29
 toc: true
 categories:
-  - protectedspecies
+  - NOAA Resources
 tags:
-  - Protected species
+  - protected species drawer
+  - NOAA resources
 ---
 
 Through the National Protected Species Toolbox Initiative, NOAA Fisheries is developing quantitative analytical tools that will improve protected species assessments and better analyze impacts from human activities, research and development capabilities, and address critical management concerns. Below are publications associated with this initiative.

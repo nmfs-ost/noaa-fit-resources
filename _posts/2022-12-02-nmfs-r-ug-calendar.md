@@ -3,9 +3,13 @@ title: "NMFS R User Group Information"
 excerpt: "NMFS R User Group"
 date: 2022-12-02
 categories:
-  - resources
+  - NOAA Resources
 tags:
   - R
+  - calendar
+  - NOAA resources
+  - software user resources
+  - developer resources
 
 ---
 

@@ -4,10 +4,10 @@ excerpt: "General Stock Assessment Information"
 date: 2021-06-01
 toc: true
 categories:
-  - workshops
+  - NOAA Resources
 tags:
-  - resources
-  - fish and fisheries
+  - fish and fisheries drawer
+  - stock assessment
 ---
 [Population assessments](https://www.fisheries.noaa.gov/topic/population-assessments) are a key component of marine resource management. These assessments allow us to evaluate and report the status of managed fisheries, marine mammals, and endangered/threatened species under the authorities of the Magnuson-Stevens Fishery Conservation and Management Act, the Marine Mammal Protection Act, and the Endangered Species Act.
 

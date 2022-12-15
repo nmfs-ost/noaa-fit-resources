@@ -4,9 +4,12 @@ excerpt: "Intro to GitHub"
 date: 2021-09-01
 toc: true
 categories:
-  - resources
+  - Git and GitHub Resources
 tags:
   - GitHub
+  - git
+  - developer resources
+  - R
 ---
 # Why should you use GitHub? 
 
@@ -59,7 +62,7 @@ This video tutorial provides an intro to using Git and GitHub. Follow along with
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
-- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control2/#basic-git-workflows)
+- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/version-control2/#basic-git-workflows)
 - [Practical R Workflow for Scientists](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/index.html)
   - Specifically [week 1](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week1.html), [week 2](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week2.html), and [week 3](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week3.html)
 - [Collaborate with R and GitHub](https://noaa-iea.github.io/r3-train/collaborate.html)

@@ -4,10 +4,11 @@ excerpt: "R tools"
 date: 2021-06-11
 toc: true
 categories:
-  - onboarding
+  - NOAA FIT
 tags:
-  - resources
   - R
+  - developer resources
+  - software
 ---
 
 The following is a set of guidelines for contributing to tools hosted on the NOAA Fisheries Toolbox, which are hosted in the [NMFS Fish Tools Organization](https://github.com/nmfs-fish-tools) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request. Heavily influenced by Atom's [CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md).
@@ -20,7 +21,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
-Please [contact the toolbox maintainers](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/contact/), or the owners of a specific repository directly if you have a question.
+Please [contact the toolbox maintainers](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/), or the owners of a specific repository directly if you have a question.
 
 ## How Can I Contribute?
 

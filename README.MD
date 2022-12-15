@@ -17,22 +17,20 @@ excerpt: "R tools"
 date: 2021-06-11
 toc: true
 categories:
-  - onboarding
+  - NOAA FIT
 tags:
   - R
+  - NOAA resources
 ---
 ```
 
-> See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
-6. Add your post to the table of contents by adding it to the `navigation.yml` [located here](https://github.com/noaa-fisheries-integrated-toolbox/resources/blob/master/_data/navigation.yml).
-7. In the `navigation.yml`, choose the header it lies under and add a title for your new page.
+For the categories and tags available for use, please see the lists at https://noaa-fisheries-integrated-toolbox.github.io/resources/categories and https://noaa-fisheries-integrated-toolbox.github.io/resources/tags. Note that the case
+needs to be matched. Please also avoid adding new tags or categories, unless there really isn't a similar tag in the list already and adding the new tag would help users find it.
+Only 1 category should be included for a post, but unlimited tags can be added.
 
-```
-      - title: "~ Contributing to the Toolbox"
-        url: /onboarding/contributing    
-```
-> The url will be `/category/post-name` depending on the category indicated in the `.md` file and the name of the `.md` file after the date in the posts folder
-7. Once a post is created in the post folder and the `navigation.yml` file is updated, [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
+> See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
+5. Once a post is created in the post folder, build the site locally using github codespaces (instructions below).
+6. [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
 
 ### Build the site locally using github codespaces.
 
@@ -58,3 +56,12 @@ Example code from YouTube embed link:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/A7qDN2oYSxc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 ```
+
+### How to embed a google calendar in a `.md` page
+1. Find the embeded link in the "settings" for the google calendar.
+
+Example code:
+```
+<iframe src="https://calendar.google.com/calendar/embed?src=c_43jjc1ei4kujqki7o5ud918ea8%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+```
+
