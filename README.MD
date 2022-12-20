@@ -32,7 +32,7 @@ Only 1 category should be included for a post, but unlimited tags can be added.
 5. Once a post is created in the post folder, build the site locally using github codespaces (instructions below).
 6. [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
 
-### Build the site locally using github codespaces.
+### Build the site locally using GitHub codespaces.
 
 1. Open a codespace from this repo.
 2. In the terminal run `gem install bundler jekyll` (note: I'm not sure this is necessary)
