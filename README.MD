@@ -35,9 +35,10 @@ Only 1 category should be included for a post, but unlimited tags can be added.
 ### Build the site locally using GitHub codespaces.
 
 1. Open a codespace from this repo.
-2. In the terminal run `gem install bundler jekyll` (note: I'm not sure this is necessary)
-3. Then run `bundle update`
-4. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
+2. In the terminal run `bundle update`
+3. Finally run `bundle exec jekyll serve`. This can be viewed using the "Ports" tab.
+
+Changes can then be made and the website will be updated as they are made.
 
 Note: don't save any new files under the "_site" directory.
 
