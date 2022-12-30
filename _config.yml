@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: NOAA Fisheries Integrated Toolbox Resources
-email: fishereies.toolbox@noaa.gov
+email: fisheries.toolbox@noaa.gov
 description: >- # this means to ignore newlines until "baseurl:"
   NOAA Fisheries Integrated Toolbox Resources
 baseurl: "/resources" # the subpath of your site, e.g. /blog
