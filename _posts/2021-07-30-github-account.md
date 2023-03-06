@@ -12,7 +12,9 @@ tags:
   - developer resources
 ---
 
-[GitHub](https://github.com/) is a great way to share code and work collaboratively. Below are guidelines for creating a NOAA GitHub account and repositories under that account. More about the NOAA guidelines can be found [here](https://ufscommunity.org/wp-content/uploads/2019/11/20170823_NOAA_GitHub_Usage_Guidelines.pdf). Also see the main [NOAA GitHub site](https://github.com/NOAAGov) and [information](https://github.com/NOAAGov/Information), as well as the current [NOAA affiliated GitHub projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects). 
+[GitHub](https://github.com/) is a great way to share code and work collaboratively. Below are guidelines for creating a NOAA GitHub account and repositories under that account. More about the NOAA guidelines can be found [here](https://ufscommunity.org/wp-content/uploads/2019/11/20170823_NOAA_GitHub_Usage_Guidelines.pdf). Also see the main [NOAA GitHub site](https://github.com/NOAAGov) and [information](https://github.com/NOAAGov/Information), as well as the current [NOAA affiliated GitHub projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects).
+
+For a best practices guide for using GitHub within NOAA, see the [nmfs-opensci GitHub Guide](https://nmfs-opensci.github.io/GitHub-Guide/)
 
 ## How to create a NOAA GitHub account
 
@@ -30,17 +32,20 @@ To set up a NOAA approved GitHub account, [create an account with GitHub](https:
 To set up a repository to keep your code, [create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo) under your NOAA GitHub account and follow the below requirements:
 
 - Only allow write access to NOAA users
-  - All non-NOAA users can only have pull-request access
+- All non-NOAA users can only have pull-request access
 - Must include a `DISCLAIMER.md` like [this one](https://github.com/nmfs-fish-tools/Resources/blob/master/Disclaimer.md), or a disclaimer in the README
-- Must include specific wording in the `LICENCE.md` like [this](https://github.com/nmfs-fish-tools/Resources/blob/master/LICENSE.md)
+- Must include specific wording in the `LICENSE.md` like [this](https://github.com/nmfs-fish-tools/Resources/blob/master/LICENSE.md)
 - Must have a "gold standard" backup of the repo
 
-> One way to set administrative privileges on your repo is to create an [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) in GitHub. Repos will then fall under that org, and Github allows for more admin ability under organizations. 
+> One way to set administrative privileges on your repo is to create an [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) in GitHub. Repos will then fall under that organization, and Github allows for more admin ability under organizations.
 
-## Multiple Identities
-If you have multiple GitHub identities (perhaps a personal one and a work one).  You will want to be careful about which identity you use.  Here are some ways to deal with multiple identities. 
+## Multiple Accounts
 
-To check which identity you are using inside of a git repository by default:
+If you have multiple GitHub accounts (perhaps a personal one and a work one), you will want to be careful about which identity you use.
+
+The easiest solution is to use only one account per computer, but if that is not possible, here are some ways to deal with multiple identities locally.
+
+To check which identity you are using inside of a local clone of a git repository by default, type into the command line:
 
 ```
 git config user.name
