@@ -35,7 +35,7 @@ This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.
 
 ### Examples of tools and packages with NOAA themed pkgdown sites
 
-- [nmfspalette](https://nmfs-general-modeling-tools.github.io/nmfspalette/)
+- [nmfspalette](https://nmfs-fish-tools.github.io/nmfspalette/)
 - [r4MAS](https://nmfs-fish-tools.github.io/r4MAS/)
 - [adnuts](https://cole-monnahan-noaa.github.io/adnuts/)
 - [bayesdfa](https://fate-ewi.github.io/bayesdfa/)
