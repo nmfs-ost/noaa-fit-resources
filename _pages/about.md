@@ -6,13 +6,8 @@ sidebar:
   nav: "docs"
 ---
 
-The [NOAA Fisheries Integrated Toolbox Resources site](..) includes resources for both [tool developers](../categories/#developer-resources) and [tool users](../categories/#software-user-resources). Use the [categories](../categories) or [tags](../tags) menu options to find resources, or try searching in the search bar.
+Software is a critical component of the work that NOAA Fisheries scientists and developers do. Many scientists use and develop software for their own work tasks. However, most code is never seen except by the primary author or work group, even though the software could be applicable to other groups within NOAA Fisheries.
 
-- Navigate to the [NOAA FIT Homepage](https://noaa-fisheries-integrated-toolbox.github.io/) to search for tools.
-- For questions about the Toolbox, see the [FIT FAQ](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/FAQ/) or [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/).
-- You can check out our GitHub organization and repositories under the [Fisheries Integrated Toolbox](https://github.com/noaa-fisheries-integrated-toolbox).
-- For more information on setting up a NOAA approved GitHub account, see the [NOAA Github Guidelines](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/). 
-- To contribute to the Resources page, follow contributing instructions on the [Resources repo README](https://github.com/noaa-fisheries-integrated-toolbox/resources/blob/main/README.MD).
+The NOAA Fisheries Integrated Toolbox (NOAA FIT) aims to promote sharing of software solutions within the agency to reduce duplication. The NOAA FIT is a curated, web-based portal of data end-user software tools used within NOAA Fisheries. These tools support <a href = "https://nmfs-opensci.github.io/">open science</a> workflows for NOAA Fisheries research and operations. The NOAA FIT also includes resources to empower NOAA Fisheries scientists and developers to create reliable and sharable software.
 
-
-> The toolbox is maintained by the NOAA Fisheries National Stock Assessment Program (NSAP). NSAP is not NOAA's GitHub Administrator.
+The NOAA FIT is maintained by the [National Stock Assessment Program](https://www.fisheries.noaa.gov/topic/population-assessments) in the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) in collaboration with NOAA Fisheries researchers and developers across the line office.

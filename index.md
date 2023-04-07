@@ -8,11 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-Use the [Categories](./categories) or [Tags](./tags) menu options to find resources, or use the search bar.
-
-Looking for software tools? Navigate back to the [NOAA FIT Homepage](https://noaa-fisheries-integrated-toolbox.github.io/).
-
-For questions, comments, or ideas for the the Resources page, [contact the team](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/).
+The [NOAA Fisheries Integrated Toolbox Resources site](..) includes resources for both [tool developers](../categories/#developer-resources) and [tool users](../categories/#software-user-resources). Browse by [category](../categories) or [tag](../tags) menu options to find resources, or use the search bar.
 
 ## Latest Posts
 
