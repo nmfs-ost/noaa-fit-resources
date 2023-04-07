@@ -1,12 +1,16 @@
 docs:
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
   - title: "NOAA FIT Homepage"
     url: https://noaa-fisheries-integrated-toolbox.github.io/
+  - title: Resources
+    children:
+      - title: "Resources Home"
+        url: "/"
+      - title: "Browse By Category"
+        url: "/categories/"
+      - title: "Browse By Tag"
+        url: /tags/
+  - title: "About"
+    url: /about/
   - title: "Contact"
     url: /noaa%20fit/contact/
 
