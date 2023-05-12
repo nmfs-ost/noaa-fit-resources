@@ -10,7 +10,7 @@ tags:
   - R
   - Rstudio
   - tutorials
-  - posit
+  - Posit
 
 ---
 
