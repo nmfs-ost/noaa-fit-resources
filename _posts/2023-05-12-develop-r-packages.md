@@ -8,7 +8,7 @@ categories:
 tags:
   - developer resources
   - R
-  - Rstudio
+  - RStudio
   - tutorials
   - testing
 
