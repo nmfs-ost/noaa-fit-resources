@@ -2,7 +2,7 @@
 title: "Tips for Commenting Code"
 excerpt: "Learn how to comment concisely"
 date: 2023-02-17
-toc: true
+toc: false
 categories:
   - Developer Resources
 tags:

@@ -2,7 +2,7 @@
 title: "Stock Assessment Workshops and Trainings"
 excerpt: "Stock Assessment Workshops and Trainings"
 date: 2021-06-01
-toc: true
+toc: false
 categories:
   - NOAA Resources
 tags:
