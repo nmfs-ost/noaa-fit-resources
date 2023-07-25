@@ -97,4 +97,4 @@ submissions.
 R Package code review 
 ---------------------
 
-We've developed an [issue template in GitHub](https://github.com/nmfs-general-modeling-tools/nmfs-general-modeling-tools.github.io/blob/master/.github/ISSUE_TEMPLATE/r-package-code-review.md) that you can use as a checklist to review code for an R package. 
+We've developed an [issue template in GitHub](https://github.com/nmfs-general-modeling-tools/nmfs-general-modeling-tools.github.io/blob/main/.github/ISSUE_TEMPLATE/r-package-code-review.md) that you can use as a checklist to review code for an R package. 
