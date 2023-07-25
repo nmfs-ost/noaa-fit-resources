@@ -10,7 +10,6 @@ tags:
   - software developer resources
   - NOAA resources
   - open science
-  - tutorials
 
 ---
 
