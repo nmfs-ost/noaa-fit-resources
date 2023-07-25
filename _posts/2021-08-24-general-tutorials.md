@@ -11,7 +11,7 @@ tags:
   - general modeling drawer
 ---
 
-The following tutorials provide overviews and demos of tools found in the [General Modeling Tools](https://nmfs-general-modeling-tools.github.io/) drawer of the toolbox. 
+The following tutorials provide overviews and demos of tools found in the General Modeling Tools drawer of the toolbox. 
 
 ## Introduction to [bayesdfa](https://fate-ewi.github.io/bayesdfa/) R package
 
@@ -21,3 +21,6 @@ bayesdfa implements Bayesian Dynamic Factor Analysis (DFA) with Stan. The follow
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yTX7D8_Ad8g" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+## Interactive nmfspalette tutorial
+
+The [nmfspalette R package](nmfs-fish-tools.github.io/nmfspalette/) provides NMFS themed color palettes to use with R. Learn more through the [Interactive nmfspalette colors tutorial](https://connect.fisheries.noaa.gov/colors/).
