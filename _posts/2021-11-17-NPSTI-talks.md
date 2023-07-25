@@ -11,9 +11,9 @@ tags:
   - NOAA resources
 ---
 
-Projects funded under the National Protected Species Toolbox Initiative from FY18-20 were spotlighted at the monthly [Fisheries Integrated Toolbox Technical meetings](https://noaa-fisheries-integrated-toolbox.github.io/news/NOAA-FIT-Tech-Meeting/). Below are descriptions of the projects and recordings of the presentations. 
+Projects funded under the National Protected Species Toolbox Initiative from FY18-20 were spotlighted at the monthly Fisheries Integrated Toolbox Technical meetings. Below are descriptions of the projects and recordings of the presentations. 
 
-> **Note:** For now, only NOAA employees can view these recrodings when they are logged into their Google account. If you're a NOAA employee and you're having trouble viewing any of the recordings on this page, they can all be viewed in Google Drive, [here](https://drive.google.com/drive/folders/1jP8_VgFIrrtYaE5_RV8Tw73mR9dMfPrw?usp=sharing). 
+> **Note:** Only NOAA affiliates can view the recordings when they are logged into their Google account. If you're having trouble viewing any of the recordings on this page, they can all be [viewed in Google Drive](https://drive.google.com/drive/folders/1jP8_VgFIrrtYaE5_RV8Tw73mR9dMfPrw?usp=sharing) (NOAA Internal Only). 
 
 
 > Transcripts for all recordings are available upon request, [contact us](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/contact/)! 
@@ -45,7 +45,7 @@ Ole Shelton (presenter, NWFSC)
 
 ## Development of Tools and Tool Documentation for Endangered and Threatened Salmonid Stocks
 
-Elizabeth Holmes (presenter, NWFSC) 
+Eli Holmes (presenter, NWFSC) 
 
 <iframe src="https://drive.google.com/file/d/1uDlSgbkwGYCOWJbb2Tw_eP3945Yjpqvp/preview" width="640" height="480" allow="autoplay"></iframe>
 

@@ -7,7 +7,7 @@ categories:
   - Open Science
 tags:
   - software user resources
-  - software developer resources
+  - developer resources
   - open science
   - tutorials
 
