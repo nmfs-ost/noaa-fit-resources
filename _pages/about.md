@@ -16,7 +16,11 @@ The FIT is nothing without users and developers of software! The NOAA FIT is mai
 
 ## How do I list my software tool on the NOAA FIT website?
 
- Please request onboarding by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
+Please request onboarding by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
+
+ ## The metadata of my software on the NOAA FIT website is out of date. How do I update it?
+
+Please request the metadata be updated by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
 
 ## What is the FIT committee working on?
 
