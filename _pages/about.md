@@ -14,6 +14,10 @@ The NOAA Fisheries Integrated Toolbox (NOAA FIT) is designed to facilitate the a
 
 The FIT is nothing without users and developers of software! The NOAA FIT is maintained by the [National Stock Assessment Program](https://www.fisheries.noaa.gov/topic/population-assessments) in the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) in collaboration with NOAA Fisheries researchers and developers across the line office. The FIT committee, consisting of representatives across science centers and disciplines, provides direction for the FIT.
 
+## How do I list my software tool on the NOAA FIT website?
+
+ Please request onboarding by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
+
 ## What is the FIT committee working on?
 
 See the FIT committee's [2022 Strategic Plan Tracking](https://github.com/orgs/noaa-fisheries-integrated-toolbox/projects/3).
