@@ -1,5 +1,5 @@
 ---
-title: "Contributing to tools in the Toolbox"
+title: "Contributing to software in the Toolbox"
 excerpt: "R tools"
 date: 2021-06-11
 toc: true

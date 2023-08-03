@@ -1,6 +1,6 @@
 ---
 title: "Stock Assessment Workshops and Trainings"
-excerpt: "Stock Assessment Workshops and Trainings"
+excerpt: "Information about trainings for NOAA Fisheries stock assessment scientists"
 date: 2021-06-01
 toc: false
 categories:

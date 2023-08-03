@@ -15,9 +15,9 @@ tags:
   - app and website hosting
 ---
 
-Eli Holmes from the Northwest Center hosted an 8-part [Practical R Workflow workshop](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/) series. The series focused on tools and practices for NMFS scientists to help you be faster, more efficient, and organized in your coding and merging reports with code.
+Eli Holmes from the Northwest Center hosts  [Practical R Workflow workshops](https://rverse-tutorials.github.io/) series. The series focuses on tools and practices for NMFS scientists to help you be faster, more efficient, and organized in your coding and merging reports with code.
 
-## Topics covered
+## 2021 Topics covered
 
 | Topic | Description |
 | ------------- | ------------- |

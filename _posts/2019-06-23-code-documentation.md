@@ -63,10 +63,7 @@ for pushing code changes.
 
 In `R`, the syntax \``#` denotes comments that will be used to generate
 documentation. An example of the comments written above an `R` function
-to generate this documentation is provided below. Note you can use
-markdown syntax within these comments if an `@md` tag is included; see
-[here](https://cran.r-project.org/web/packages/roxygen2/vignettes/markdown.html)
-for more.
+to generate this documentation is provided below. 
 
 This example is for a helper function that does an assignment of a
 variable to a list slot. In addition to describing the behavior, the
@@ -167,6 +164,6 @@ user manual. While some user manuals have been successfully written in
 LaTeX or Microsoft Word, the amount of code contained in a typical user
 manual makes such systems inefficient. Further, using a markup language
 allows you to auto-generate some user manual content. Finally, using a
-markdown-based syntax (a good example is `bookdown` in `R`) allows you
+markdown-based syntax (a good example is `quarto` in `R`) allows you
 to easily create webpages from your user manual, which are much easier
 to browse online as opposed to downloading a large .pdf or .docx file.

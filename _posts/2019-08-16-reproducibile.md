@@ -32,7 +32,7 @@ protected, we encourage striving for reproducibility when possible. Many
 scholars have thought and written much about reproducibility that I will
 not repeat here, but a good starting place is rOpenSci's
 [reproducibility
-handbook](https://ropensci.github.io/reproducibility-guide/sections/introduction/).
+handbook](https://ropensci-archive.github.io/reproducibility-guide/).
 
 The NOAA Fisheries Toolbox is an example of a storage repository for
 common software tools, tools which encourage reproducibility by making

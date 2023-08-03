@@ -57,11 +57,10 @@ You can set `user.name` and `user.email` for each repository as you go. This wor
 Better: set up a `.gitconfig` to deal with multiple identities
 
 For more information on setting up configuration files on your computer for multiple accounts:
-- [Git Config Files using a folder structure](https://www.motowilliams.com/conditional-includes-for-git-config)
 - [Windows Machine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
 ## GitHub in Government
 
-More information about how GitHub is used in Gov [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov), with example organizations [here](https://github.com/Openscapes/2021-noaa-nmfs/wiki/1-GitHub-in-gov#github-in-noaa--nmfs).
+More information about how GitHub is used in Gov [here](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html), with example organizations [here](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs).
 

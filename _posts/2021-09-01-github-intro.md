@@ -17,7 +17,7 @@ tags:
 
 ### **Organization** 
 - [Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories) are like directories for your code or project 
-- Repositories can be **public**, if you want others to see your code or to [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/resources/github-intro/#collaboration), or **[private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)**, if you want to use Git and GitHub functionality without sharing your code. 
+- Repositories can be **public**, if you want others to see your code or to [collaborate](https://noaa-fisheries-integrated-toolbox.github.io/resources/git%20and%20github%20resources/github-intro/#collaboration), or **[private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility)**, if you want to use Git and GitHub functionality without sharing your code. 
 
 ### **[Version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)** 
 - GitHub offers Git server as a service to track changes you make to your code, so you can always go back and view a history of changes you've made
@@ -25,7 +25,7 @@ tags:
 ## Collaboration
 
 ### **Share code**
-- People can see your code and copy it directly to their computer by downloading a `.zip` file or by [‘cloning’](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
+- People can see your code and copy it directly to their computer by downloading a `.zip` file or by [cloning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your repository
 - People can also ‘fork’ your repository to have their own repository on GitHub that keeps up with changes to the your repo (see more about forking below) 
 
 ### **Get input from others**
@@ -62,8 +62,8 @@ This video tutorial provides an intro to using Git and GitHub. Follow along with
 - [GitHub Guides](https://guides.github.com/)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 - [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
-- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/version-control2/#basic-git-workflows)
-- [Practical R Workflow for Scientists](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/index.html)
+- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/version-control/#basic-git-workflows)
+- [Practical R Workflow for Scientists](https://rverse-tutorials.github.io)
   - Specifically [week 1](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week1.html), [week 2](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week2.html), and [week 3](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week3.html)
 - [Collaborate with R and GitHub](https://noaa-iea.github.io/r3-train/collaborate.html)
 - [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
