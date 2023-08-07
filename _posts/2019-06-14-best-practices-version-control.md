@@ -96,7 +96,7 @@ maintain backwards compatibility, which can lead to testing nightmares,
 but instead being clear about versioning and maintaining access to
 legacy software binaries for users who are unable to migrate to later
 software versions. Patches may be applied to legacy versions to port bug
-fixes when necessary.
+fixes when necessary. The post on [Dependency management](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/dependency-management/) provides more guidance.
 
 A good way to manage this is using GitHub releases. GitHub
 [releases](https://help.github.com/en/categories/releases) are designed

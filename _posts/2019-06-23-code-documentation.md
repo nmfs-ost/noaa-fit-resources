@@ -11,9 +11,6 @@ tags:
   - reproducible
 ---
 
-Introduction
-------------
-
 Every software tool requires documentation, and good documentation can
 make the difference between someone using your code and no one using
 your code. Moreso, good documentation can greatly reduce the amount of
@@ -25,7 +22,7 @@ have: *code reference*, *user manuals*, and *examples.* Each of these
 types of documentation is described below, along with links to resources
 to simplify and improve documentation creation.
 
-Code reference
+## Code reference
 --------------
 
 Code reference is the type of documentation most people are familiar
@@ -113,8 +110,7 @@ may also want to provide dynamics links to online databases - many APIs
 allow users to download data in a .JSON format, which can be converted
 to `R` dataframes using the `jsonlite` package.
 
-Examples
---------
+## Examples
 
 We also require at least one complete example of how to use software.
 The requirements to use this example must be installed with the
@@ -142,8 +138,7 @@ for examples of your code, including your examples and user-generated
 ones. You can do this by creating another Github repository within your
 software organization.
 
-User Manual
------------
+## User Manual
 
 The most time- and labor-intensive type of documentation is a user
 manual. A user manual may be dozens or hundreds of pages long and serves
