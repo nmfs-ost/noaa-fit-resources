@@ -4,7 +4,10 @@
 
 THe FIT Resources page is built on [Github Pages using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
 
+Post by year can be seen at https://noaa-fisheries-integrated-toolbox.github.io/resources/posts/
+
 ### How to add a post 
+
 1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this NOAA FIT [resources repo](https://github.com/noaa-fisheries-integrated-toolbox/resources)
 2. Create a blog post [markdown file](https://guides.github.com/features/mastering-markdown/) and add it to the [posts folder](https://github.com/noaa-fisheries-integrated-toolbox/resources/tree/master/_posts) in your forked repo
 3. Label the `.md` file `YYYY-MM-DD-post-name.md`
@@ -31,6 +34,8 @@ Only 1 category should be included for a post, but unlimited tags can be added.
 > See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
 5. Once a post is created in the post folder, build the site locally using github codespaces (instructions below).
 6. [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
+
+Need more details? Check out the [Minimal Mistakes working with posts documentation](https://mmistakes.github.io/minimal-mistakes/docs/posts/).
 
 ### Build the site locally using GitHub codespaces.
 
