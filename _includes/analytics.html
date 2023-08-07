@@ -1,15 +1,14 @@
-<!-- Google tag (gtag.js) -->
-<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-M5G6F8Q09V\">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'G-M5G6F8Q09V');
-</script>
+{% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}
 
-<!--- We participate in the US government's analytics program. See the data at analytics.usa.gov -->
-<script  language=\"javascript\" id=\"_fed_an_ua_tag\" src=\"https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA&pua=UA-23806328-1&yt=true&exts=aac,arc,arj,asf,asx,bin,flv,gif,gzip,hqx,jar,mp2,msp,phps,qt,qutm,mxd,ram,sea,sit,tar,torrent,tsv,wav,wpd,xml,z\" type=\"text/javascript\">
-</script>
+{% case site.analytics.provider %}
+{% when "google" %}
+  {% include /analytics-providers/google.html %}
+{% when "google-universal" %}
+  {% include /analytics-providers/google-universal.html %}
+{% when "google-gtag" %}
+  {% include /analytics-providers/google-gtag.html %}
+{% when "custom" %}
+  {% include /analytics-providers/custom.html %}
+{% endcase %}
+
+{% endif %}
