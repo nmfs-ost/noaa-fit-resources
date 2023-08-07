@@ -24,6 +24,8 @@ logo: "https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/FIT_g
 twitter_username:
 github_username:
 
+analytics:
+  provider: "custom"
 
 # Outputting
 permalink: /:categories/:title/
@@ -98,9 +100,6 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-
-
-
 
 category_archive:
   type: liquid
