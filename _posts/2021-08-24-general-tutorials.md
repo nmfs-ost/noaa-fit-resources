@@ -1,6 +1,6 @@
 ---
 title: "Tutorials and Vignettes, FIT General Modeling Tools"
-excerpt: "General Modeling Tool Tutorials and Vignettes"
+excerpt: "See tutorials for bayesdfa, nmfspalette, and more"
 date: 2021-08-24
 toc: true
 categories:

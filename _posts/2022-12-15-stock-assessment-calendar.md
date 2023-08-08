@@ -1,6 +1,6 @@
 ---
 title: "NOAA Stock Assessment Calendar"
-excerpt: "Calendar of events related to NOAA stock assessment"
+excerpt: "Calendar of events related to Fisheries stock assessment"
 date: 2022-12-15
 toc: false
 categories:

@@ -1,6 +1,6 @@
 ---
-title: "NMFS R User Group Information"
-excerpt: "NMFS R User Group"
+title: "NMFS R User Group"
+excerpt: "Information on the NOAA Fisheries-wide R user group"
 date: 2022-12-02
 categories:
   - NOAA Resources
