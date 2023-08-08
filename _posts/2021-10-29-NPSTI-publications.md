@@ -1,6 +1,6 @@
 ---
 title: "National Protected Species Toolbox Initiative Publications"
-excerpt: "NPSTI Publications"
+excerpt: "Publications resulting from the NPSTI"
 date: 2021-10-29
 toc: true
 categories:

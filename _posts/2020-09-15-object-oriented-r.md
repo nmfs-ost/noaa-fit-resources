@@ -30,6 +30,7 @@ Learn more about object oriented programming in [H.Wickham's book (Advanced R)](
 - [Fishery Library in R (S4 Classes)](https://flr-project.org/)
 - [Data-Limited Methods Toolkit (S4 Classes)](https://dlmtool.github.io/DLMtool/userguide/introduction.html)
 - [Objected-oriented Simulator of Marine Ecosystem (Java objects)](http://www.osmose-model.org/object-oriented-simulator-marine-ecosystems)
+- [Presentation on Object Oriented Programming in R](https://docs.google.com/presentation/d/1twfJtgg6pq9Obur-lBDvOBO7CA2nQdzutsWusV4OhI0/edit?usp=sharing) (NOAA Internal only)
 
 
 ## Resource links
