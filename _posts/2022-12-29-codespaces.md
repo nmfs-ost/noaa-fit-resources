@@ -1,6 +1,6 @@
 ---
 title: "Codespaces"
-excerpt: "Resources using GitHub Codespaces"
+excerpt: "Resources for using GitHub Codespaces"
 date: 2022-12-29
 toc: true
 categories:
@@ -28,9 +28,8 @@ If the specification files still need to be set up, there is [detailed documenta
 ## How do I set up Codespaces for R package development?
 
 There are many ways to configure Codespaces for R development. Some options include:
-1. Use [codespaces4r](https://github.com/nmfs-fish-tools/codespaces4r#usage) to set up a codespaces for your existing R package that you want to develop using codespaces. This includes all the features needed to make it easy to edit and use R code with the VScode IDE.
-2. Use [r-vscode-codespaces](https://github.com/nmfs-opensci/r-vscode-codespaces) to try out codespaces for R in a new project. This includes all the features needed to make it easy to edit and use R code with the VScode IDE.
-3. Lightest weight option: r-verse (follows steps in [github documentation](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-project-for-codespaces#step-1:-open-your-project-in-a-codespace)). This has R, but maybe not all the features you want to use it easily within codespaces. If the goal is just to run a few lines of R code without needing to extensively edit and test R code, this would be the best option.
-4. [r-codespaces](https://github.com/jakubnowicki/r-codespaces) many features and uses [renv](https://rstudio.github.io/renv/articles/renv.html), so startup takes a while. This option also takes a large amount of storage space.
-5. Get an environment with Python, R, Julia and Jupyter notebooks by following [Eli Holmes’s Demo](https://youtu.be/YDfZ5raWbs4). This is a good option if you are using Jupyter notebooks or Python and Julia in addition to R.
+1. Use [r-vscode-codespaces](https://github.com/nmfs-opensci/r-vscode-codespaces) to try out codespaces for R in a new project. This includes all the features needed to make it easy to edit and use R code with the VScode IDE.
+2. Lightest weight option: r-verse (follows steps in [github documentation](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-project-for-codespaces#step-1:-open-your-project-in-a-codespace)). This has R, but maybe not all the features you want to use it easily within codespaces. If the goal is just to run a few lines of R code without needing to extensively edit and test R code, this would be the best option.
+3. [r-codespaces](https://github.com/jakubnowicki/r-codespaces) many features and uses [renv](https://rstudio.github.io/renv/articles/renv.html), so startup takes a while. This option also takes a large amount of storage space.
+4. Get an environment with Python, R, Julia and Jupyter notebooks by following [Eli Holmes’s Demo](https://youtu.be/YDfZ5raWbs4). This is a good option if you are using Jupyter notebooks or Python and Julia in addition to R.
 

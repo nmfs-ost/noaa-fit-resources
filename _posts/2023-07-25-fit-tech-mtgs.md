@@ -1,6 +1,6 @@
 ---
-title: "NOAA FIT Techical Meeting Resources (2020-2021)"
-excerpt: "Notes, Slides, and Recordings from the NOAA FIT Tech Meetings during 2020 and 2021"
+title: "NOAA FIT Technical Meeting Resources (2020-2021)"
+excerpt: "View content from the NOAA FIT Tech Meetings that occurred during 2020 and 2021"
 date: 2023-07-25
 toc: false
 categories:
@@ -17,10 +17,9 @@ tags:
 ---
 
 The NOAA Fisheries Integrated Toolbox held monthly meetings for tool developers
-during 2020 and 2021. These meetings were called the "NOAA FIT Technical Meetings." 
-Notes, presentations, and some recordings are available as resources.
+during 2020 and 2021. Notes, presentations, and some recordings from these meetings are available as resources for noaa affiliates logged into their noaa.gov email account.
 
-The topics discussed included (all links NOAA Internal only):
+The topics discussed included:
 - [Github Actions](https://docs.google.com/presentation/d/1mT-OaDxA2Pjpz16GwcWHFDKDCWDxg-OOR0Zxm5nokxM/edit?usp=sharing)
 - [Multi-Species Modeling](https://noaa-edab.github.io/presentations/20201008_FIT_MSmods_Gaichas.html)  ([Notes](https://docs.google.com/document/d/1bYheQuObgDSqYWOHgHaqeFc37iCpQekBVgoXPDTTMvw/edit?usp=sharing))
 - [Cloud Computing](https://docs.google.com/presentation/d/1DoCoixuKXShX6or4MZgZo0pYep_-VdhmD87Ns4jpHa4/edit?usp=sharing) ([Notes](https://docs.google.com/document/d/1FJ8YH-AgyIOy3BWDaeS1qQNjA0-3NJPwWIHm7dCTP2o/edit?usp=sharing))

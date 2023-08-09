@@ -1,6 +1,6 @@
 ---
 title: "2018 National Protected Species Toolbox Initiative Mini Symposium"
-excerpt: "NPSTI Mini Symposium"
+excerpt: "Links to presentations from the 2018 NPSTI mini-symposium"
 date: 2021-08-31
 toc: true
 categories:

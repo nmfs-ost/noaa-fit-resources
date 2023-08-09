@@ -1,6 +1,6 @@
 ---
 title: "FRDC Stock Assessment Toolbox"
-excerpt: "Stock Assessment Software compiled by Australia's Fisheries Research and Development Corporation"
+excerpt: "Stock Assessment Software options compiled by Australia's Fisheries Research and Development Corporation"
 date: 2023-06-21
 toc: false
 categories:

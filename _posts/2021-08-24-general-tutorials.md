@@ -1,6 +1,6 @@
 ---
 title: "Tutorials and Vignettes, FIT General Modeling Tools"
-excerpt: "General Modeling Tool Tutorials and Vignettes"
+excerpt: "See tutorials for bayesdfa, nmfspalette, and more"
 date: 2021-08-24
 toc: true
 categories:
@@ -23,4 +23,4 @@ bayesdfa implements Bayesian Dynamic Factor Analysis (DFA) with Stan. The follow
 
 ## Interactive nmfspalette tutorial
 
-The [nmfspalette R package](nmfs-fish-tools.github.io/nmfspalette/) provides NMFS themed color palettes to use with R. Learn more through the [Interactive nmfspalette colors tutorial](https://connect.fisheries.noaa.gov/colors/).
+The [nmfspalette R package](https://nmfs-fish-tools.github.io/nmfspalette/) provides NMFS themed color palettes to use with R. Learn more through the [Interactive nmfspalette colors tutorial](https://connect.fisheries.noaa.gov/colors/).

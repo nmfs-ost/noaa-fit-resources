@@ -1,6 +1,6 @@
 ---
-title: "FY18-20 NPSTI Talks"
-excerpt: "NPSTI Seminars"
+title: "FY18-20 National Protected Species Toolbox Initiative Talks"
+excerpt: "Recordings and talks on tools funded by the FY18-20 NPSTI"
 date: 2021-11-17
 toc: true
 categories:

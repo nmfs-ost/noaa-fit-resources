@@ -1,6 +1,6 @@
 ---
 title: "Code Review"
-excerpt: "Overview of Code Review"
+excerpt: "Introduction to code review and how to do it"
 date: 2019-07-16
 toc: true
 categories:
@@ -13,8 +13,7 @@ tags:
 
 
 
-What is code review and why should I do it?
--------------------------------------------
+## What is code review and why should I do it?
 
 The point of code review is to improve code quality. By drawing on the
 expertise of reviewers in addition to code authors, code quality can be
@@ -27,15 +26,15 @@ If code review is done correctly, it saves author time. Other developers
 who review your code must understand why the change has been made and
 how it works, so if a bug is detected they are able to debug and/or fix
 it. Reviewing code before it is merged upstream increases the chances
-that bugs are caught before propogating to the master branch. Reviews
+that bugs are caught before propogating to the main branch. Reviews
 should be done often on small chunks of code, therefore each review
 should not take a substantial amount of time.
 
 ### Preparation for code reviews
 
-Code reviews can happen in person or via Github. Often, in-person
+Code reviews can happen in person or via GitHub. Often, in-person
 reviews are the most expedient - in an hour or two you can go over quite
-a few changes and get them all approved, whereas on Github it is likely
+a few changes and get them all approved, whereas on GitHub it is likely
 to take a few days for everyone to talk about and commit to a
 resolution. On Github, a code review commences when you initiate a pull
 request. Below are some steps you can take (from this [blog
@@ -46,17 +45,14 @@ in-person or Github code review to make things go more smoothly.
     intimately involved with your project should understand from the
     module documentation and the comments what you are trying to do,
     what approach you're taking, and why they should expect it to work.
-2.  Take some time to prepare a presentation about your code that will
+2.  Take some time to prepare information about your code that will
     answer the above questions even for someone who hasn't read the
     code. You're more likely to get useful feedback, rather than
     nitpicking about syntax, if the audience can see the big picture.
 3.  Get the code sent out at least a few days beforehand along with some
-    background about what to look at (if large), whether suggestions
-    should be about architecture/implementation/algorithm/requirements,
-    etc. Make sure everyone has enough time to read the code beforehand,
-    and don't send a series of updated versions immediately before code
+    background about what to look at (if large), what suggestions should be about (e.g., architecture, implementation, algorithm, or some other aspect). Make sure everyone has enough time to read the code beforehand, and don't send a series of updated versions immediately before code
     review.
-4.  Don't try to present too much. 200 lines is an absolute maximum - 50
+4.  Don't try to present too much code. 200 lines is an absolute maximum - 50
     is usually more reasonable.
 5.  Include examples, either as unit tests or standalone scripts.
 6.  Before sending the code out, review the checklist below and
@@ -68,11 +64,7 @@ Code review checklist
 
 Mozilla science has an excellent
 [checklist](https://mozillascience.github.io/codeReview/review.html) for
-scientific code review. Without reiterating too much of the article,
-they categorize things to look for into intrinsic and extrinsic issues,
-which could be described as internal or bigger-picture issues. We will
-continue to add to the bullet list below as we review more toolbox
-submissions.
+scientific code review.  Here are some additional suggestions.
 
 ### Intrinsic issues
 

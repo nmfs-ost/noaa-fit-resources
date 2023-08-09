@@ -1,6 +1,6 @@
 ---
 title: "Code Documentation"
-excerpt: "Overview of Documentation"
+excerpt: "How to document code and datasets well"
 date: 2019-06-23
 toc: true
 categories:
@@ -10,9 +10,6 @@ tags:
   - developer resources
   - reproducible
 ---
-
-Introduction
-------------
 
 Every software tool requires documentation, and good documentation can
 make the difference between someone using your code and no one using
@@ -25,7 +22,7 @@ have: *code reference*, *user manuals*, and *examples.* Each of these
 types of documentation is described below, along with links to resources
 to simplify and improve documentation creation.
 
-Code reference
+## Code reference
 --------------
 
 Code reference is the type of documentation most people are familiar
@@ -61,12 +58,9 @@ for pushing code changes.
 
 ### An R example of how to create code reference
 
-In `R`, the syntax \``#` denotes comments that will be used to generate
+In `R`, the syntax `#'` denotes comments that will be used to generate
 documentation. An example of the comments written above an `R` function
-to generate this documentation is provided below. Note you can use
-markdown syntax within these comments if an `@md` tag is included; see
-[here](https://cran.r-project.org/web/packages/roxygen2/vignettes/markdown.html)
-for more.
+to generate this documentation is provided below. 
 
 This example is for a helper function that does an assignment of a
 variable to a list slot. In addition to describing the behavior, the
@@ -109,15 +103,14 @@ particularly helpful to providing good examples. There are many
 different ways to document data and we will not exhaustively detail them
 here. However, we recommend you adhere to standard data formats and
 provide at least some background information and metadata for each
-dataset. A common vocabulary is schema.org's. If your software is an `R`
+dataset. [Schema.org](https://schema.org/) has common vocabulary that can be used. For NOAA, there is also a [Data Management Handbook](https://sites.google.com/noaa.gov/noaa-data/handbook) that includes guidance. If your software is an `R`
 package, you should refer to this excellent
 [guidance](http://r-pkgs.had.co.nz/data.html) from Hadley Wickham. You
 may also want to provide dynamics links to online databases - many APIs
 allow users to download data in a .JSON format, which can be converted
 to `R` dataframes using the `jsonlite` package.
 
-Examples
---------
+## Examples
 
 We also require at least one complete example of how to use software.
 The requirements to use this example must be installed with the
@@ -145,8 +138,7 @@ for examples of your code, including your examples and user-generated
 ones. You can do this by creating another Github repository within your
 software organization.
 
-User Manual
------------
+## User Manual
 
 The most time- and labor-intensive type of documentation is a user
 manual. A user manual may be dozens or hundreds of pages long and serves
@@ -167,6 +159,6 @@ user manual. While some user manuals have been successfully written in
 LaTeX or Microsoft Word, the amount of code contained in a typical user
 manual makes such systems inefficient. Further, using a markup language
 allows you to auto-generate some user manual content. Finally, using a
-markdown-based syntax (a good example is `bookdown` in `R`) allows you
+markdown-based syntax (a good example is `quarto` in `R`) allows you
 to easily create webpages from your user manual, which are much easier
 to browse online as opposed to downloading a large .pdf or .docx file.

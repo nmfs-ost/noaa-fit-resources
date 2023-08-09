@@ -1,6 +1,6 @@
 ---
 title: "2015 National Protected Species Toolbox Initiative Mini Symposium"
-excerpt: "NPSTI Mini Symposium"
+excerpt: "See presentations from the 2015 NPSTI mini-symposium"
 date: 2021-08-31
 toc: true
 categories:
@@ -13,7 +13,7 @@ tags:
 
 ## November 2015
 
-Scientists from NOAA Fisheries' Science Centers gathered at the NOAA Science Center in Silver Spring on November 18, 2015, to present some of the tools and applications they have been working on between 2013 and 2015. These emerging tools were developed as part of a national protected species toolbox initiative supported by Dr. Richard Merrick (NOAA Fisheries’ Chief Scientist) and spearheaded by the Office of Science and Technology, to produce quantitative analytical tools to improve protected species assessments and better analyze impacts from human activities. The mini-symposium served as an opportunity to strengthen scientific connections and collaboration between NOAA Fisheries science centers and internal and external partners. Over 70 external and NOAA participants attended the symposium via webinar and in person.
+Scientists from NOAA Fisheries' Science Centers gathered at the NOAA Science Center in Silver Spring on November 18, 2015, to present some of the tools and applications they have been working on between 2013 and 2015. These emerging tools were developed as part of a national protected species toolbox initiative spearheaded by the Office of Science and Technology, to produce quantitative analytical tools to improve protected species assessments and better analyze impacts from human activities. The mini-symposium served as an opportunity to strengthen scientific connections and collaboration between NOAA Fisheries science centers and internal and external partners. Over 70 external and NOAA participants attended the symposium via webinar and in person.
 
 ### [Spatial Prediction of Fisheries Bycatch](https://media.fisheries.noaa.gov/dam-migration/pstsymposium_brianstock_nov2015a.pdf)
 

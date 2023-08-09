@@ -1,6 +1,6 @@
 ---
-title: "Marine Recreational Information Program"
-excerpt: "MRIP"
+title: "Marine Recreational Information Program User Seminars"
+excerpt: "Links to past Seminars and information for MRIP users"
 date: 2021-10-29
 toc: true
 categories:
