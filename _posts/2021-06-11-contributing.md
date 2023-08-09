@@ -2,7 +2,7 @@
 title: "Contributing to the FIT"
 excerpt: "How to Contribute to the NOAA Fisheries Integrated Toolbox"
 date: 2021-06-11
-toc: true
+toc: false
 categories:
   - NOAA FIT
 tags:
@@ -11,6 +11,6 @@ tags:
   - software
 ---
 
-The following is a set of guidelines for contributing to tools hosted on the NOAA Fisheries Toolbox, which are hosted in the [NMFS Fish Tools Organization](https://github.com/nmfs-fish-tools) on GitHub: https://github.com/nmfs-fish-tools/Resources/blob/main/CONTRIBUTING.md
+A [set of guidelines](https://github.com/nmfs-fish-tools/Resources/blob/main/CONTRIBUTING.md) for contributing to tools hosted on the NOAA Fisheries Toolbox is available. NOAA FIT hotsted tools are in the [NMFS Fish Tools Organization](https://github.com/nmfs-fish-tools).
 
 These contributing guidelines can also be linked to other NOAA Fisheries software projects.

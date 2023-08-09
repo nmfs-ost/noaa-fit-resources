@@ -1,6 +1,6 @@
 ---
 title: "GitHub Best Practices"
-excerpt: "Overview of GitHub Best Practices"
+excerpt: "Guidance for writing code collaboratively on GitHub"
 date: 2019-06-14
 toc: true
 categories:
@@ -12,13 +12,12 @@ tags:
   - developer resources
 ---
 
-# Version Control Best Practices
 
 ## General principles of change management
 
 Some principles of software management and review are true across all
 workflows. These are presented first; for more details on possible
-workflows in GitHub, see "GitHub workflow" section below.
+workflows in GitHub, see the [more GitHub workflow options section](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/best-practices-version-control/#more-github-workflow-options).
 
 1.  The `main` branch is always stable. To ensure stability, a combination of automated testing and manual review needs to be undertaken everytime a change is merged into `main.` At minimum complete the following checklist:
 - A series of unit tests are ran. Realistically, this means using a continous integration tool (we recommend [GitHub Actions](https://docs.github.com/en/actions). Manual running of test suites at the frequency we expect changes to be merged becomes way too cumbersome. The [ghactions4r package](https://nmfs-fish-tools.github.io/ghactions4r/) provides setup functions to use common GitHub Actions workflows for R packages.

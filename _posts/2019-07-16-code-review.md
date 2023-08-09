@@ -1,6 +1,6 @@
 ---
 title: "Code Review"
-excerpt: "Overview of Code Review"
+excerpt: "Introduction to code review and how to do it"
 date: 2019-07-16
 toc: true
 categories:
@@ -13,8 +13,7 @@ tags:
 
 
 
-What is code review and why should I do it?
--------------------------------------------
+## What is code review and why should I do it?
 
 The point of code review is to improve code quality. By drawing on the
 expertise of reviewers in addition to code authors, code quality can be

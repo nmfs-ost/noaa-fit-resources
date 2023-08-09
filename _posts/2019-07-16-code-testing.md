@@ -1,6 +1,6 @@
 ---
 title: "Code Testing"
-excerpt: "Overview of Code Testing"
+excerpt: "Guidance on how to test your code"
 date: 2019-07-16
 toc: true
 categories:
@@ -46,8 +46,7 @@ In `R`, the (`testthat` package)[https://testthat.r-lib.org/index.html]
 is the most widely used unit testing framework. It works best on R packages
 rather than scripts. Get started with `testthat` using the [Testing basics chapter of R packages](https://r-pkgs.org/testing-basics.html).
 
-Integrated tests
-----------------
+## Integrated tests
 
 There may be isolated cases where your package consists only of a number
 of independent functions that are not expected to be called in sequence.
@@ -81,8 +80,7 @@ If you are using `R`, you can include integrated tests in another
 "test....R" file within the `testing` directory so they are run whenever
 the `testthat::test_check()` function is called.
 
-Code coverage
--------------
+## Code coverage
 
 Once you think you have a good suite of test cases created, there are
 many automated tools you can use to see how much of your code is covered

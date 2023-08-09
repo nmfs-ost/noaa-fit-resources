@@ -1,6 +1,6 @@
 ---
 title: "Codespaces"
-excerpt: "Resources using GitHub Codespaces"
+excerpt: "Resources for using GitHub Codespaces"
 date: 2022-12-29
 toc: true
 categories:

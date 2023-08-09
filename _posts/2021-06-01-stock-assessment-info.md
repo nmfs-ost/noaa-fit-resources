@@ -1,6 +1,6 @@
 ---
 title: "General Stock Assessment Information"
-excerpt: "Information about fisheries and marine mammal stock assessments"
+excerpt: "Introduction to fisheries and marine mammal stock assessments"
 date: 2021-06-01
 toc: false
 categories:

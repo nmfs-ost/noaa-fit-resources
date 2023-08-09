@@ -17,9 +17,9 @@ tags:
 
 ## What is reproducibility?
 
-"An article about computational results is advertising, not scholarship.
-The actual scholarship is the full software environment, code, and data,
-that produced the result." - Claerbout and Karrenbach, 1992
+> "An article about computational results is advertising, not scholarship.The actual scholarship is the full software environment, code, and data, that produced the result." 
+>
+\- Claerbout and Karrenbach, 1992
 
 Reproducibility in software or science refers to the ability of others to
 repeat your analyses and come up with the same result. Traditionally,
@@ -41,13 +41,13 @@ reproducible. A large part of reproducibility is ensuring others can
 follow the steps and set up the same data and environment as you did to
 complete a task. Tools to enable and simplify this include:
 
-1. literate programming tools (i.e. `Rmarkdown`,
-`knitr`, Doxygen)
-2. provenance-tracking tools, in other words, tools to
+1. Literate programming tools (i.e. `Rmarkdown`,
+`knitr`, `Doxygen`)
+2. Provenance-tracking tools, in other words, tools to
 track to origin and chronology of data, code, figures, and results (i.e.
-`drake`, Kepler)
-3. interactive notebooks
-4. tools to capture or emulate a specific software environment
+`drake`, `Kepler`)
+3. Interactive notebooks
+4. Tools to capture or emulate a specific software environment
 
 ## Literate programming
 
@@ -65,7 +65,7 @@ for converting text to HTML and has several benefits:
 - it allows for seamless integration of code, rich text, and equations
 - it can quickly generate web content (i.e. HTML pages) that can be quickly and
 easily styled without the manual formatting and repositioning required
-by LaTeX, for example.
+by `LaTeX`, for example.
 
 Markdown can be [extended](https://www.markdownguide.org/extended-syntax/), so 
 you may encounter different "flavors" of markdown. For example, when writing on
@@ -84,16 +84,16 @@ lab notebook. Provenance tracking tools can include things
 like programming notebooks and markdown. They
 can also include workflow tools, which track the steps in your workflow
 and which inputs and outputs were used and produced at each time. Workflow 
-management tools include [Kepler](https://kepler-project.org/) and 
-[targets](https://docs.ropensci.org/targets/).
+management tools include [`Kepler`](https://kepler-project.org/) and 
+[`targets`](https://docs.ropensci.org/targets/).
 
 ## Notebooks
 
 Interactive notebooks capture the benefits of literate programming approaches, by
 incorporating descriptive text with code, as well as allowing real-time editing 
 and re-running of the code. Some commonly used notebook formats are [R
-notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html), [Jupyter
-notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)
+notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html) and [Jupyter
+notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
 ## Capturing/emulating software environments
 

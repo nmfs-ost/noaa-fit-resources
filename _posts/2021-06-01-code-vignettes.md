@@ -1,6 +1,6 @@
 ---
 title: "Tutorials and Vignettes"
-excerpt: "Video and Code Tutorials and Vignettes"
+excerpt: "Self-guided resources for using NOAA FIT tools"
 date: 2021-06-01
 toc: true
 categories:

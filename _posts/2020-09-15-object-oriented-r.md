@@ -1,6 +1,6 @@
 ---
 title: "Object-oriented programming in R"
-excerpt: "Overview of object-oriented programming systems in R"
+excerpt: "Learn about what object-oriented programming systems are and how they are implemented in R"
 date: 2020-09-15
 toc: true
 categories:
@@ -13,15 +13,20 @@ tags:
 
 ## What is object and object-oriented programming (OOP)?
 
-From J.Niño and F.Hosch (2008):
-An object is "a software abstraction representing some data component to be manipulated by the system".
-OOP refers to "a method of software development in which the system is organized around data objects".
+>From J.Niño and F.Hosch (2008):
+>
+>An **object** is "a software abstraction representing some data component to be manipulated by the system".
+>
+>**Object-oriented programming** (OOP) refers to "a method of software development in which the system is organized around data objects".
+
+
 Using OOP, we can use modular pieces of code to build complex models or large systems.
 
 ## OOP systems in R
 
 Based on H.Wickham (2019):
-R supports OOP. S3, S4, and Reference classes (RC) are the three main OOP systems in R. An object from these systems contains both classes and methods. Classes include the type and data fields of an object. Methods are implemented in a class and define the behavior of the class.
+
+R supports OOP. S3, S4, Reference classes (RC), and [R6](https://r6.r-lib.org/) are the main OOP systems in R. An object from these systems contains both classes and methods. Classes include the type and data fields of an object. Methods are implemented in a class and define the behavior of the class.
 
 Learn more about object oriented programming in [H.Wickham's book (Advanced R)](https://adv-r.hadley.nz/oo.html).
 

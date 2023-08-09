@@ -1,6 +1,6 @@
 ---
-title: "Practical R Workflow Workshop for NMFS Scientists"
-excerpt: "RStudio Products"
+title: "Practical R Workflow Workshop for NOAA Fisheries Scientists"
+excerpt: "Self-guided resources to learn about using R in a reproducible way"
 date: 2021-07-27
 toc: true
 categories:

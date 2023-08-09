@@ -1,7 +1,7 @@
 ---
-title: "FIT Calendar"
-excerpt: "FIT Calendar"
-date: 2022-12-02
+title: "NOAA Fisheries Integrated Toolbox Calendar"
+excerpt: "See NOAA FIT community events"
+date: 2023-08-09
 categories:
   - NOAA Resources
 tags:
@@ -9,4 +9,4 @@ tags:
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_2n1orb8t2npbj13hl501f0872g%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+*Coming soon!*

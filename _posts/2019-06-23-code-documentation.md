@@ -1,6 +1,6 @@
 ---
 title: "Code Documentation"
-excerpt: "Overview of Documentation"
+excerpt: "How to document code and datasets well"
 date: 2019-06-23
 toc: true
 categories:
@@ -58,7 +58,7 @@ for pushing code changes.
 
 ### An R example of how to create code reference
 
-In `R`, the syntax \``#` denotes comments that will be used to generate
+In `R`, the syntax `#'` denotes comments that will be used to generate
 documentation. An example of the comments written above an `R` function
 to generate this documentation is provided below. 
 
@@ -103,7 +103,7 @@ particularly helpful to providing good examples. There are many
 different ways to document data and we will not exhaustively detail them
 here. However, we recommend you adhere to standard data formats and
 provide at least some background information and metadata for each
-dataset. A common vocabulary is schema.org's. If your software is an `R`
+dataset. [Schema.org](https://schema.org/) has common vocabulary that can be used. For NOAA, there is also a [Data Management Handbook](https://sites.google.com/noaa.gov/noaa-data/handbook) that includes guidance. If your software is an `R`
 package, you should refer to this excellent
 [guidance](http://r-pkgs.had.co.nz/data.html) from Hadley Wickham. You
 may also want to provide dynamics links to online databases - many APIs
