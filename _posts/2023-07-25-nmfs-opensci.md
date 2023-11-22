@@ -13,4 +13,6 @@ tags:
 
 ---
 
-Federal agencies, including NOAA, have declared 2023 as [the Year of Open Science](https://open.science.gov/)! While the NOAA Fisheries Integrated Toolbox is key infrastructure for Open Science, it is not the whole picture. Learn more about open science at NOAA Fisheries by checking out [nmfs-opensci](https://nmfs-opensci.github.io/).
+Federal agencies, including NOAA, have declared 2023 as [the Year of Open Science](https://open.science.gov/)! While the NOAA Fisheries Integrated Toolbox is key infrastructure for Open Science, it is not the whole picture. 
+
+Learn more about open science at NOAA Fisheries by checking out the [nmfs-opensci GitHub site](https://nmfs-opensci.github.io/) or the [NOAA Fisheries Open Science intranet site (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-hq-st-open-science/home).
