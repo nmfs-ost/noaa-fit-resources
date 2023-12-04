@@ -2,7 +2,9 @@
 
 ## Contribute to the FIT Resources Page
 
-THe FIT Resources page is built on [Github Pages using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+THe FIT Resources page is built [using the Github Pages plug in for Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). Specifically, it uses [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) as a [remote theme](https://github.com/mmistakes/minimal-mistakes#remote-theme-method).
+
+Note that the GitHub pages plug in requires a [specific version of Jekyll](https://pages.github.com/versions/) that is not the latest. [Learn more about the GitHub pages plug in](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/).
 
 Post by year can be seen at https://noaa-fisheries-integrated-toolbox.github.io/resources/posts/
 
