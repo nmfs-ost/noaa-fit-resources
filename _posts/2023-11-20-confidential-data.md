@@ -14,15 +14,15 @@ tags:
 
 ## What is confidential data?
 
-There are many types of sensitive information within our work systems. This includes usernames, passwords, login information, port numbers, IP addresses, server names, Application Programming Interface (API) keys, Personally Identifiable Information (PII), Business Identifiable Information (BII), or confidential data. Confidential data could include information that must be protected under a data sharing agreement, grant, or contract and NMFS also has very specific kind of confidential information as defined by the Magnuson-Stevens Fishery Conservation and Management Act (MSA) which we refer to as MSA confidential data. There are many laws, regulations, and policies that determine how each of these types of protected information should be handled. Further, each region and science center has various policies and procedures about how to handle this information.
+There are many types of sensitive information within our work systems. This includes usernames, passwords, login information, port numbers, IP addresses, server names, Application Programming Interface (API) keys, Personal Identifiable Information (PII), Business Identifiable Information (BII), or confidential data. Confidential data could include information that must be protected under a data sharing agreement, grant, or contract; NMFS also has very specific kinds of confidential information as defined by the Magnuson-Stevens Fishery Conservation and Management Act (MSA), which we refer to as MSA confidential data. There are many laws, regulations, and policies that determine how each of these types of protected information should be handled. Further, each region and Science Center has various policies and procedures about how to handle this information.
 
-Working with sensitive information can cause challenges when working on GitHub, where sensitive information should **never** be stored, even if your code is private. Likewise, care must be taken when creating public products from summarized confidential data.
+Working with sensitive information can cause challenges when working on GitHub, where sensitive information should **never** be stored, even if your repository is private. Likewise, care must be taken when creating public products from summarized confidential data.
 
-Luckily, there are resources to help keep confidential data private.
+Luckily, there are resources to help keep many types of sensitive information protected.
 
 ## For R users: Confidentiality Confidence Builder
 
-Ady Rios (SEFSC) put together this [Confidentially Confidence Builder](https://github.com/nmfs-opensci/Confidentiality-Confidence-Builder) to learn tools to install safeguards to avoid pushing passwords or other sensitive information into GitHub.
+Ady Rios (SEFSC) put together this [Confidentiality Confidence Builder](https://github.com/nmfs-opensci/Confidentiality-Confidence-Builder) to learn tools and install safeguards to avoid pushing passwords or other sensitive information onto GitHub.
 
 ## Preventing accidental commits of confidential data in the GitHub Guide
 
