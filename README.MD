@@ -45,6 +45,8 @@ Need more details? Check out the [Minimal Mistakes working with posts documentat
 
 Changes can then be made and the website will be updated as they are made.
 
+Note the extension "code spell checker" can be used to spell check posts. After installing, refresh the page.
+
 Note: don't save any new files under the "_site" directory.
 
 ### Updating dependencies
