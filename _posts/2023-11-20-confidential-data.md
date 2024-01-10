@@ -64,6 +64,6 @@ The **Confidentiality Confidence Builder** describes a few tricks to avoid pushi
 
 ## Guidance for handling sensitive information and confidential data
 
-A new proposed rule is expected that will direct the agency to create more thorough and transparent guidance for handling confidential data. Until that rule publishes, it is the user's responsibility to protect sensitive information and at the discretion of each FMC to establish their own procedures.
+A new proposed rule is expected that will direct the agency to create more thorough and transparent guidance for handling confidential data. Until that rule publishes, it is the user's responsibility to protect sensitive information and at the discretion of each FMC to establish their own procedures. There are some [guidelines](https://drive.google.com/drive/folders/1cmiHnKCk-2N6WbsPX2kb8DV3DZympbzQ) (NOAA Internal Only).
 
 *Thanks to Erin Steiner (NWFSC) and Molly Stevens (SEFSC) for authoring this post!*
