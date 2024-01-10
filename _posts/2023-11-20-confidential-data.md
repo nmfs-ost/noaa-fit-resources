@@ -1,6 +1,6 @@
 ---
 title: "Resources for working with sensitive information"
-excerpt: "Helpful links for working with secrets"
+excerpt: "Helpful links for working with secrets and confidential data"
 date: 2023-11-20
 toc: true
 categories:
@@ -26,7 +26,11 @@ Ady Rios (SEFSC) put together this [Confidentiality Confidence Builder](https://
 
 ## Preventing accidental commits of confidential data in the GitHub Guide
 
-The NOAA Fisheries Open Science GitHub Best Practices Guide provides some [tips for avoiding accidental commits containing confidential data](https://nmfs-opensci.github.io/GitHub-Guide/#preventing-inadvertent-committing-of-secrets-or-credentials-to-github)
+The NOAA Fisheries Open Science GitHub Best Practices Guide provides some [tips for avoiding accidental commits containing confidential data](https://nmfs-opensci.github.io/GitHub-Guide/#preventing-inadvertent-committing-of-secrets-or-credentials-to-github).
+
+## GitHub: secret scanning and push protection
+
+For public repositories on GitHub, [secret scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning#about-secret-scanning-alerts-for-users) can be turned on to identify common sensitive information patterns quickly. There is also an option to block commits that contain secrets. Learn more on how to [set this up](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-security-and-analysis-settings-for-your-repository#enabling-or-disabling-security-and-analysis-features-for-public-repositories).
 
 ## Community support for working with sensitive information
 
@@ -53,7 +57,7 @@ And the exceptions for _information collected by observers are_:
 (i) to allow the sharing of observer information among observers and between observers and observer employers as necessary to train and prepare observers for deployments on specific vessels; or
 (ii) to validate the accuracy of the observer information collected.
 
-Unfortunately, as of this date, the only guidance we have about how to protect MSA confidential data is: 
+As of this date, the only guidance we have about how to protect MSA confidential data is: 
 "The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this Act or the use, release, or publication of bycatch information pursuant to paragraph (2)(A)."
 
 The **Confidentiality Confidence Builder** describes a few tricks to avoid pushing MSA confidential data to GitHub, but it requires more manual diligence than protecting other types of sensitive information like passwords or private links. There are many scientists at NOAA Fisheries that have designed workflows based on processing confidential fisheries data.
@@ -61,3 +65,5 @@ The **Confidentiality Confidence Builder** describes a few tricks to avoid pushi
 ## Guidance for handling sensitive information and confidential data
 
 A new proposed rule is expected that will direct the agency to create more thorough and transparent guidance for handling confidential data. Until that rule publishes, it is the user's responsibility to protect sensitive information and at the discretion of each FMC to establish their own procedures.
+
+*Thanks to Erin Steiner (NWFSC) and Molly Stevens (SEFSC) for authoring this post!*
