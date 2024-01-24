@@ -24,4 +24,4 @@ Please request the metadata be updated by [opening an issue in the onboard-and-u
 
 ## What is the FIT committee working on?
 
-See the FIT committee's [2023 Strategic Plan Tracking](https://github.com/orgs/noaa-fisheries-integrated-toolbox/projects/3).
+See the FIT committee's [2024 Strategic Plan Tracking](https://github.com/orgs/noaa-fisheries-integrated-toolbox/projects/9).
