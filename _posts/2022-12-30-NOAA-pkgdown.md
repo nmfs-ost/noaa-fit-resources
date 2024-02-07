@@ -20,12 +20,13 @@ Below are the 3 steps for creating a NOAA themed pkgdown webpage, with NOAA colo
 1. Set up a pkgdown website for your tool using the [pkgdown readme instructions](https://pkgdown.r-lib.org/).
 2. Create a pkgdown folder in your repository and add a file called `pkgdown/extra.css`. Add the code below to the `extra.css` file:
 
-```
-@import url("https://nmfs-fish-tools.github.io/nmfspalette/extra.css");
-```
+  ```
+  @import url("https://nmfs-fish-tools.github.io/nmfspalette/extra.css");
+  ```
 
 This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.io/nmfspalette/extra.css) to be used for your pkgdown site. Optional: For those who wish to dive deeper, read an [overview on what CSS is](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) to understand what the css file is doing.
-3. Add the code below to your repository's README.md to add a footer.
+
+3. Add the code below to your repository's README.md to add a footer with the NOAA Fisheries logo and info.
 
 ```
 <img src="https://raw.githubusercontent.com/nmfs-fish-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" alt="NOAA Fisheries Logo">
@@ -45,7 +46,7 @@ This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.
 
 Optional steps to improve your pkgdown page
 
-### Adding a video tutoral to your landing page
+### Adding a video tutorial to your landing page
 
 Follow the instructions below to add a video demo or overview of your tool on your pkgdown landing page. Examples of this can be seen on the [wham](https://timjmiller.github.io/wham/) and [bayesdfa](https://fate-ewi.github.io/bayesdfa/) pages. 
 
