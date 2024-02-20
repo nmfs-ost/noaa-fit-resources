@@ -53,7 +53,7 @@ This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.
 
 Want your pkgdown site to always be up to date with your code? Use the [`use_update_pkgdown()`](https://nmfs-fish-tools.github.io/ghactions4r/reference/use_update_pkgdown.html) workflow from the [`{ghactions4r}` package](https://nmfs-fish-tools.github.io/ghactions4r/) to set up a GitHub Action that renders the pkgdown site automatically on changes to the main branch. Note that this workflow will deploy the pkgdown site to a branch called gh-pages, so the [publishing source for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) will need be set to the root of the gh-pages branch. There is also a [`{usethis}` method](https://usethis.r-lib.org/reference/use_pkgdown.html) for automatically rendering your pkgdown site. The difference between the `{usethis}` approach and `{ghactions4r}` is that `{ghactions4r}` makes it so you only have to update the ghactions workflow once. 
 
-### Examples of tools and packages with NOAA themed pkgdown sites
+## Examples of tools and packages with NOAA themed pkgdown sites
 
 - [nmfspalette](https://nmfs-fish-tools.github.io/nmfspalette/)
 - [r4MAS](https://nmfs-fish-tools.github.io/r4MAS/)
