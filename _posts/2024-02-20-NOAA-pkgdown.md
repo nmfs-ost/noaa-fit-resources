@@ -1,7 +1,7 @@
 ---
 title: "NOAA Themed pkgdown"
 excerpt: "Create a NOAA themed pkgdown Landing Page in 3 steps"
-date: 2022-12-30
+date: 2024-2-20
 toc: true
 categories:
   - NOAA Resources
