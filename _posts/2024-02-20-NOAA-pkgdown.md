@@ -15,7 +15,7 @@ tags:
 
 ## How to create a NOAA themed pkgdown landing site for your tool
 
-Below are the 3 steps for creating a NOAA themed pkgdown webpage, with NOAA colors and a NOAA logo footer, for your tool on the toolbox.
+Below are the 4 steps for creating a NOAA themed pkgdown webpage, with NOAA colors and a NOAA logo footer, for your tool on the toolbox.
 
 1. Set up a pkgdown website for your tool using the [pkgdown readme instructions](https://pkgdown.r-lib.org/).
 2. Create a pkgdown folder in your repository and add a file called `pkgdown/extra.css`. Add the code below to the `extra.css` file:
@@ -49,6 +49,7 @@ This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.
 
     [U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)
     ```
+
 ## Automate your pkgdown rendering
 
 Want your pkgdown site to always be up to date with your code? Use the [`use_update_pkgdown()`](https://nmfs-fish-tools.github.io/ghactions4r/reference/use_update_pkgdown.html) workflow from the [`{ghactions4r}` package](https://nmfs-fish-tools.github.io/ghactions4r/) to set up a GitHub Action that renders the pkgdown site automatically on changes to the main branch. Note that this workflow will deploy the pkgdown site to a branch called gh-pages, so the [publishing source for GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) will need be set to the root of the gh-pages branch. There is also a [`{usethis}` method](https://usethis.r-lib.org/reference/use_pkgdown.html) for automatically rendering your pkgdown site. The difference between the `{usethis}` approach and `{ghactions4r}` is that `{ghactions4r}` makes it so you only have to update the ghactions workflow once. 
