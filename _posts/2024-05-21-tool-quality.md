@@ -49,13 +49,13 @@ The FIT coordinator will check your tool for [basics checklist items](https://no
 
 A badge will be displayed on the software tool's FIT web page:
 
-https://img.shields.io/badge/FIT_quality_checks-passed-759A06
+![FIT tool quality checks passed badge](https://img.shields.io/badge/FIT_quality_checks-passed-759A06.svg)
 
 If a tool will be assessed but hasn't yet, it will have a to-review badge:
 
-https://img.shields.io/badge/FIT_quality_checks-to_review-white
+![FIT tool quality checks to review badge](https://img.shields.io/badge/FIT_quality_checks-to_review-white.svg)
 
 If a tool will never be reviewed to meet the quality standards, it will have a "not assessed" badge:
 
-https://img.shields.io/badge/FIT_quality_checks-not_assessed-white
+![FIT tool quality checks not assessed badge](https://img.shields.io/badge/FIT_quality_checks-not_assessed-white.svg)
 
