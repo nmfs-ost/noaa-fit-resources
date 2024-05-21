@@ -27,7 +27,7 @@ For the FIT coordinator to fill out. These must be met for inclusion; no badge a
 - [ ] For NOAA developed products where the source code is linked, there is a [NOAA disclaimer](https://github.com/nmfs-fish-tools/resources?tab=readme-ov-file#noaa-license) on the readme.
 - [ ] After review: Add FIT badges to metadata based on reviewer's work.
 
-# Checklist for reviewers
+# Checklists for reviewers
 
 Thanks for reviewing this tool! Please use the information submitted by the tool authors to fill out the checklist.
 

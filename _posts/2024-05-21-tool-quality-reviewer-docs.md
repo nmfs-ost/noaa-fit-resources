@@ -32,6 +32,6 @@ If there is a conflict of interest, they should recuse themselves from tool revi
 Note that federal employees are subject to [federal ethics rules](https://2010-2014.commerce.gov/sites/default/files/documents/2015/january/noaa-summary_of_ethics_rules-2015_0.pdf), which include [conflicts of interest due to personal relationships](https://2010-2014.commerce.gov/sites/default/files/documents/2015/january/appearance_of_bias-awae-2015-e_0.pdf). Non-government peer reviewers of influential scientific information are subject to a [NOAA Conflict of Interest Policy](https://www.noaa.gov/organization/information-technology/policy-oversight/information-quality/noaa-conflict-of-interest-policy-for-non-government-peer-reviewers-of-influential-scientific).
 
 # When do reviews take place?
-- upon onboarding a tool
+- Upon onboarding a tool
 - For existing tools in the toolbox that have been developer or actively maintained since January 2019.
 - Biannually for existing tools.
