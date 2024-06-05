@@ -1,7 +1,7 @@
 ---
 title: "NOAA Themed pkgdown"
 excerpt: "Create a NOAA themed pkgdown Landing Page in 3 steps"
-date: 2024-2-20
+date: 2024-5-28
 toc: true
 categories:
   - NOAA Resources
@@ -66,7 +66,19 @@ Want your pkgdown site to always be up to date with your code? Use the [`use_upd
 
 Optional steps to improve your pkgdown page
 
-### Adding a video tutorial to your landing page
+### Adding a hex logo to your pkgdown landing page
+
+To add a hex sticker to your pkgdown page:
+
+- Add a logo file to `man/figures/logo.png`. Make sure it's just named `logo.png`.
+- Then to the top of your README.md file where you normally have your package title, switch out the title line with this:
+```
+# yourpackagename <img src="man/figures/logo.png" align="right" width=250/>
+```
+
+pkgdown will handle the rest for you, including creating a favicon. You may need to adjust the width of the logo to suit your needs. 
+
+### Adding a video tutorial to your pkgdown landing page
 
 Follow the instructions below to add a video demo or overview of your tool on your pkgdown landing page. Examples of this can be seen on the [wham](https://timjmiller.github.io/wham/) and [bayesdfa](https://fate-ewi.github.io/bayesdfa/) pages. 
 
