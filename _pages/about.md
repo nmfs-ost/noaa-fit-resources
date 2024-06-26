@@ -8,7 +8,7 @@ sidebar:
 
 ## Our mission
 
-The NOAA Fisheries Integrated Toolbox (NOAA FIT) is designed to facilitate the availability of modeling and analysis tools across NOAA Fisheries to ensure that the best available science is used to support living marine resource management. The FIT curates open source tools that NOAA Fisheries scientists use and develop to support open science workflows for NOAA Fisheries research and operations. The FIT strives to meet FAIR (Findable, Accessible, Interoperable, Reusable) principles for research software.
+The FIT curates publicly accessible software tools that NOAA Fisheries scientists use and develop to support research and operational scientific work. Through curating software, the FIT promotes use of the best available scientific software tools to support living marine resource management. The FIT strives to promote [FAIR (Findable, Accessible, Interoperable, Reusable) principles for research software](https://www.nature.com/articles/s41597-022-01710-x).
 
 ## Scope Statement
 
