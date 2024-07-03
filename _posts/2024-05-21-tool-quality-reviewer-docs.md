@@ -15,9 +15,9 @@ tags:
 
 # Review process overview
 
-A reviewer from the FIT committee is assigned to review a FIT tool. The review is checklist-based, meaning that a reviewer will used the information provided by a tool maintainer to determine if a tool meets each checkbox on the tool quality checklist.
+A reviewer from the FIT committee is assigned to review a FIT tool. The review is checklist-based, meaning that a reviewer will use the information provided by a tool maintainer to determine if a tool meets each checkbox on the tool quality checklist.
 
-Before review begins, the FIT coordinator will fill out the [Basics checklist](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/basics). After the basics are completed, the FIT coordinator will assign a reviewer to complete the [documentation](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/documentation) and [tests](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/tests) checklists.
+Before review begins, the FIT coordinator will fill out the [Basic checklist](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/basics). After the basics are completed, the FIT coordinator will assign a reviewer to complete the [documentation](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/documentation) and [tests](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklist/tests) checklists.
 
 # Reviewer conflict of interest
 
@@ -33,5 +33,5 @@ Note that federal employees are subject to [federal ethics rules](https://2010-2
 
 # When do reviews take place?
 - Upon onboarding a tool
-- For existing tools in the toolbox that have been developer or actively maintained since January 2019.
+- For existing tools in the toolbox that have been developed or actively maintained since January 2019.
 - Biannually for existing tools.
