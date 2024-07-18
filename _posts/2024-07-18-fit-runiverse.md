@@ -2,7 +2,7 @@
 title: "The FIT R Universe"
 excerpt: "Access up-to-date compiled R packages from the NOAA Fisheries Integrated Toolbox"
 date: 2024-7-18
-toc: false
+toc: true
 categories:
   - NOAA FIT
 tags:
