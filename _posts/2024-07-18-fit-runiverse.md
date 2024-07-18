@@ -15,7 +15,7 @@ tags:
 
 ## What is the FIT R Universe?
 
-The [FIT R Universe](https://noaa-fisheries-integrated-toolbox.r-universe.dev/packages) provides access to the latest compiled R packages in the FIT. These packages are built from the default branch of R code repositories in the FIT. Install is fast and easy (like installing from CRAN), with instructions are on each R package's R universe page. There is also documentation availabe on each R package.
+The [FIT R Universe](https://noaa-fisheries-integrated-toolbox.r-universe.dev/packages) provides access to the latest compiled R packages in the FIT. These packages are built from the default branch of R code repositories in the FIT. Install is fast and easy (like installing from CRAN), with instructions on each R package's R universe page. There is also documentation available on each R package.
 
 ## What is R universe?
 
