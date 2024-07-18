@@ -20,3 +20,12 @@ The [FIT R Universe](https://noaa-fisheries-integrated-toolbox.r-universe.dev/pa
 ## What is R universe?
 
 Learn more about [R universe](https://ropensci.org/r-universe/), a project of [R Open Sci](https://ropensci.org/).
+
+## What does the FIT R Universe offer for developers?
+
+The FIT R universe can provide value to developers by:
+
+- Passing and failed builds of their R package are visible on the [Builds page](https://noaa-fisheries-integrated-toolbox.r-universe.dev/builds)
+- Providing easier install experience for users, hopefully saving developers from troubleshooting install issues
+- [Vignettes are hosted](https://noaa-fisheries-integrated-toolbox.r-universe.dev/articles) with no additional set up for developers
+- Ability to download a snapshot of binaries on the [API page](https://noaa-fisheries-integrated-toolbox.r-universe.dev/apis), which can be attached to GitHub Releases
