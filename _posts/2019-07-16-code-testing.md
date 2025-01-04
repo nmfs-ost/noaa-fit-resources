@@ -30,7 +30,7 @@ functions for common R package development workflows (such as `devtools::check()
 
 Unit tests check that a singular piece of code (i.e. a function or
 method) does what it is intended to. The benefit of this type of test is
-that it is relatively straightforward to create and can catch many
+that it is relatively straightforward to create and it can catch many
 problems in software. The downside is unit tests are simplistic and
 therefore somewhat tedious to create. Most software platforms or IDEs
 have a way to auto-generate a skeleton of the unit test methods a user
@@ -42,8 +42,7 @@ folder.
 
 ### An R example of how to create tests
 
-In `R`, the (`testthat` package)[https://testthat.r-lib.org/index.html]
-is the most widely used unit testing framework. It works best on R packages
+In `R`, the [`testthat` package](https://testthat.r-lib.org/index.html) is the most widely used unit testing framework. It works best on R packages
 rather than scripts. Get started with `testthat` using the [Testing basics chapter of R packages](https://r-pkgs.org/testing-basics.html).
 
 ## Integrated tests
@@ -74,10 +73,10 @@ incompatible options are specified, or might mean you need many
 different integrated test cases. If you do not find the errors across
 multiple cases in an integrated tests, your users will, leading to much
 more debugging to find the error than if your code was adequately tested
-in the first place. <References on testing coverage?>
+in the first place.
 
 If you are using `R`, you can include integrated tests in another
-"test....R" file within the `testing` directory so they are run whenever
+`test-*.R` file within the `testing` directory so they are run whenever
 the `testthat::test_check()` function is called.
 
 ## Code coverage
@@ -96,4 +95,4 @@ features to your software.
 
 For R packages, the [calc-coverage](https://nmfs-fish-tools.github.io/ghactions4r/reference/use_calc_coverage.html) 
 workflow in `{ghactions4r}` can make it easier to set up code coverage 
-using `covr::codecov()` [codecov.io](codecov.io).
+using `covr::codecov()` and [codecov.io](codecov.io).
