@@ -13,10 +13,10 @@ tags:
 
 Every software tool requires documentation, and good documentation can
 make the difference between someone using your code and no one using
-your code. Moreso, good documentation can greatly reduce the amount of
+your code. Thorough documentation can greatly reduce the amount of
 issues/questions you have to answer directly from users, saving the
 developer time. In general, the more documentation and guidance you can
-provide via written or online resources, the better. However, at bare
+provide via written or online resources, the better. However, at a bare
 minimum, there are three key types of documentation any software should
 have: *code reference*, *user manuals*, and *examples.* Each of these
 types of documentation is described below, along with links to resources
@@ -50,7 +50,7 @@ reference. In the `R` language, for example, the `roxygen` package
 documentation for you if you add comments in apropriate places in an
 `.R` file. Other programming languages use standards such as `doxygen`
 (C/C++) or `sphinx` (Python). It is important you update this automated
-documentation whenever you make changes to the code that affects the
+documentation whenever you make changes to the code that affect the
 documentation - i.e. changing the inputs or outputs of a function.
 Updating the documentation (along with running automated tests and
 conducting code review) should become an automatic part of your process
@@ -106,7 +106,7 @@ provide at least some background information and metadata for each
 dataset. [Schema.org](https://schema.org/) has common vocabulary that can be used. For NOAA, there is also a [Data Management Handbook](https://sites.google.com/noaa.gov/noaa-data/handbook) that includes guidance. If your software is an `R`
 package, you should refer to this excellent
 [guidance](http://r-pkgs.had.co.nz/data.html) from Hadley Wickham. You
-may also want to provide dynamics links to online databases - many APIs
+may also want to provide dynamic links to online databases - many APIs
 allow users to download data in a .JSON format, which can be converted
 to `R` dataframes using the `jsonlite` package.
 
@@ -131,7 +131,7 @@ your users are expected to follow a workflow calling multiple functions,
 or if they will need to define a class that can then initiate actions.
 Integrated examples are nicely illustrated in a hybrid code/text format,
 although they can be adequately explained in comments within a code
-file. Some formats we recommend include markdown and Jupyter notebooks.
+file. Some formats we recommend include markdown, Jupyter notebooks, and Quarto.
 
 One best practice that is not required includes creating a shared space
 for examples of your code, including your examples and user-generated
