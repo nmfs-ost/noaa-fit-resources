@@ -16,7 +16,7 @@ The NOAA Fisheries Integrated Toolbox includes software tools in a variety of fo
 
 ## Who is involved
 
-The FIT is nothing without users and developers of software! The NOAA FIT is maintained by the [National Stock Assessment Program](https://www.fisheries.noaa.gov/topic/population-assessments) in the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) in collaboration with NOAA Fisheries researchers and developers across the line office. The FIT committee, consisting of representatives across science centers and disciplines, provides direction for the FIT. The NOAA Fisheries senior scientists may optionally attend FIT committee meetings and serve as liasons with the NOAA Fisheries Science Board.
+The FIT is nothing without users and developers of software! The NOAA FIT is maintained by the [National Stock Assessment Program](https://www.fisheries.noaa.gov/topic/population-assessments) in the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) in collaboration with NOAA Fisheries researchers and developers across the line office. [The FIT committee](https://docs.google.com/document/d/17QNyOUledJpV_Uw7soKffRO-DIPQi9p8AjSEmXkQpQA/edit?tab=t.0#heading=h.25a5izmwvkov), consisting of representatives across science centers and disciplines, provides direction for the FIT. The NOAA Fisheries senior scientists may optionally attend FIT committee meetings and serve as liasons with the NOAA Fisheries Science Board.
 
 ## Developer FAQs
 
