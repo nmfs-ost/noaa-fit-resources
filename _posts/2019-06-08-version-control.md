@@ -49,7 +49,7 @@ There are many open-source and private systems that offer Git Server as a Servic
 
 For NOAA Fisheries Integrated Toolbox tools, we recommend GitHub for maximum integration with the toolbox; however, other server systems will also work.
 
-For more information about using Rstudio with Git and Github, see the [Practical R workflow workshop series](https://rverse-tutorials.github.io/RWorkflow/intro-git.html) or [these resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/#general-information-and-resources-for-using-github)
+For more information about using Rstudio with Git and Github, see the [Practical R workflow workshop series](https://rverse-tutorials.github.io/RWorkflow/intro-git.html).
 
 ## Basic Git workflows
 
@@ -64,4 +64,4 @@ to decide on a workflow and modify it as needed so that it works for them.
 ### Some helpful Git commands
 
 - [The Git Everyday page](https://git-scm.com/docs/giteveryday) shows the most commonly used Git commands based on role.
-- For Git and GitHub users, this Quick reference [guide](https://training.github.com/downloads/github-git-cheat-sheet/) may provide a quick summary of useful information.
+- For Git and GitHub users, [this Git and GitHub reference guide](https://training.github.com/downloads/github-git-cheat-sheet/) may provide a quick summary of useful information.
