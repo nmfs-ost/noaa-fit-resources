@@ -30,15 +30,14 @@ R supports OOP. S3, S4, Reference classes (RC), and [R6](https://r6.r-lib.org/) 
 
 Learn more about object oriented programming in [H.Wickham's book (Advanced R)](https://adv-r.hadley.nz/oo.html).
 
-## OOP applications in marine science field
+## OOP in marine science applications
 
-- [Fishery Library in R (S4 Classes)](https://flr-project.org/)
-- [Data-Limited Methods Toolkit (S4 Classes)](https://dlmtool.github.io/DLMtool/userguide/introduction.html)
-- [Objected-oriented Simulator of Marine Ecosystem (Java objects)](http://www.osmose-model.org/object-oriented-simulator-marine-ecosystems)
-- [Presentation on Object Oriented Programming in R](https://docs.google.com/presentation/d/1twfJtgg6pq9Obur-lBDvOBO7CA2nQdzutsWusV4OhI0/edit?usp=sharing) (NOAA Internal only)
-
+- [Fishery Library in R](https://flr-project.org/)(S4 Classes)
+- [Data-Limited Methods Toolkit](https://dlmtool.github.io/DLMtool/userguide/introduction.html)(S4 Classes)
+- [Objected-oriented Simulator of Marine Ecosystem](https://osmose-model.org/)(Java objects)
 
 ## Resource links
 
+- [Presentation on Object Oriented Programming in R](https://docs.google.com/presentation/d/1twfJtgg6pq9Obur-lBDvOBO7CA2nQdzutsWusV4OhI0/edit?usp=sharing) (NOAA Internal only)
 - [J.Niño and F.Hosch's book (Introduction to programming and object oriented design using Java)](http://www.cs.uno.edu/~fred/nhText/index.html)
 - [Bioconductor](https://www.bioconductor.org/)

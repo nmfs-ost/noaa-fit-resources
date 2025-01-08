@@ -17,13 +17,13 @@ tags:
 ---
 
 The NOAA Fisheries Integrated Toolbox held monthly meetings for tool developers
-during 2020 and 2021. Notes, presentations, and some recordings from these meetings are available as resources for noaa affiliates logged into their noaa.gov email account.
+during 2020 and 2021. Notes, presentations, and some recordings from these meetings are available as resources for NOAA affiliates logged into their noaa.gov email account.
 
 The topics discussed included:
 - [Github Actions](https://docs.google.com/presentation/d/1mT-OaDxA2Pjpz16GwcWHFDKDCWDxg-OOR0Zxm5nokxM/edit?usp=sharing)
 - [Multi-Species Modeling](https://noaa-edab.github.io/presentations/20201008_FIT_MSmods_Gaichas.html)  ([Notes](https://docs.google.com/document/d/1bYheQuObgDSqYWOHgHaqeFc37iCpQekBVgoXPDTTMvw/edit?usp=sharing))
 - [Cloud Computing](https://docs.google.com/presentation/d/1DoCoixuKXShX6or4MZgZo0pYep_-VdhmD87Ns4jpHa4/edit?usp=sharing) ([Notes](https://docs.google.com/document/d/1FJ8YH-AgyIOy3BWDaeS1qQNjA0-3NJPwWIHm7dCTP2o/edit?usp=sharing))
-- User Interfaces ([Notes](https://docs.google.com/document/d/1FJ8YH-AgyIOy3BWDaeS1qQNjA0-3NJPwWIHm7dCTP2o/edit?usp=sharing))
+- User Interfaces ([Notes](https://docs.google.com/document/d/1PtiRHAA-cvg7y-k7Ey4LPRS-aIimadYBrTWYeC_0xno/edit?usp=sharing))
 - Modularity ([Notes](https://docs.google.com/document/d/1z3hirQjMHL_GTNGn7fmYrXS7z0JWgx7wwNBdeTyvPL4/edit?usp=sharing))
 - Object-Oriented Programming in R ([Notes](https://docs.google.com/document/d/1cOtRx8hBWVLAshxGI9NleFlYrcTsPR05DCh8yX0IEis/edit?usp=sharing))
 - Web Accessibility ([Notes](https://docs.google.com/document/d/1IaaA1IZPSH7SJNTiC4y2kgJtpEsT6LEKpvM3Tzgz-0g/edit?usp=sharing))

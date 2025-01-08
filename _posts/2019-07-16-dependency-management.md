@@ -48,9 +48,8 @@ listed under "Suggests:". Ideally, you can also specify which version of
 each package your package depends upon in parentheses following the
 package name.
 
-A best practice is to try to limit dependencies where possible some strategies 
-include:
-- If a package is only used in one or two "optional" functions, you can list it under "suggests."
+A best practice is to try to limit dependencies where possible:
+- If a package is only used in one or two "optional" functions, you can list it under "suggests" rather than "depends."
 - Limit use of R packages that have a lot of dependencies themselves
 
 More details are covered in the [The R packages book](http://r-pkgs.had.co.nz/description.html#dependencies).
