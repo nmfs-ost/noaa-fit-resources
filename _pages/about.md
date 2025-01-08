@@ -18,14 +18,24 @@ The NOAA Fisheries Integrated Toolbox includes software tools in a variety of fo
 
 The FIT is nothing without users and developers of software! The NOAA FIT is maintained by the [National Stock Assessment Program](https://www.fisheries.noaa.gov/topic/population-assessments) in the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) in collaboration with NOAA Fisheries researchers and developers across the line office. The FIT committee, consisting of representatives across science centers and disciplines, provides direction for the FIT. The NOAA Fisheries senior scientists may optionally attend FIT committee meetings and serve as liasons with the NOAA Fisheries Science Board.
 
-## How do I list my software tool on the NOAA FIT website?
+## Developer FAQs
 
-Please request onboarding by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
+### How do I list my software tool on the NOAA FIT website?
 
-## The metadata of my software on the NOAA FIT website is out of date. How do I update it?
+Please request onboarding by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose). Before requesting, check that your tool is [in scope for the FIT](https://noaa-fisheries-integrated-toolbox.github.io/resources/about/#scope-statement).
+
+### When is my tool ready for onboarding?
+
+A tool is ready for onboarding once it is a minimum viable product or a first working version.
+
+### The metadata of my software on the NOAA FIT website is out of date. How do I update it?
 
 Please request the metadata be updated by [opening an issue in the onboard-and-update repository](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose).
 
-## What is the FIT committee working on?
+### What standards does my tool have to meet?
+
+The FIT committee is currently working on [testing and documentation standards](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality/), but they are not yet required. Note they will soon be required, so adopting good testing and documentation practices will pay off in the long term. In addition, tools developed by NOAA affiliates should meet testing, documentation, and support standards as outlined in [NAO 201-118](https://www.noaa.gov/administration/nao-201-118-software-governance-and-public-release-policy).
+
+### What is the FIT committee working on?
 
 See the FIT committee's [2024 Strategic Plan Tracking](https://github.com/orgs/noaa-fisheries-integrated-toolbox/projects/9).
