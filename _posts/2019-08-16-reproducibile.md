@@ -17,7 +17,7 @@ tags:
 
 ## What is reproducibility?
 
-> "An article about computational results is advertising, not scholarship.The actual scholarship is the full software environment, code, and data, that produced the result." 
+> "An article about computational results is advertising, not scholarship.The actual scholarship is the full software environment, code, and data that produced the result." 
 >
 \- Claerbout and Karrenbach, 1992
 
@@ -27,10 +27,7 @@ the way scientists work is not amenable to reproducibility - code is
 scattered and highly customized, the steps taken to perform an analysis
 are not documented or shared, and the data for the analyses are kept
 private. Although there are cases where data must be
-protected, we encourage striving for reproducibility when possible. While any
-scholars have thought and written much about reproducibility,a good starting 
-place is rOpenSci's
-[reproducibility
+protected, we encourage striving for reproducibility when possible. To learn more about creating reproducible science, a good starting place is rOpenSci's [reproducibility
 handbook](https://ropensci-archive.github.io/reproducibility-guide/).
 
 The NOAA Fisheries Toolbox is an example of a storage repository for
@@ -41,11 +38,8 @@ reproducible. A large part of reproducibility is ensuring others can
 follow the steps and set up the same data and environment as you did to
 complete a task. Tools to enable and simplify this include:
 
-1. Literate programming tools (i.e. `Rmarkdown`,
-`knitr`, `Doxygen`)
-2. Provenance-tracking tools, in other words, tools to
-track to origin and chronology of data, code, figures, and results (i.e.
-`drake`, `Kepler`)
+1. Literate programming tools
+2. Provenance-tracking tools
 3. Interactive notebooks
 4. Tools to capture or emulate a specific software environment
 
@@ -87,7 +81,7 @@ and which inputs and outputs were used and produced at each time. Workflow
 management tools include [`Kepler`](https://kepler-project.org/) and 
 [`targets`](https://docs.ropensci.org/targets/).
 
-## Notebooks
+## Interactive Notebooks
 
 Interactive notebooks capture the benefits of literate programming approaches, by
 incorporating descriptive text with code, as well as allowing real-time editing 
