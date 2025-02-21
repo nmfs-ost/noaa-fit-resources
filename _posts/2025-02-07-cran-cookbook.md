@@ -1,17 +1,16 @@
 ---
-title: "Cran Cookbook"
-excerpt: "Guide for submitting your R package to Cran"
-date: 2024-7-18
-toc: true
+title: "CRAN Cookbook"
+excerpt: "Guide for submitting your R package to CRAN"
+date: 2025-2-20
+toc: false
 categories:
-  - NOAA FIT
+  - Developer Resources
 tags:
-  - software user resources
   - developer resources
   - R
-  - software
-  - documentation
+  - open science
 ---
 
-## Add content
-https://contributor.r-project.org/cran-cookbook/
+## The CRAN cookbook
+
+Looking to submit your R package to [CRAN](https://cran.r-project.org/)? The [CRAN cookbook](https://contributor.r-project.org/cran-cookbook/) provides guidance on preparing a submission, including solutions for common submission issues.
