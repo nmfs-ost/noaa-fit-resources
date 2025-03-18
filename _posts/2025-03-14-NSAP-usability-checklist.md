@@ -32,13 +32,12 @@ Standards Checklist](https://noaa-fisheries-integrated-toolbox.github.io/resourc
 
 - [ ] **Identify user base:** Who is intended to use this tool and how broad of an audience does this apply to?
 - [ ] **User friendly documentation:** Make sure that the message of what this tool does is clear and straightforward; design associated manual or documents for users to reference when they have questions
-      - [ ] Constant reminder of coverage on repo
+- [ ] Constant reminder of coverage on repo
 - [ ] **Cross team usage and understanding:** Start with presenting tool to close knit teams and tie in potential collaborations
       - What are you asking the reviewers to provide feedback on?
-- [ ] **Outreach:**
-    - [ ] *Internal promotion:* takes the form of presentations, workshops, and consistency of content - what are other ways to promote our tools beyond the typical forms?
-    - [ ] *External promotion:* Present and hold workshops to user base, send around promotional material or mention when able to in communication of the tool
-    - [ ] *User feedback:* Follow up with users after release to improve tool
+- [ ] **Outreach, internal promotion:** takes the form of presentations, workshops, and consistency of content - what are other ways to promote our tools beyond the typical forms?
+- [ ] **Outreach, external promotion:** Present and hold workshops to user base, send around promotional material or mention when able to in communication of the tool
+- [ ] **Outreach, user feedback:** Follow up with users after release to improve tool
 - [ ] **Widespread user training:** teaching the user base how to use the tool
 - [ ] **Optimize code:** Improve coding practices and organization to streamline coding for both development and user application
 - [ ] **Maintenance plans:** Have a plan for how and who will maintain the tool and communicate this to users.
