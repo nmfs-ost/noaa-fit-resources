@@ -33,7 +33,7 @@ Note: The order of the list is intentional. Each task should serve as a stepping
 - **Identify user base**: Who is intended to use this tool and how broad of an audience does this apply to?
 - **User friendly documentation:** Make sure that the message of what this tool does is clear and straightforward; design associated manual or documents for users to reference when they have questions. Functions should be documented adequately.
 - **Cross team usage and understanding:** Start with presenting tool to close knit teams and tie in potential collaborations. Ask for feedback.
-- **Outreach**
+- **Outreach and Education**
   - **Internal promotion:** Promote the tool within NOAA. This could take the form of presentations or workshops, but other formats are also possible.
   - **External promotion:** Promote the tool to the potential user base outside of NOAA. This could take the form of presentations or workshops, but other formats are also possible. Send around promotional material or briefly mention the tool in communications.
   - **User feedback:** Follow up with users after release to improve tool. Ask for feedback.
