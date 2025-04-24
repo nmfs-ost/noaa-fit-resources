@@ -20,11 +20,11 @@ Below are the 4 steps for creating a NOAA themed pkgdown webpage, with NOAA colo
 1. Set up a pkgdown website for your tool using the [pkgdown readme instructions](https://pkgdown.r-lib.org/).
 2. Create a pkgdown folder in your repository and add a file called `pkgdown/extra.css`. Add the code below to the `extra.css` file:
   ```
-  @import url("https://nmfs-fish-tools.github.io/nmfspalette/extra.css");
+  @import url("https://nmfs-ost.github.io/nmfspalette/extra.css");
   ```
-This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.io/nmfspalette/extra.css) to be used for your pkgdown site. Optional: For those who wish to dive deeper, read an [overview on what CSS is](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) to understand what the css file is doing.
+This will allow the [CSS file with NMFS styling](https://nmfs-ost.github.io/nmfspalette/extra.css) to be used for your pkgdown site. Optional: For those who wish to dive deeper, read an [overview on what CSS is](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) to understand what the css file is doing.
 
-3. If you don't have one already, add a [NOAA Disclaimer](https://raw.githubusercontent.com/nmfs-fish-tools/Resources/master/Disclaimer.md) to the footer of your README.md that will be automatically added to your pkgdown page.
+3. If you don't have one already, add a [NOAA Disclaimer](https://raw.githubusercontent.com/nmfs-ost/FIT-resource-files/refs/heads/main/Disclaimer.md) to the footer of your README.md that will be automatically added to your pkgdown page.
   ```
   ## Disclaimer
   The United States Department of Commerce (DOC) GitHub project code is
@@ -45,7 +45,7 @@ This will allow the [CSS file with NMFS styling](https://nmfs-fish-tools.github.
 4. Add the code below to your repository's README.md to add a footer.
 
     ```
-    <img src="https://raw.githubusercontent.com/nmfs-fish-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" width="200" style="height: 75px !important;"   alt="NOAA Fisheries Logo">
+    <img src="https://raw.githubusercontent.com/nmfs-ost/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" width="200" style="height: 75px !important;"   alt="NOAA Fisheries Logo">
 
     [U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)
     ```
@@ -56,8 +56,7 @@ Want your pkgdown site to always be up to date with your code? Use the [`use_upd
 
 ## Examples of tools and packages with NOAA themed pkgdown sites
 
-- [nmfspalette](https://nmfs-fish-tools.github.io/nmfspalette/)
-- [r4MAS](https://nmfs-fish-tools.github.io/r4MAS/)
+- [nmfspalette](https://nmfs-ost.github.io/nmfspalette/)
 - [adnuts](https://cole-monnahan-noaa.github.io/adnuts/)
 - [bayesdfa](https://fate-ewi.github.io/bayesdfa/)
 - [wham](https://timjmiller.github.io/wham/)
