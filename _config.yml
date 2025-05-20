@@ -17,7 +17,7 @@ title: NOAA Fisheries Integrated Toolbox
 email: fisheries.toolbox@noaa.gov
 description: >- # this means to ignore newlines until "baseurl:"
   NOAA Fisheries Integrated Toolbox Resources
-baseurl: "/resources" # the subpath of your site, e.g. /blog
+baseurl: "/noaa-fit-resources" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 search: true
 logo: "https://raw.githubusercontent.com/nmfs-ost/FIT-graphics/main/FIT_logo/logo_pngs/FIT_logo_2022_color_no_text.png"
