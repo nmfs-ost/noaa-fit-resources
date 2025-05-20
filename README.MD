@@ -6,12 +6,12 @@ THe FIT Resources page is built [using the Github Pages plug in for Jekyll](http
 
 Note that the GitHub pages plug in requires a [specific version of Jekyll](https://pages.github.com/versions/) that is not the latest. [Learn more about the GitHub pages plug in](https://www.moncefbelyamani.com/making-github-pages-work-with-latest-jekyll/).
 
-Post by year can be seen at https://noaa-fisheries-integrated-toolbox.github.io/resources/posts/
+Post by year can be seen at https://nmfs-ost.github.io/noaa-fit-resources/posts/
 
 ### How to add a post 
 
-1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this NOAA FIT [resources repo](https://github.com/noaa-fisheries-integrated-toolbox/resources)
-2. Create a blog post [markdown file](https://guides.github.com/features/mastering-markdown/) and add it to the [posts folder](https://github.com/noaa-fisheries-integrated-toolbox/resources/tree/master/_posts) in your forked repo
+1. [Fork](https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo) this NOAA FIT [resources repo](https://github.com/nmfs-ost/noaa-fit-resources)
+2. Create a blog post [markdown file](https://guides.github.com/features/mastering-markdown/) and add it to the [posts folder](https://github.com/nmfs-ost/noaa-fit-resources/tree/main/_posts) in your forked repo
 3. Label the `.md` file `YYYY-MM-DD-post-name.md`
 4. Create a header and add a category and tags (to search by). Here's an example header: 
 
@@ -29,11 +29,11 @@ tags:
 ---
 ```
 
-For the categories and tags available for use, please see the lists at https://noaa-fisheries-integrated-toolbox.github.io/resources/categories and https://noaa-fisheries-integrated-toolbox.github.io/resources/tags. Note that the case
+For the categories and tags available for use, please see the lists at https://nmfs-ost.github.io/noaa-fit-resources/categories and https://nmfs-ost.github.io/noaa-fit-resources/tags. Note that the case
 needs to be matched. Please also avoid adding new tags or categories, unless there really isn't a similar tag in the list already and adding the new tag would help users find it.
 Only 1 category should be included for a post, but unlimited tags can be added.
 
-> See [contributing.md](https://raw.githubusercontent.com/noaa-fisheries-integrated-toolbox/resources/master/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
+> See [contributing.md](https://raw.githubusercontent.com/nmfs-ost/noaa-fit-resources/main/_posts/2021-06-11-contributing.md) for an example of the `.md` file code.
 5. Once a post is created in the post folder, build the site locally using github codespaces (instructions below).
 6. [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
 

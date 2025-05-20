@@ -34,7 +34,7 @@ For public repositories on GitHub, [secret scanning](https://docs.github.com/en/
 
 ## Community support for working with sensitive information
 
-Reaching out to the [NMFS R User Group](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/nmfs-r-ug-calendar/) with questions can help you connect with others in NOAA Fisheries who are processing confidential data.
+Reaching out to the [NMFS R User Group](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20resources/nmfs-r-ug-calendar/) with questions can help you connect with others in NOAA Fisheries who are processing confidential data.
 
 ## MSA Confidential Data
 

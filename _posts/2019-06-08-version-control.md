@@ -36,7 +36,7 @@ A great reference for setting up and using Git for R users is the [Happy Git and
 
 The [Get Going with Git](https://git-scm.com/video/get-going) contains information on how to set up Git using the command line.
 
-If you would like to use multiple accounts (e.g., work and personal GitHub accounts) on the same computer, see [using multiple accounts](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/#multiple-identities).
+If you would like to use multiple accounts (e.g., work and personal GitHub accounts) on the same computer, see [using multiple accounts](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20resources/github-account/#multiple-identities).
 
 ### Using Git with a server system (e.g., GitHub)
 

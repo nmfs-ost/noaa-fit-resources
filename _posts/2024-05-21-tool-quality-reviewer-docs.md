@@ -17,7 +17,7 @@ tags:
 
 A reviewer from the FIT committee is assigned to review a FIT tool. The review is checklist-based, meaning that a reviewer will use the information provided by a tool maintainer to determine if a tool meets each checkbox on the tool quality checklist.
 
-Before review begins, the FIT coordinator will fill out the [tool inclusion checklist](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklists/#checklist-for-fit-coordinator). The FIT coordinator will then assign a reviewer to complete the [documentation](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklists/#documentation) and [tests](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklists/#tests) checklists.
+Before review begins, the FIT coordinator will fill out the [tool inclusion checklist](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20fit/tool-quality-reviewer-checklists/#checklist-for-fit-coordinator). The FIT coordinator will then assign a reviewer to complete the [documentation](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20fit/tool-quality-reviewer-checklists/#documentation) and [tests](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20fit/tool-quality-reviewer-checklists/#tests) checklists.
 
 # Reviewer conflict of interest
 

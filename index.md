@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 
-The [NOAA Fisheries Integrated Toolbox Resources site](..) includes resources for both [tool developers](https://noaa-fisheries-integrated-toolbox.github.io/resources/categories/#developer-resources) and [tool users](https://noaa-fisheries-integrated-toolbox.github.io/resources/categories/#software-user-resources). Browse by [category](https://noaa-fisheries-integrated-toolbox.github.io/resources/categories) or [tag](https://noaa-fisheries-integrated-toolbox.github.io/resources/tags) menu options to find resources, or use the search bar.
+The [NOAA Fisheries Integrated Toolbox Resources site](..) includes resources for both [tool developers](https://nmfs-ost.github.io/noaa-fit-resources/categories/#developer-resources) and [tool users](https://nmfs-ost.github.io/noaa-fit-resources/categories/#software-user-resources). Browse by [category](https://nmfs-ost.github.io/noaa-fit-resources/categories) or [tag](https://nmfs-ost.github.io/noaa-fit-resources/tags) menu options to find resources, or use the search bar.
 
 ## Latest Posts
 

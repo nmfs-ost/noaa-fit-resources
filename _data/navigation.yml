@@ -1,6 +1,6 @@
 docs:
   - title: "NOAA FIT Homepage"
-    url: https://noaa-fisheries-integrated-toolbox.github.io/
+    url: https://nmfs-ost.github.io/noaa-fit
   - title: Resources
     children:
       - title: "Resources Home"
