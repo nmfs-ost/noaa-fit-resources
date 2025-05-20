@@ -14,7 +14,7 @@ tags:
 
 GitHub offers Git server as a service to track changes you make to your code, so you can always go back and view a history of changes you've made. In addition, there is a suite of project management and collaboration tools that help facilitate working that revolves around a codebase.
 
-See information on [NOAA GitHub Guidelines](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20resources/github-account/) to learn about using GitHub as a NOAA Fisheries Affiliate.
+See information on [NOAA GitHub Guidelines](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20resources/github-account/) to learn about using GitHub as a NOAA Fisheries Affiliate.
 
 ### GitHub can help you stay organized
 

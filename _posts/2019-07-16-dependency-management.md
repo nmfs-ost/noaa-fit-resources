@@ -71,4 +71,4 @@ Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/m
 to release older, backwards compatible software. This way,
 newer software can continue to be released while a stable build that
 supports older software versions is maintained. More information is available in
-the [GitHub best practices post](https://noaa-fisheries-integrated-toolbox.github.io/resources/developer%20resources/best-practices-version-control/#software-versioning-and-github-releases).
+the [GitHub best practices post](https://nmfs-ost.github.io/noaa-fit-resources/developer%20resources/best-practices-version-control/#software-versioning-and-github-releases).

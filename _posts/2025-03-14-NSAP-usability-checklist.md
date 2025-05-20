@@ -24,7 +24,7 @@ The following checklist is intended to guide a developer before, during, and
 after development. We hope this will help developers move forward with promoting 
 their products and increasing usability within and outside of the agency. For 
 information on specific tool quality standards, please see the [FIT Tool Quality 
-Standards Checklist](https://noaa-fisheries-integrated-toolbox.github.io/resources/noaa%20fit/tool-quality-reviewer-checklists/). If any questions arise while following the checklist, [contact the FIT team](https://noaa-fisheries-integrated-toolbox.github.io/resources/contact/).
+Standards Checklist](https://nmfs-ost.github.io/noaa-fit-resources/noaa%20fit/tool-quality-reviewer-checklists/). If any questions arise while following the checklist, [contact the FIT team](https://nmfs-ost.github.io/noaa-fit-resources/contact/).
 
 ## Checklist
 

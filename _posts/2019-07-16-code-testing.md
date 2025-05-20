@@ -94,5 +94,4 @@ cases to cover new functionality at the same rate that you add new
 features to your software.
 
 For R packages, the [calc-coverage](https://nmfs-fish-tools.github.io/ghactions4r/reference/use_calc_coverage.html) 
-workflow in `{ghactions4r}` can make it easier to set up code coverage 
-using `covr::codecov()` and [codecov.io](codecov.io).
+workflow in `{ghactions4r}` can make it easier to set up code coverage.
