@@ -23,6 +23,7 @@ search: true
 logo: "https://raw.githubusercontent.com/nmfs-ost/FIT-graphics/main/FIT_logo/logo_pngs/FIT_logo_2022_color_no_text.png"
 twitter_username:
 github_username:
+repository: https://github.com/nmfs-ost/noaa-fit-resources
 
 analytics:
   provider: "custom"
