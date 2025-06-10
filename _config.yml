@@ -108,4 +108,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
+liquid:
+  error_mode: warn
