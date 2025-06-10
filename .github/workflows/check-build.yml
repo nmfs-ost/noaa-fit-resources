@@ -43,3 +43,8 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        
+      - name: check links
+        uses: untitaker/hyperlink@0.1.44
+        with:
+          args: _site/
