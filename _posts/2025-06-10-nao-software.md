@@ -1,5 +1,5 @@
 ---
-title: "NAO 201-118: Sofware Governance and Public Release"
+title: "NAO 201-118: Software Governance and Public Release"
 excerpt: "Information about the NOAA Administrative Order (NAO) on Software Goverannce and Public Release"
 date: 2025-6-10
 toc: false
