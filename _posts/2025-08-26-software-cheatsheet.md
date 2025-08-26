@@ -14,7 +14,7 @@ tags:
 ---
 
 
-Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of NOAA Fisheries developers putting together cheatsheets.
+Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
 
 ## Sophie Breitbart: Cheatsheet for the ASAR R package
 
@@ -39,3 +39,7 @@ At [[NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)] coworking t
 ## Kelli Johnson: Cheatsheet for the FIMS package
 
 TODO: Check in with Kelli to see if she would be interested in adding text here.
+
+## NASA Earthdata Cloud Cookbook
+
+Cheatsheets can also be used to illustrate essential steps for processes larger than working with a software package. For example, NASA Earthdata put together a series of [Cheatsheets and Guides for the Earthdata Cloud data](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/glossary.html), including a [workflow cheatsheet](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/glossary.html#workflow-cheatsheet) to help users learn the essential workflow components needed to work with NASA Earthdata Cloud data.
