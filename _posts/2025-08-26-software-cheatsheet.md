@@ -18,7 +18,7 @@ Have you been curious about making a [cheatsheet](https://posit.co/resources/che
 
 ## Sophie Breitbart: Cheatsheet for the `asar` R package
 
-At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) coworking, I shared that I'd finished [the first version of the `asar` cheatsheet](https://github.com/nmfs-ost/asar/blob/0a8fd9678800e068e301b94b67b00f40106a64d5/pkgdown/assets/asar_cheatsheet.pdf). After some further feedback, [the cheatsheet was updated once more](https://github.com/nmfs-ost/asar/blob/33cebc3ee8983ab867ef598cb74bc48c08b0a258/pkgdown/assets/asar_cheatsheet.pdf). We plan to continually update the cheatsheet as our package evolves. Here's some insight into how I made this cheatsheet (my first!):
+At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) coworking, I shared that I'd finished [the first version of the `asar` cheatsheet](https://github.com/nmfs-ost/asar/blob/0a8fd9678800e068e301b94b67b00f40106a64d5/pkgdown/assets/asar_cheatsheet.pdf). After some further feedback, [the cheatsheet was updated once more](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf). We plan to continually update the cheatsheet as our package evolves. Here's some insight into how I made this cheatsheet (my first!):
 
 ### Approach
 
@@ -44,7 +44,7 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 
 ### Current cheatsheet snapshot
 
-[![Screenshot of the August 2025 \`asar\` cheatsheet.](images/asar_cheatsheet_20250908.png)](https://github.com/nmfs-ost/asar/pull/348)
+[![Screenshot of the September 2025 \`asar\` cheatsheet.](images/asar_cheatsheet_20250910.png)](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf)
 
 ## Kelli Johnson: Cheatsheet for the FIMS package
 
