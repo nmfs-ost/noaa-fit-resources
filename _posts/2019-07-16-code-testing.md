@@ -81,7 +81,7 @@ the `testthat::test_check()` function is called.
 
 ## Code coverage
 
-Once you think you have a good suite of test cases created, there are
+Once a suite of tests is created, there are
 many automated tools you can use to see how much of your code is covered
 by automated tests. If you'd like to track this, you can even create a
 badge for your repository (and your toolbox landing page) that
@@ -93,5 +93,4 @@ coverage over time. This will indicate that you are introducing test
 cases to cover new functionality at the same rate that you add new
 features to your software.
 
-For R packages, the [calc-coverage](https://nmfs-fish-tools.github.io/ghactions4r/reference/use_calc_coverage.html) 
-workflow in `{ghactions4r}` can make it easier to set up code coverage.
+For R packages, a workflow to [create a coverage badge](https://nmfs-ost.github.io/ghactions4r/reference/use_create_cov_badge.html) can be set up entirely on GitHub (to avoid pushing to an unapproved third party cloud). Additionally, a workflow to [calculate a summary and post it on pull requests](https://nmfs-ost.github.io/ghactions4r/reference/use_calc_cov_summaries.html) can also be set up on GitHub.
