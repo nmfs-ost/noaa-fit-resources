@@ -11,6 +11,7 @@ tags:
   - developer resources
 
 ---
+*By Megsie Siple and the NOAA Fisheries Integrated Toolbox Committee*
 
 Congratulations, you have planted your software in the NOAA software ecosystem. It is functioning as it should, it looks great, and it’s producing fruits for the people who use it.
 
@@ -54,4 +55,3 @@ There are also some [helpful tips from Open Source Guides](https://opensource.gu
 
 Tool maintenance and continuity are important parts of a healthy software ecosystem, and a solid maintenance practice is also important for getting mandated science work done and done well. 
 
-**This post was written by Megsie Siple and the NOAA FIsheries Integrated Toolbox Committee.**
