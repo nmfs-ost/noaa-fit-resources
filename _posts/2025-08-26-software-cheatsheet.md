@@ -1,5 +1,5 @@
 ---
-title: "Make your own software cheetsheet"
+title: "Make your own software cheatsheet"
 excerpt: "Tips and tools for making a user-friendly cheatsheet"
 date: 2025-12-09
 toc: true
@@ -40,10 +40,6 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 - I used open source icons from [Ionicons](https://ionic.io/ionicons) and [Feather](https://feathericons.com/) to symbolize the purpose of each section.  
 - I used [this Posit cheatsheet pptx template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx), then downloaded it as a PDF.
 
-### Current cheatsheet snapshot
-
-[![Screenshot of the September 2025 \`{asar}\` cheatsheet.](images/asar_cheatsheet_20250910.png)](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf)
-
 ## Samantha Schiano: Cheatsheet for the `{stockplotr}` R package
 
 I am a member of the team that develops `{asar}` (the package mentioned by Sophie Breitbart earlier in this blog post\!). We also develop a sister package called `{stockplotr}` which focuses on creating tables and plots for fisheries stock assessments. There are an increasing number of awesome functions we have developed to allow users to create their plots and tables in one click or customize themselves. While Sophie took on the task of developing the cheatsheet for `{asar}`, I took on creating the cheatsheet for `{stockplotr}`. I aimed to make a similar looking cheatsheet to `{asar}` in order to create a cohesive feel across our packages. It was also my first time making a cheatsheet and I learned a lot from Sophie and through my own process.
@@ -71,7 +67,7 @@ Lastly, don't feel pressured to just have a 1-pager\! As we develop and expand `
     
 - I gained inspiration from the [`{ggplot2}` cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf) and the [`{dplyr}` cheatsheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf).
 
-## Kelli Johnson: Cheatsheet for the FIMS package
+## Kelli Johnson: Cheatsheet for the `{FIMS}` package
 
 Like others, my inspiration for creating a cheatsheet came from my consistent use of Posit cheatsheets. In fact, I have my book of cheatsheets from the 2024 Posit conference within arms reach of my desk at all times. I find that these cheatsheets offer information that just cannot be found through the traditional R documentation, i.e.,`?function_name`, and I often go to them for their visuals rather than their text.
 
