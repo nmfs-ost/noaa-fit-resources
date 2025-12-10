@@ -14,7 +14,7 @@ tags:
 ---
 Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
 
-## Sophie Breitbart: Cheatsheet for the `{asar}` R package
+## Sophie Breitbart: Cheatsheet for the `asar` R package
 
 At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/) coworking, I shared that I'd finished [the first version of the `{asar}` cheatsheet](https://github.com/nmfs-ost/asar/blob/0a8fd9678800e068e301b94b67b00f40106a64d5/pkgdown/assets/asar_cheatsheet.pdf). After some further feedback, [the cheatsheet was updated once more](https://nmfs-ost.github.io/asar/asar_cheatsheet.pdf). We plan to continually update the cheatsheet as our package evolves. Here's some insight into how I made this cheatsheet (my first!):
 
@@ -40,9 +40,9 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 - I used open source icons from [Ionicons](https://ionic.io/ionicons) and [Feather](https://feathericons.com/) to symbolize the purpose of each section.  
 - I used [this Posit cheatsheet pptx template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx), then downloaded it as a PDF.
 
-## Samantha Schiano: Cheatsheet for the `{stockplotr}` R package
+## Samantha Schiano: Cheatsheet for the `stockplotr` R package
 
-I am a member of the team that develops `{asar}` (the package mentioned by Sophie Breitbart earlier in this blog post\!). We also develop a sister package called `{stockplotr}` which focuses on creating tables and plots for fisheries stock assessments. There are an increasing number of awesome functions we have developed to allow users to create their plots and tables in one click or customize themselves. While Sophie took on the task of developing the cheatsheet for `{asar}`, I took on creating the cheatsheet for `{stockplotr}`. I aimed to make a similar looking cheatsheet to `{asar}` in order to create a cohesive feel across our packages. It was also my first time making a cheatsheet and I learned a lot from Sophie and through my own process.
+I am a member of the team that develops `{asar}` (the package mentioned by Sophie Breitbart earlier in this blog post\!). We also develop a sister package called `stockplotr` which focuses on creating tables and plots for fisheries stock assessments. There are an increasing number of awesome functions we have developed to allow users to create their plots and tables in one click or customize themselves. While Sophie took on the task of developing the cheatsheet for `{asar}`, I took on creating the cheatsheet for `{stockplotr}`. I aimed to make a similar looking cheatsheet to `{asar}` in order to create a cohesive feel across our packages. It was also my first time making a cheatsheet and I learned a lot from Sophie and through my own process.
 
 ### Approach
 
@@ -67,7 +67,7 @@ Lastly, don't feel pressured to just have a 1-pager\! As we develop and expand `
     
 - I gained inspiration from the [`{ggplot2}` cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf) and the [`{dplyr}` cheatsheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf).
 
-## Kelli Johnson: Cheatsheet for the `{FIMS}` package
+## Kelli Johnson: Cheatsheet for the `FIMS` package
 
 Like others, my inspiration for creating a cheatsheet came from my consistent use of Posit cheatsheets. In fact, I have my book of cheatsheets from the 2024 Posit conference within arms reach of my desk at all times. I find that these cheatsheets offer information that just cannot be found through the traditional R documentation, i.e.,`?function_name`, and I often go to them for their visuals rather than their text.
 
@@ -75,13 +75,13 @@ Like others, my inspiration for creating a cheatsheet came from my consistent us
 
 Posit makes it extremely easy to mimic the structure of their cheatsheets with their publicly-available [powerpoint template](https://github.com/rstudio/cheatsheets/blob/main/powerpoints/0-template.pptx) on their [GitHub repository](https://github.com/rstudio/cheatsheets), which stores pdf versions of their cheatsheets. I followed the [instructions in their README](https://github.com/rstudio/cheatsheets?tab=readme-ov-file#process) for how to edit their template to create a cheatsheet for [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS). Given that we had already created a [vignette for beginners](https://noaa-fims.github.io/FIMS/articles/fims-demo.html), it was easy to decide the flow of the cheatsheet, which mimics the flow of the vignette.
 
-Where I deviated from the Posit instructions is in getting feedback. The instructions emphasize that the design process will be iterative but they do not stress the importance of getting feedback from individuals outside of the development team. Developers have too much background information to be able to “see” the vignette for the first time, similar to how native speakers of a language can deal with [typoglycemia](https://www.dictionary.com/e/typoglycemia/). To ensure that new users would find the vignette helpful we had to test it out on new users. Therefore, we held a work session to get feedback from two individuals who had never used the package before and two individuals who were on the development team. The combination of their perspectives really helped bring the cheatsheet to the next level.
+Where I deviated from the Posit instructions is in getting feedback. The instructions emphasize that the design process will be iterative but they do not stress the importance of getting feedback from individuals outside of the development team. Developers have too much background information to be able to "see" the vignette for the first time, similar to how native speakers of a language can deal with [typoglycemia](https://www.dictionary.com/e/typoglycemia/). To ensure that new users would find the vignette helpful, we had to test it out on new users. Therefore, we held a work session to get feedback from two individuals who had never used the package before and two individuals who were on the development team. The combination of their perspectives really helped bring the cheatsheet to the next level.
 
-When receiving feedback, it is often difficult to wade through all of the comments without getting lost. I try to group comments together into similar themes and focus on the theme with the most feedback first. Additionally, sometimes I do not understand what someone else’s vision would look like so I will ask them to directly edit the cheatsheet the way they think it should look. Given that google slides allows you to revert back using the history, I am not concerned with maintaining a copy of the original cheatsheet while they are editing. I feel that by allowing the provider of the feedback to have direct edit access they may feel more empowered, recognized, and willing to contribute. Their ideas were often quite good and we typically ended up keeping their edits.
+When receiving feedback, it is often difficult to wade through all of the comments without getting lost. I try to group comments together into similar themes and focus on the theme with the most feedback first. Additionally, sometimes I do not understand what someone else's vision would look like so I ask them to directly edit the cheatsheet the way they think it should look. Given that google slides allows you to revert back using the history, I am not concerned with maintaining a copy of the original cheatsheet while they are editing. I feel that by allowing the provider of the feedback to have direct edit access they may feel more empowered, recognized, and willing to contribute. Their ideas were often quite good and we typically ended up keeping their edits.
 
 While designing the cheatsheet I felt like I spent too much time on icons that I ended up not using. I feel like I should have focused more time on the visuals that represent functions, e.g., table snapshots and function output. 
 
-The beauty of the process is that it is not over. We tagged the slide with the version and each time we have a new release of [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS) we can update the slide deck given comments we have received. It will be important to keep asking for feedback though because many have comments but do not actively voice them or even know where to provide them.
+The beauty of this process is that it is not over. We tagged the slide with the version and each time we have a new release of [`{FIMS}`](https://noaa-fisheries-integrated-toolbox.r-universe.dev/FIMS) we can update the slide deck given comments we have received. It will be important to keep asking for feedback though because many have comments but do not actively voice them or even know where to provide them.
 
 ### Next Steps
 
