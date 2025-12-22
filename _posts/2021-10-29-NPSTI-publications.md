@@ -86,7 +86,7 @@ Solsona-Berga A, Frasier KE, Baumann-Pickering S, Wiggins SM, Hildebrand JA. 202
 
 Stock, B. C., Ward, E. J., Eguchi, T., Jannot, J. E., Thorson, J. T., Feist, B. E., & Semmens, B. X. 2020. Comparing predictions of fisheries bycatch using multiple spatiotemporal species distribution model frameworks. Canadian Journal of Fisheries and Aquatic Sciences, 77(1), 146-163. [https://doi.org/10.1139/cjfas-2018-0281](https://doi.org/10.1139/cjfas-2018-0281)
 
-Viehman, T.S., M. Nemeth, S.H. Groves, C.A. Buckel, S. Griffin, D. Field, T.D. Moore, J. Moore. 2020. Coral assessment and restoration in the U.S. Caribbean after 2017 hurricanes. NOAA National Ocean Service, National Centers for Coastal Ocean Science. NOAA Technical Memorandum 278. Silver Spring, MD. 64 pp. [https://doi.org/10.25923/7r0b-wc52.](https://doi.org/10.25923/7r0b-wc52.)
+Viehman, T.S., M. Nemeth, S.H. Groves, C.A. Buckel, S. Griffin, D. Field, T.D. Moore, J. Moore. 2020. Coral assessment and restoration in the U.S. Caribbean after 2017 hurricanes. NOAA National Ocean Service, National Centers for Coastal Ocean Science. NOAA Technical Memorandum 278. Silver Spring, MD. 64 pp. [https://doi.org/10.25923/7r0b-wc52](https://doi.org/10.25923/7r0b-wc52).
 
 ## 2019 Publications 
 
