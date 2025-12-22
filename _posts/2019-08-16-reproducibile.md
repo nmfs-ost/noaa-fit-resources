@@ -98,7 +98,7 @@ barrier to reproducible results. This might seem like a small issue, but
 it often doesn't take much to dissuade someone from creating custom code
 rather than reusing a published, reproducible example. Jenny Bryan expresses why
  this  matters and what to do instead in a 
-[blog post on project-oriented workflows](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/).
+[blog post on project-oriented workflows](https://tidyverse.org/blog/2017/12/workflow-vs-script/).
 
 Luckily, there are a number of tools you can use to capture software
 environments, emulate them in remote instances or on different
@@ -118,4 +118,3 @@ Other options include:
 
 - [Binder](https://mybinder.org/)
 - [Holepunch](https://github.com/karthik/holepunch)
-- [Jupyter and conda for R](https://anaconda.org/chdoig/jupyter-and-conda-for-r/notebook)
