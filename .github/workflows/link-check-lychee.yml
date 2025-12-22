@@ -6,7 +6,8 @@ on:
   # You can also run it on a schedule (e.g., every Monday at 1 AM)
   # schedule:
   #   - cron: '0 1 * * 1'
-permissions: {}
+permissions:
+  issues: read
 
 jobs:
   link-checker:
