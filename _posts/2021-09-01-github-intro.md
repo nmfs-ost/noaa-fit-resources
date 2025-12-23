@@ -30,7 +30,7 @@ GitHub helps you share code more readily. People can see your code and copy it d
 
 People can also [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) your repository to have their own repository on GitHub that keeps up with changes to the your repo. On their fork, they can make changes, and then open a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to suggest changes to your codebase.
 
-You can [‘add collaborators’](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time.
+You can [‘add collaborators’](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository) to a repository so multiple people can work on it at the same time.
 
 ## GitHub Vocabulary
 

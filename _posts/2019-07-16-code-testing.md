@@ -18,7 +18,7 @@ tags:
 We recommend tool developers create *unit tests* and *integrated tests*
 to to validate their
 software. Once these test cases are created, they may be added to a
-continuous integration tool (such as [GitHub Actions](https://docs.github.com/en/actions/quickstart)) so that every time a pull
+continuous integration tool (such as [GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart)) so that every time a pull
 request is merged in on Github, this suite of tests is run.
 
 For R packages, we recommend trying out the FIT-maintained 
