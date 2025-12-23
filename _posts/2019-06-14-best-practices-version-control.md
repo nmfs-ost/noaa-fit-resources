@@ -84,7 +84,7 @@ software versions. Patches may be applied to legacy versions to port bug
 fixes when necessary. The post on [Dependency management](https://nmfs-ost.github.io/noaa-fit-resources/developer%20resources/dependency-management/) provides more guidance.
 
 A good way to manage this is using GitHub releases. GitHub
-[releases](https://help.github.com/en/categories/releases) are designed
+[releases](https://docs.github.com/en/repositories/releasing-projects-on-github) are designed
 to keep a consistent log of the most recent software version. You can
 create a release by pushing a commit with a tag that corresponds to a
 semantic version (for example, tag 1.0.0 to release version 1.0), or by

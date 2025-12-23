@@ -11,6 +11,6 @@ tags:
   - software
 ---
 
-A [set of guidelines](https://github.com/nmfs-fish-tools/Resources/blob/main/CONTRIBUTING.md) for contributing to tools hosted on the NOAA Fisheries Toolbox is available. NOAA FIT hotsted tools are in the [NMFS Fish Tools Organization](https://github.com/nmfs-fish-tools).
+A [set of guidelines](https://github.com/nmfs-ost/FIT-resource-files/blob/main/CONTRIBUTING.md) for contributing to tools hosted on the NOAA Fisheries Toolbox is available.
 
 These contributing guidelines can also be linked to other NOAA Fisheries software projects.

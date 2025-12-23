@@ -105,7 +105,7 @@ here. However, we recommend you adhere to standard data formats and
 provide at least some background information and metadata for each
 dataset. [Schema.org](https://schema.org/) has common vocabulary that can be used. For NOAA, there is also a [Data Management Handbook](https://sites.google.com/noaa.gov/noaa-data/handbook) that includes guidance. If your software is an `R`
 package, you should refer to this excellent
-[guidance](http://r-pkgs.had.co.nz/data.html) from Hadley Wickham. You
+[guidance](https://r-pkgs.org/data.html) from Hadley Wickham. You
 may also want to provide dynamic links to online databases - many APIs
 allow users to download data in a .JSON format, which can be converted
 to `R` dataframes using the `jsonlite` package.
