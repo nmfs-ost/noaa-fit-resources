@@ -23,4 +23,4 @@ bayesdfa implements Bayesian Dynamic Factor Analysis (DFA) with Stan. The follow
 
 ## Interactive nmfspalette tutorial
 
-The [nmfspalette R package](https://nmfs-fish-tools.github.io/nmfspalette/) provides NMFS themed color palettes to use with R. Learn more through the [Interactive nmfspalette colors tutorial](https://connect.fisheries.noaa.gov/colors/).
+The [nmfspalette R package](https://nmfs-ost.github.io/nmfspalette/) provides NMFS themed color palettes to use with R. Learn more through the [Interactive nmfspalette colors tutorial](https://connect.fisheries.noaa.gov/colors/).

@@ -24,7 +24,7 @@ The FIT coordinator will fill out the following checklist, which must be met for
 - [ ] Metadata complete, as determined by running against the json schema
 - [ ] Links in metadata work
 - [ ] A license is included (where appropriate, [an open source license](https://opensource.org/licenses/)).
-- [ ] For NOAA developed products where the source code is linked, there is a [NOAA disclaimer](https://github.com/nmfs-fish-tools/resources?tab=readme-ov-file#noaa-license) on the readme.
+- [ ] For NOAA developed products where the source code is linked, there is a [NOAA disclaimer](https://github.com/nmfs-ost/FIT-resource-files?tab=readme-ov-file#noaa-license) on the readme.
 - [ ] After review: Add FIT badges to metadata based on reviewer's work.
 
 # Checklists for reviewers

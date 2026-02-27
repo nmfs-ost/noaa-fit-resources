@@ -22,7 +22,7 @@ continuous integration tool (such as [GitHub Actions](https://docs.github.com/en
 request is merged in on Github, this suite of tests is run.
 
 For R packages, we recommend trying out the FIT-maintained 
-[ghactions4r package](https://nmfs-fish-tools.github.io/ghactions4r/). `{ghactions4r}` 
+[ghactions4r package](https://nmfs-ost.github.io/ghactions4r/). `{ghactions4r}` 
 reduces the GitHub actions learning curve by providing reusable workflows and helper 
 functions for common R package development workflows (such as `devtools::check()`).
 
