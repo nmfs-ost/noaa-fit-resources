@@ -3,7 +3,7 @@ name: Check for Broken Links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 3 * * 7'
+    - cron: '7 3 * * 0'
 
 permissions:
   issues: read
@@ -21,4 +21,5 @@ jobs:
         with:
           args: --accept '200, 302, 401..=403' . --exclude-path '_includes/footer.html' --exclude-path 'index.md' --exclude-path '_posts/2021-05-07-library-seminars.md' --exclude-path '_posts/2021-11-08-MRIP-seminars.md' --verbose
           fail: true
+
       
