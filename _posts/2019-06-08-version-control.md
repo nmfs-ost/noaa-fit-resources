@@ -58,7 +58,7 @@ Using Git and GitHub on your own can be as simple as making commits and pushing
 them up to your main branch.
 
 However, as you collaborate with more people, more complex workflows are necessary
-to help organize changes being done simultaneously. [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) is common while working on GitHub, but [other workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) are valid. What is important is for the group working together 
+to help organize changes being done simultaneously. [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) is common while working on GitHub, but [other workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) are valid. What is important is for the group working together 
 to decide on a workflow and modify it as needed so that it works for them.
 
 ### Some helpful Git commands

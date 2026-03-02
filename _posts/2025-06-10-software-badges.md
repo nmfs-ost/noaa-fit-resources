@@ -27,7 +27,7 @@ Below are some selected examples of specific types of badges that could be helpf
 
 ### GitHub Actions Badges
 
-It is possible to [display a badge indicating the status](https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge) of a GitHub action workflow.
+It is possible to [display a badge indicating the status](https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge) of a GitHub action workflow.
 
 ### Code Coverage Badge
 

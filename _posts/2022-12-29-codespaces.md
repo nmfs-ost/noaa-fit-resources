@@ -23,7 +23,7 @@ Codespaces can be easily used from a repository on GitHub, if the specification 
 
 ## What if there are no specification files?
 
-If the specification files still need to be set up, there is [detailed documentation for how to set up Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/introduction-to-dev-containers). Below, we provide guidance for setting up codespaces for R package development. 
+If the specification files still need to be set up, there is [detailed documentation for how to set up Codespaces](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers). Below, we provide guidance for setting up codespaces for R package development. 
 
 ## How do I set up Codespaces for R package development?
 
