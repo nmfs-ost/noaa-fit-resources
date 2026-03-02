@@ -2,6 +2,8 @@ name: Check for Broken Links
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '7 3 * * 7'
 
 permissions:
   issues: read
