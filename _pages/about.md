@@ -8,7 +8,7 @@ sidebar:
 
 ## Our mission
 
-The FIT curates publicly accessible software tools that NOAA Fisheries scientists use and develop to support research and operational scientific work. Through curating software, the FIT promotes use of the best available scientific software tools to support living marine resource management. The FIT strives to promote [FAIR (Findable, Accessible, Interoperable, Reusable) principles for research software](https://www.nature.com/articles/s41597-022-01710-x).
+The FIT curates publicly accessible software tools that NOAA Fisheries scientists use and develop to support research and operational scientific work. Through curating software, the FIT promotes use of the best available scientific software tools to support living marine resource management. The FIT strives to promote [FAIR (Findable, Accessible, Interoperable, Reusable) principles for research software](https://doi.org/10.1038/s41597-022-01710-x).
 
 ## Scope Statement
 

@@ -86,7 +86,7 @@ management tools include [`Kepler`](https://kepler-project.org/) and
 Interactive notebooks capture the benefits of literate programming approaches, by
 incorporating descriptive text with code, as well as allowing real-time editing 
 and re-running of the code. Some commonly used notebook formats are [R
-notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html) and [Jupyter
+notebooks](https://yihui.org/rmarkdown/notebook) and [Jupyter
 notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html).
 
 ## Capturing/emulating software environments

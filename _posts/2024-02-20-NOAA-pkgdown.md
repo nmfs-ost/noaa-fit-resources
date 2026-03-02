@@ -22,7 +22,7 @@ Below are the 4 steps for creating a NOAA themed pkgdown webpage, with NOAA colo
   ```
   @import url("https://nmfs-ost.github.io/nmfspalette/extra.css");
   ```
-This will allow the [CSS file with NMFS styling](https://nmfs-ost.github.io/nmfspalette/extra.css) to be used for your pkgdown site. Optional: For those who wish to dive deeper, read an [overview on what CSS is](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) to understand what the css file is doing.
+This will allow the [CSS file with NMFS styling](https://nmfs-ost.github.io/nmfspalette/extra.css) to be used for your pkgdown site. Optional: For those who wish to dive deeper, read an [overview on what CSS is](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS) to understand what the css file is doing.
 
 3. If you don't have one already, add a [NOAA Disclaimer](https://raw.githubusercontent.com/nmfs-ost/FIT-resource-files/refs/heads/main/Disclaimer.md) to the footer of your README.md that will be automatically added to your pkgdown page.
   ```
