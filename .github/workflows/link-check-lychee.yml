@@ -18,5 +18,5 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: --accept '200, 302, 401..=403' . --exclude-path '_includes/footer.html' --exclude-path 'index.md' --exclude-path '_posts/2021-05-07-library-seminars.md' --exclude-path '_posts/2021-11-08-MRIP-seminars.md' --verbose
-          fail: false
+          fail: true
       
