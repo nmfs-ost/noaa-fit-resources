@@ -12,7 +12,7 @@ tags:
   - software
   
 ---
-Have you been curious about making a [cheatsheet](https://posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
+Have you been curious about making a [cheatsheet](https://opensource.posit.co/resources/cheatsheets/) for your software? This can be a helpful way to share with users the essential knowledge of how to use your software. Here are some ideas based on recent experiences of developers putting together cheatsheets.
 
 ## Sophie Breitbart: Cheatsheet for the `asar` R package
 
@@ -20,7 +20,7 @@ At a late August [NOAA Fisheries Openscapes](https://nmfs-openscapes.github.io/)
 
 ### Approach
 
-- I looked at several cheatsheets for design inspiration first. Here are links to cheatsheets from [Posit](https://posit.co/resources/cheatsheets/) and [contributors](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html).  
+- I looked at several cheatsheets for design inspiration first. Here are links to cheatsheets from [Posit](https://opensource.posit.co/resources/cheatsheets/) and [contributors](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html).  
 - I read [some guidance for designing a cheatsheet](https://github.com/dmvillarreal/cheatsheets/tree/master?tab=readme-ov-file). I certainly didn't follow all of it, but it had some great reminders about balancing text with visual depictions, emphasis on conciseness and differentiation from documentation, and the value of sample code.  
 - I also started a back-and-forth with Gemini to see what it could produce. I supplied it a link to `{asar}`'s functions and asked it to make a cheatsheet that looked similar to Posit's cheatsheets. I tried several prompts to get it to produce something I liked, but I ultimately gave up. It was still useful though, in that this exercise showed me what I did and didn't want in a cheatsheet:  
   - Gemini grouped content by function type but I realized I wanted `{asar}`'s to be structured by workflow (i.e., chronologically, so to speak).  
@@ -65,7 +65,7 @@ Lastly, don't feel pressured to just have a 1-pager\! As we develop and expand `
 
 - I used the same open source icons and cheatsheet template as Sophie.  
     
-- I gained inspiration from the [`{ggplot2}` cheatsheet](https://posit.co/wp-content/uploads/2022/10/data-visualization-1.pdf) and the [`{dplyr}` cheatsheet](https://rstudio.github.io/cheatsheets/data-transformation.pdf).
+- I gained inspiration from the [`{ggplot2}` cheatsheet](https://opensource.posit.co/resources/cheatsheets/data-visualization/) and the [`{dplyr}` cheatsheet](https://opensource.posit.co/resources/cheatsheets/data-transformation/).
 
 ## Kelli Johnson: Cheatsheet for the `FIMS` package
 
