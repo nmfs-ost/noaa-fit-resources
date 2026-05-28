@@ -1,7 +1,7 @@
 ---
 title: "FIT Tool Quality Standards"
 excerpt: "Learn more about the FIT tool quality standards"
-date: 2024-5-21
+date: 2026-5-28
 toc: true
 categories:
   - NOAA FIT
@@ -15,17 +15,15 @@ tags:
 
 ## What are the FIT tool quality standards?
 
-The FIT tool quality standards are a way for users to quickly know about the quality of a FIT tool. These standards also incentivise good coding and documentation practices for developers. The required tool quality badges will be assigned by a reviewer during the onboarding and biannual tool quality review processes. 
+The FIT tool quality standards are a way for users to quickly know about the quality of a FIT tool. These standards also incentivize good coding and documentation practices for developers.
 
 ## Which software tools within the FIT do tool quality standards apply to?
 
-These standard will apply to all new tools onboarded to the toolbox, as well as tools developed or actively maintained since January 2019.
+Currently, we are beta testing the FIT tool quality standards checklist and peer review process. Once implemented, these standard will apply to all new tools onboarded to the toolbox, as well as tools developed or actively maintained since January 2019.
 
 ## How will the FIT tool quality standards be applied?
 
-The tool quality standards will first be applied to existing tools in the FIT developed or actively maintained since January 2019. These standards will begin to be applied in July 2024.
-
-The tool quality standards will then be applied to all new tools during the onboarding process starting in 2025. If developers request onboarding before this time, their tools will be onboarded with complete metadata, and the tool quality standards will be applied to their tool in 2025.
+Software will undergo a peer review process where a checklist of standards is applied to the software.
 
 After the initial review, tools will be reviewed biannually to check that they still meet the tool quality standards.
 
