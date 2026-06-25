@@ -19,6 +19,8 @@ First, why would you even want to experiment with WSL on a Windows computer? The
 
 Second, we found a huge cost saving by installing WSL because we were able to limit our use of codespaces (which is a Linux environment) once we were able to mimic the process on our own computer. Not only is WSL helpful for using gdb but it is also helpful for debugging failed GitHub workflows that are often running on Linux environments. As we are pushed to do more and more in the cloud, learning how to navigate Linux systems using WSL will pay off more and more.
 
+Third, many projects provide a `devcontainer.json` file in the `.devcontainer` directory that facilitates launching a fully configured environment inside of VS Code without needing to manually install project dependencies, compilers, or other system tools on your local machine. In fact, these configuration files are becoming more prevalent as the use of [GitHub codespaces](https://github.com/features/codespaces) increases and as more people use [{renv}](https://rstudio.github.io/renv/articles/renv.html) for package management.
+
 We decided to write this blog post because installing WSL2 on a NOAA Windows computer takes a bit more work than the instructions that are readily available and we wanted to limit the barrier to entry. Especially because we noticed that not many people ask IT to install WSL2, even though both WSL2 and Docker Engine are on the [approved software list](https://docs.google.com/spreadsheets/d/1oPaTegdBGEmkjrmkbOVjGAJpPFg755p3Wws50ddLwCI/edit?usp=sharing), so your local IT might not know all the tips and tricks for a seamless process.
 
 ## Install WSL2 and Docker Engine
@@ -56,3 +58,9 @@ wsl --list --verbose
 ```bash
 wsl --install -d Ubuntu
 ```
+
+## Using WSL
+
+This blog post is about installing WSL for NOAA computers that use Windows and not about how to use it. But, there are many other posts about using WSL on the internet, e.g., [Microsoft's Get started using VS Code with WSL](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode). Additionally, there are instructions in the [FIMS repository](https://github.com/NOAA-FIMS/FIMS/tree/main/.devcontainer#-wsl2) on how to use WSL with FIMS.
+
+Best of luck. And, feel free to reach out to the [FIMS developers](https://noaa-fims.github.io/contact/) if you have questions.
