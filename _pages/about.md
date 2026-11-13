@@ -38,4 +38,4 @@ The FIT committee is currently working on [testing and documentation standards](
 
 ### What is the FIT committee working on?
 
-See the FIT committee's [2025 Strategic Plan Tracking](https://github.com/orgs/nmfs-ost/projects/33).
+See the FIT committee's [Action Plan Tracking](https://github.com/nmfs-ost/FIT-committee/projects). At the beginning of each new fiscal year (starts in October) the action plan may be under development.
